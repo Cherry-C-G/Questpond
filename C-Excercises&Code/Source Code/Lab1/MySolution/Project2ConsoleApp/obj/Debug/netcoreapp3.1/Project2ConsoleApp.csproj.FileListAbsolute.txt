@@ -1,0 +1,14 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\Project2ConsoleApp.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\Project2ConsoleApp.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\Project2ConsoleApp.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\Project2ConsoleApp.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\Project2ConsoleApp.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\Project2ConsoleApp.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\Project2ConsoleApp.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\Project2ConsoleApp.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\Project2ConsoleApp.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\Project2ConsoleApp.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\Project2ConsoleApp.csprojAssemblyReference.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\SomeCommonLogic.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\SomeCommonLogic.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\Project2ConsoleApp.csproj.CopyComplete

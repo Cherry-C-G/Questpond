@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\bin\Debug\netcoreapp3.1\ProjectDbContext.deps.json
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\bin\Debug\netcoreapp3.1\ProjectDbContext.dll
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\obj\Debug\netcoreapp3.1\ProjectDbContext.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\obj\Debug\netcoreapp3.1\ProjectDbContext.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\obj\Debug\netcoreapp3.1\ProjectDbContext.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\bin\Debug\netcoreapp3.1\ProjectDbContext.pdb
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\obj\Debug\netcoreapp3.1\ProjectDbContext.dll
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\obj\Debug\netcoreapp3.1\ProjectDbContext.pdb
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\bin\Debug\netcoreapp3.1\PatientModel.dll
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\bin\Debug\netcoreapp3.1\PatientModel.pdb
+C:\Users\Dell\source\repos\MVCCoreMayTraining\ProjectDbContext\obj\Debug\netcoreapp3.1\ProjectDbContext.csproj.CopyComplete

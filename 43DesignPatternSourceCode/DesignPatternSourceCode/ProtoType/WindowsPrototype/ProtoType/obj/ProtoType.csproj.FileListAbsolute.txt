@@ -1,0 +1,5 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\ProtoType\bin\Debug\ProtoType.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\ProtoType\bin\Debug\ProtoType.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\ProtoType\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\ProtoType\obj\Debug\ProtoType.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\ProtoType\obj\Debug\ProtoType.pdb

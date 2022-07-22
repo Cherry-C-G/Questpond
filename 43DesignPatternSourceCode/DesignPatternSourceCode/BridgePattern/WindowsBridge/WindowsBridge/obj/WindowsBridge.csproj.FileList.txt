@@ -1,0 +1,7 @@
+obj\Debug\WindowsBridge.exe
+obj\Debug\WindowsBridge.pdb
+bin\Debug\WindowsBridge.exe
+bin\Debug\WindowsBridge.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsBridge.Properties.Resources.resources
+obj\Debug\WindowsBridge.csproj.GenerateResource.Cache

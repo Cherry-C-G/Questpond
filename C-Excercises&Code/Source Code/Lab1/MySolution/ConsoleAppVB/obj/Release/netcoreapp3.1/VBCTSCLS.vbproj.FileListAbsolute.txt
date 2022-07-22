@@ -1,0 +1,16 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Release\netcoreapp3.1\VBCTSCLS.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Release\netcoreapp3.1\VBCTSCLS.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Release\netcoreapp3.1\VBCTSCLS.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Release\netcoreapp3.1\VBCTSCLS.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Release\netcoreapp3.1\VBCTSCLS.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Release\netcoreapp3.1\VBCTSCLS.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Release\netcoreapp3.1\DLLConcept.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Release\netcoreapp3.1\DLLConcept.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Release\netcoreapp3.1\VBCTSCLS.vbprojAssemblyReference.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Release\netcoreapp3.1\VBCTSCLS.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Release\netcoreapp3.1\VBCTSCLS.AssemblyInfo.vb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Release\netcoreapp3.1\VBCTSCLS.vbproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Release\netcoreapp3.1\VBCTSCLS.vbproj.CopyComplete
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Release\netcoreapp3.1\VBCTSCLS.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Release\netcoreapp3.1\VBCTSCLS.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Release\netcoreapp3.1\VBCTSCLS.genruntimeconfig.cache

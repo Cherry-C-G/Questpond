@@ -1,0 +1,38 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 1.literal
+        var pat = {"name":"","address":""};
+        pat.Admit = function(){
+            alert("I am admitted");
+        }
+        // 2. object.create
+        var patnew = Object.create(pat);
+        patnew.age = 10;
+        // 3. constructor
+        function Patient(){
+            this.name = "";
+            this.address = "";
+            this.Admit = function(){
+
+            }
+        }
+        var pat1 = new Patient();
+        // 4. class 
+        class PatientClass{
+            constructor(name,address){
+                this.name = "";
+                this.address = "";
+            }
+        }
+        var p = new PatientClass();
+        
+    </script>
+</body>
+</html>

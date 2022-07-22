@@ -1,0 +1,45 @@
+{
+  "name": "express-react-ssr-starter",
+  "version": "1.0.0",
+  "description": "A starter for a project using ExpressJs and ReactJs with server side rendering.",
+  "main": "index.js",
+  "scripts": {
+    "dev:build:back": "babel ./server -d dist --watch",
+    "prod:build:back": "babel ./server -d dist",
+    "dev:build:front": "cross-env NODE_ENV=dev webpack --config webpack.config.dev.js",
+    "prod:build:front": "webpack --config webpack.config.prod.js",
+    "dev:launch:server": "nodemon --inspect=9230 dist/index.js",
+    "prod:launch:server": "pm2 start dist/index.js",
+    "start:dev": "npm-run-all --parallel dev:build:back dev:build:front dev:launch:server",
+    "start:prod": "npm run prod:build:back && npm run prod:build:front && npm run prod:launch:server"
+  },
+  "author": "Ana Luiza Cicconi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "pm2": "^2.7.2",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.6",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-module-resolver": "^3.0.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "cross-env": "^5.1.1",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "nodemon": "^1.12.1",
+    "npm-run-all": "^4.1.2",
+    "postcss-loader": "^2.0.8",
+    "style-loader": "^0.19.0",
+    "uglifyjs-webpack-plugin": "^1.0.1",
+    "webpack": "^3.8.1",
+    "webpack-merge": "^4.1.1"
+  }
+}

@@ -1,0 +1,9 @@
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\bin\Debug\WindowFormLINQ.exe
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\bin\Debug\WindowFormLINQ.pdb
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\obj\Debug\ResolveAssemblyReference.cache
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\obj\Debug\WindowFormLINQ.clsCustomer.resources
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\obj\Debug\WindowFormLINQ.Properties.Resources.resources
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\obj\Debug\WindowFormLINQ.csproj.GenerateResource.Cache
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\obj\Debug\WindowFormLINQ.exe
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\obj\Debug\WindowFormLINQ.pdb
+D:\SimpleLINQExample\WindowFormLINQ\WindowFormLINQ\obj\Debug\WindowFormLINQ.frmSimpleLINQExample.resources

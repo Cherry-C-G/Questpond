@@ -1,0 +1,10 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\bin\Debug\WindowsStatergy.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\bin\Debug\WindowsStatergy.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\obj\Debug\WindowsStatergy.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\obj\Debug\WindowsStatergy.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\obj\Debug\WindowsStatergy.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\obj\Debug\WindowsStatergy.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\obj\Debug\WindowsStatergy.Form1.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\bin\Debug\Statergy.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\WindowsStatergy\bin\Debug\Statergy.pdb

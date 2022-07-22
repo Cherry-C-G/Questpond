@@ -1,0 +1,8 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Mediator\WindowsMediator\WindowsMediator\bin\Debug\WindowsMediator.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Mediator\WindowsMediator\WindowsMediator\bin\Debug\WindowsMediator.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Mediator\WindowsMediator\WindowsMediator\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Mediator\WindowsMediator\WindowsMediator\obj\Debug\WindowsMediator.Form1.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Mediator\WindowsMediator\WindowsMediator\obj\Debug\WindowsMediator.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Mediator\WindowsMediator\WindowsMediator\obj\Debug\WindowsMediator.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Mediator\WindowsMediator\WindowsMediator\obj\Debug\WindowsMediator.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Mediator\WindowsMediator\WindowsMediator\obj\Debug\WindowsMediator.pdb

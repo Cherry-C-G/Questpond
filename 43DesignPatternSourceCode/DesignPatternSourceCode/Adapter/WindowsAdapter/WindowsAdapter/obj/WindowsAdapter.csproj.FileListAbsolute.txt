@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Adapter\WindowsAdapter\WindowsAdapter\bin\Debug\WindowsAdapter.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Adapter\WindowsAdapter\WindowsAdapter\bin\Debug\WindowsAdapter.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Adapter\WindowsAdapter\WindowsAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Adapter\WindowsAdapter\WindowsAdapter\obj\Debug\WindowsAdapter.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Adapter\WindowsAdapter\WindowsAdapter\obj\Debug\WindowsAdapter.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Adapter\WindowsAdapter\WindowsAdapter\obj\Debug\WindowsAdapter.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Adapter\WindowsAdapter\WindowsAdapter\obj\Debug\WindowsAdapter.pdb

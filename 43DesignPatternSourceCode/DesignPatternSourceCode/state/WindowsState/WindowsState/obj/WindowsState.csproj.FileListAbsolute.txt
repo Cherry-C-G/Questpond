@@ -1,0 +1,8 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\state\WindowsState\WindowsState\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\state\WindowsState\WindowsState\obj\Debug\WindowsState.Form1.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\state\WindowsState\WindowsState\obj\Debug\WindowsState.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\state\WindowsState\WindowsState\obj\Debug\WindowsState.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\state\WindowsState\WindowsState\bin\Debug\WindowsState.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\state\WindowsState\WindowsState\bin\Debug\WindowsState.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\state\WindowsState\WindowsState\obj\Debug\WindowsState.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\state\WindowsState\WindowsState\obj\Debug\WindowsState.pdb

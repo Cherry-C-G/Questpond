@@ -1,0 +1,11 @@
+obj\Debug\BuilderPatternClient.exe
+obj\Debug\BuilderPatternClient.pdb
+bin\Debug\BuilderPatternClient.exe
+bin\Debug\BuilderPatternClient.pdb
+bin\Debug\Builder.dll
+bin\Debug\Director.dll
+bin\Debug\Report.dll
+bin\Debug\Builder.pdb
+bin\Debug\Report.pdb
+bin\Debug\Director.pdb
+obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+
+public class clsInvoiceWithOutHeader implements IInvoice 
+{
+	public void print() 
+	{
+		
+
+	}
+
+}

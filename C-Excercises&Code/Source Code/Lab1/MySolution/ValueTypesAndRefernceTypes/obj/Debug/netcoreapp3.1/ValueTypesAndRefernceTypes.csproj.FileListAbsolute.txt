@@ -1,0 +1,13 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.csprojAssemblyReference.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ValueTypesAndRefernceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefernceTypes.genruntimeconfig.cache

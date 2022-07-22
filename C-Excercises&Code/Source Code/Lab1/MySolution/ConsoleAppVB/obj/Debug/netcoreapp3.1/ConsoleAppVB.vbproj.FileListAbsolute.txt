@@ -1,0 +1,11 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Debug\netcoreapp3.1\ConsoleAppVB.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Debug\netcoreapp3.1\ConsoleAppVB.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Debug\netcoreapp3.1\ConsoleAppVB.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Debug\netcoreapp3.1\ConsoleAppVB.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Debug\netcoreapp3.1\ConsoleAppVB.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\bin\Debug\netcoreapp3.1\ConsoleAppVB.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Debug\netcoreapp3.1\ConsoleAppVB.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Debug\netcoreapp3.1\ConsoleAppVB.AssemblyInfo.vb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Debug\netcoreapp3.1\ConsoleAppVB.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Debug\netcoreapp3.1\ConsoleAppVB.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ConsoleAppVB\obj\Debug\netcoreapp3.1\ConsoleAppVB.vbprojAssemblyReference.cache

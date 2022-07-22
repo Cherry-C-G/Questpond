@@ -1,0 +1,13 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\bin\Release\netcoreapp3.1\EnumsAndConstants.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\bin\Release\netcoreapp3.1\EnumsAndConstants.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\bin\Release\netcoreapp3.1\EnumsAndConstants.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\bin\Release\netcoreapp3.1\EnumsAndConstants.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\bin\Release\netcoreapp3.1\EnumsAndConstants.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\bin\Release\netcoreapp3.1\EnumsAndConstants.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\obj\Release\netcoreapp3.1\EnumsAndConstants.csprojAssemblyReference.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\obj\Release\netcoreapp3.1\EnumsAndConstants.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\obj\Release\netcoreapp3.1\EnumsAndConstants.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\obj\Release\netcoreapp3.1\EnumsAndConstants.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\obj\Release\netcoreapp3.1\EnumsAndConstants.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\obj\Release\netcoreapp3.1\EnumsAndConstants.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\EnumParamsDynamicRegex\obj\Release\netcoreapp3.1\EnumsAndConstants.genruntimeconfig.cache

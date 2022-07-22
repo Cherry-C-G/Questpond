@@ -1,0 +1,2 @@
+obj\Debug\WindowsFacadePattern.exe
+obj\Debug\WindowsFacadePattern.pdb

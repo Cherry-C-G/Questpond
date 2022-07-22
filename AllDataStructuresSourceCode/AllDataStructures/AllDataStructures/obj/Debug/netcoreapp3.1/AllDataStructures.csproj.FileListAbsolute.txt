@@ -1,0 +1,11 @@
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\bin\Debug\netcoreapp3.1\AllDataStructures.exe
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\bin\Debug\netcoreapp3.1\AllDataStructures.deps.json
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\bin\Debug\netcoreapp3.1\AllDataStructures.runtimeconfig.json
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\bin\Debug\netcoreapp3.1\AllDataStructures.runtimeconfig.dev.json
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\bin\Debug\netcoreapp3.1\AllDataStructures.dll
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\bin\Debug\netcoreapp3.1\AllDataStructures.pdb
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\obj\Debug\netcoreapp3.1\AllDataStructures.csprojAssemblyReference.cache
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\obj\Debug\netcoreapp3.1\AllDataStructures.AssemblyInfoInputs.cache
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\obj\Debug\netcoreapp3.1\AllDataStructures.AssemblyInfo.cs
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\obj\Debug\netcoreapp3.1\AllDataStructures.dll
+E:\shivprasad data\Data Structures\SourceCode\AllDataStructures\AllDataStructures\obj\Debug\netcoreapp3.1\AllDataStructures.pdb

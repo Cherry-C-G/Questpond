@@ -1,0 +1,8 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Singleton\WindowsSingleton\WindowsSingleton\bin\Debug\WindowsSingleton.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Singleton\WindowsSingleton\WindowsSingleton\bin\Debug\WindowsSingleton.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Singleton\WindowsSingleton\WindowsSingleton\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Singleton\WindowsSingleton\WindowsSingleton\obj\Debug\WindowsSingleton.Form1.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Singleton\WindowsSingleton\WindowsSingleton\obj\Debug\WindowsSingleton.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Singleton\WindowsSingleton\WindowsSingleton\obj\Debug\WindowsSingleton.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Singleton\WindowsSingleton\WindowsSingleton\obj\Debug\WindowsSingleton.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Singleton\WindowsSingleton\WindowsSingleton\obj\Debug\WindowsSingleton.pdb

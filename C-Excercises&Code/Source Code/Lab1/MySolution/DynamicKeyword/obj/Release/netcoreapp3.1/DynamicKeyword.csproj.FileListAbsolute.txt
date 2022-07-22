@@ -1,0 +1,12 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\bin\Release\netcoreapp3.1\DynamicKeyword.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\bin\Release\netcoreapp3.1\DynamicKeyword.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\bin\Release\netcoreapp3.1\DynamicKeyword.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\bin\Release\netcoreapp3.1\DynamicKeyword.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\bin\Release\netcoreapp3.1\DynamicKeyword.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\bin\Release\netcoreapp3.1\DynamicKeyword.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\obj\Release\netcoreapp3.1\DynamicKeyword.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\obj\Release\netcoreapp3.1\DynamicKeyword.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\obj\Release\netcoreapp3.1\DynamicKeyword.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\obj\Release\netcoreapp3.1\DynamicKeyword.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\obj\Release\netcoreapp3.1\DynamicKeyword.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\DynamicKeyword\obj\Release\netcoreapp3.1\DynamicKeyword.genruntimeconfig.cache

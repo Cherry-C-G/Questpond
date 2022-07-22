@@ -1,0 +1,21 @@
+import com.sun.corba.se.impl.interceptors.InterceptorInvoker;
+import com.sun.org.apache.bcel.internal.generic.IINC;
+
+import Invoice.*;
+
+public class clsFactoryInvoice 
+{
+static public IInvoice getInvoice(int intInvoice)
+{
+	 objInv=null;
+	if(intInvoice==1)
+	{
+		objInv = new clsInvoiceWithHeader();
+	}
+	if(intInvoice==2)
+	{
+		objInv = new clsInvoiceWithOutHeader();
+	}
+	return objInv;
+}
+}

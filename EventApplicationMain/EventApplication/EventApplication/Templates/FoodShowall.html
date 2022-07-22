@@ -1,0 +1,31 @@
+﻿<div class="container">
+
+      <h3><span class="label label-info">All Food Items</span></h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Food Name</th>
+                <th>Food Cost</th>
+                <th>Food View</th>
+                <th>Edit Food</th>
+                <th>Delete Food</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="List in FoodList">
+            <tr>
+                <td>{{List.FoodName}}</td>
+                <td>{{List.FoodCost}}</td>
+                <td>{{List.FoodType === "1" ? "Veg" : "Non-Veg"}}</td>
+                <td>{{List.MealType === "1" ? "Lunch" : "Dinner"}}</td>
+                <td>{{List.DishType === 2 ? "Deluxe" : "Regular"}}</td>
+                <td>
+                    <img alt="" width="200px" height="200px" ng-src="{{('../UploadedFiles/'+ List.FoodFilePath)}}" /></td>
+                <td>
+                    <input id="btnEdit" type="button" ng-click="EditFood(List.FoodID)" value="Edit" /></td>
+                <td>
+                    <input id="btndelete" type="button" ng-click="deleteFood(List.FoodID)" value="Delete" /></td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>

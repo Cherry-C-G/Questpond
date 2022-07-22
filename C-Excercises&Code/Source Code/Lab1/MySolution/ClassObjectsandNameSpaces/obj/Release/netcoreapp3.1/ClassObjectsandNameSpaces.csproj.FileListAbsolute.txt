@@ -1,0 +1,13 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\bin\Release\netcoreapp3.1\ClassObjectsandNameSpaces.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\bin\Release\netcoreapp3.1\ClassObjectsandNameSpaces.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\bin\Release\netcoreapp3.1\ClassObjectsandNameSpaces.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\bin\Release\netcoreapp3.1\ClassObjectsandNameSpaces.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\bin\Release\netcoreapp3.1\ClassObjectsandNameSpaces.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\bin\Release\netcoreapp3.1\ClassObjectsandNameSpaces.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\obj\Release\netcoreapp3.1\ClassObjectsandNameSpaces.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\obj\Release\netcoreapp3.1\ClassObjectsandNameSpaces.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\obj\Release\netcoreapp3.1\ClassObjectsandNameSpaces.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\obj\Release\netcoreapp3.1\ClassObjectsandNameSpaces.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\obj\Release\netcoreapp3.1\ClassObjectsandNameSpaces.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\obj\Release\netcoreapp3.1\ClassObjectsandNameSpaces.genruntimeconfig.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ClassObjectsandNameSpaces\obj\Release\netcoreapp3.1\ClassObjectsandNameSpaces.csprojAssemblyReference.cache

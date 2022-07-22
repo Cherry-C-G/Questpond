@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="EventDBModelStoreContainer">
+    <EntitySet Name="BookingDetails" EntityType="EventDBModel.Store.BookingDetails" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BookingEquipment" EntityType="EventDBModel.Store.BookingEquipment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BookingFlower" EntityType="EventDBModel.Store.BookingFlower" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BookingFood" EntityType="EventDBModel.Store.BookingFood" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BookingLight" EntityType="EventDBModel.Store.BookingLight" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BookingVenue" EntityType="EventDBModel.Store.BookingVenue" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="City" EntityType="EventDBModel.Store.City" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Country" EntityType="EventDBModel.Store.Country" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Equipment" EntityType="EventDBModel.Store.Equipment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Event" EntityType="EventDBModel.Store.Event" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Flower" EntityType="EventDBModel.Store.Flower" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Food" EntityType="EventDBModel.Store.Food" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Light" EntityType="EventDBModel.Store.Light" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Registration" EntityType="EventDBModel.Store.Registration" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Roles" EntityType="EventDBModel.Store.Roles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="States" EntityType="EventDBModel.Store.States" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Venue" EntityType="EventDBModel.Store.Venue" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="BookingDetails">
+    <Key>
+      <PropertyRef Name="BookingID" />
+    </Key>
+    <Property Name="BookingID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="BookingNo" Type="varchar" MaxLength="50" />
+    <Property Name="BookingDate" Type="date" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="BookingApproval" Type="char" MaxLength="1" />
+    <Property Name="BookingApprovalDate" Type="datetime" />
+    <Property Name="BookingCompletedFlag" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="BookingEquipment">
+    <Key>
+      <PropertyRef Name="BookingEquipmentID" />
+    </Key>
+    <Property Name="BookingEquipmentID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EquipmentID" Type="int" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="BookingID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BookingFlower">
+    <Key>
+      <PropertyRef Name="BookingFlowerID" />
+    </Key>
+    <Property Name="BookingFlowerID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FlowerID" Type="int" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="BookingID" Type="int" />
+  </EntityType>
+  <EntityType Name="BookingFood">
+    <Key>
+      <PropertyRef Name="BookFoodID" />
+    </Key>
+    <Property Name="BookFoodID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FoodType" Type="char" MaxLength="1" />
+    <Property Name="MealType" Type="char" MaxLength="1" />
+    <Property Name="DishType" Type="int" />
+    <Property Name="DishName" Type="int" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="BookingID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BookingLight">
+    <Key>
+      <PropertyRef Name="BookLightID" />
+    </Key>
+    <Property Name="BookLightID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="LightType" Type="char" MaxLength="1" />
+    <Property Name="LightIDSelected" Type="int" />
+    <Property Name="BookingID" Type="int" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="BookingVenue">
+    <Key>
+      <PropertyRef Name="BookingVenueID" />
+    </Key>
+    <Property Name="BookingVenueID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="VenueID" Type="int" />
+    <Property Name="EventTypeID" Type="int" />
+    <Property Name="GuestCount" Type="int" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="BookingID" Type="int" />
+  </EntityType>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="CityID" />
+    </Key>
+    <Property Name="CityID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CityName" Type="nvarchar" MaxLength="200" />
+    <Property Name="StateID" Type="int" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="CountryID" />
+    </Key>
+    <Property Name="CountryID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Equipment">
+    <Key>
+      <PropertyRef Name="EquipmentID" />
+    </Key>
+    <Property Name="EquipmentID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EquipmentName" Type="varchar" MaxLength="200" />
+    <Property Name="EquipmentFilename" Type="varchar" MaxLength="200" />
+    <Property Name="EquipmentFilePath" Type="varchar" MaxLength="200" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="Createdate" Type="datetime" />
+    <Property Name="EquipmentCost" Type="int" />
+  </EntityType>
+  <EntityType Name="Event">
+    <Key>
+      <PropertyRef Name="EventID" />
+    </Key>
+    <Property Name="EventID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EventType" Type="varchar" MaxLength="50" />
+    <Property Name="Status" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="Flower">
+    <Key>
+      <PropertyRef Name="FlowerID" />
+    </Key>
+    <Property Name="FlowerID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FlowerName" Type="varchar" MaxLength="200" />
+    <Property Name="FlowerFilename" Type="varchar" MaxLength="200" />
+    <Property Name="FlowerFilePath" Type="varchar" MaxLength="200" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="Createdate" Type="datetime" />
+    <Property Name="FlowerCost" Type="int" />
+  </EntityType>
+  <EntityType Name="Food">
+    <Key>
+      <PropertyRef Name="FoodID" />
+    </Key>
+    <Property Name="FoodID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FoodType" Type="char" MaxLength="1" />
+    <Property Name="MealType" Type="char" MaxLength="1" />
+    <Property Name="DishType" Type="int" />
+    <Property Name="FoodName" Type="varchar" MaxLength="200" />
+    <Property Name="FoodFilename" Type="varchar" MaxLength="200" />
+    <Property Name="FoodFilePath" Type="varchar" MaxLength="200" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="Createdate" Type="datetime" />
+    <Property Name="FoodCost" Type="int" />
+  </EntityType>
+  <EntityType Name="Light">
+    <Key>
+      <PropertyRef Name="LightID" />
+    </Key>
+    <Property Name="LightID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="LightType" Type="char" MaxLength="1" />
+    <Property Name="LightName" Type="varchar" MaxLength="200" />
+    <Property Name="LightFilename" Type="varchar" MaxLength="200" />
+    <Property Name="LightFilePath" Type="varchar" MaxLength="200" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="Createdate" Type="datetime" />
+    <Property Name="LightCost" Type="int" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="varchar" MaxLength="100" />
+    <Property Name="Address" Type="varchar" MaxLength="100" />
+    <Property Name="City" Type="varchar" MaxLength="100" />
+    <Property Name="State" Type="varchar" MaxLength="100" />
+    <Property Name="Country" Type="varchar" MaxLength="100" />
+    <Property Name="Mobileno" Type="varchar" MaxLength="20" />
+    <Property Name="EmailID" Type="varchar" MaxLength="100" />
+    <Property Name="Username" Type="varchar" MaxLength="20" />
+    <Property Name="Password" Type="varchar" MaxLength="100" />
+    <Property Name="ConfirmPassword" Type="varchar" MaxLength="100" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" />
+    <Property Name="Birthdate" Type="datetime" />
+    <Property Name="RoleID" Type="int" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="RoleID" />
+    </Key>
+    <Property Name="RoleID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Rolename" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="States">
+    <Key>
+      <PropertyRef Name="StateID" />
+    </Key>
+    <Property Name="StateID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="StateName" Type="varchar" MaxLength="200" />
+    <Property Name="CountryID" Type="int" />
+  </EntityType>
+  <EntityType Name="Venue">
+    <Key>
+      <PropertyRef Name="VenueID" />
+    </Key>
+    <Property Name="VenueID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="VenueName" Type="varchar" MaxLength="200" />
+    <Property Name="VenueFilename" Type="varchar" MaxLength="200" />
+    <Property Name="VenueFilePath" Type="varchar" MaxLength="200" />
+    <Property Name="Createdby" Type="int" />
+    <Property Name="Createdate" Type="datetime" />
+    <Property Name="VenueCost" Type="int" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EventDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Cities" EntityType="EventDBModel.City" />
+    <EntitySet Name="Countries" EntityType="EventDBModel.Country" />
+    <EntitySet Name="Registrations" EntityType="EventDBModel.Registration" />
+    <EntitySet Name="States" EntityType="EventDBModel.State" />
+    <EntitySet Name="Roles" EntityType="EventDBModel.Role" />
+    <EntitySet Name="Venues" EntityType="EventDBModel.Venue" />
+    <EntitySet Name="Equipments" EntityType="EventDBModel.Equipment" />
+    <EntitySet Name="Foods" EntityType="EventDBModel.Food" />
+    <EntitySet Name="Lights" EntityType="EventDBModel.Light" />
+    <EntitySet Name="Flowers" EntityType="EventDBModel.Flower" />
+    <EntitySet Name="Events" EntityType="EventDBModel.Event" />
+    <EntitySet Name="BookingEquipments" EntityType="EventDBModel.BookingEquipment" />
+    <EntitySet Name="BookingFoods" EntityType="EventDBModel.BookingFood" />
+    <EntitySet Name="BookingLights" EntityType="EventDBModel.BookingLight" />
+    <EntitySet Name="BookingFlowers" EntityType="EventDBModel.BookingFlower" />
+    <EntitySet Name="BookingVenues" EntityType="EventDBModel.BookingVenue" />
+    <EntitySet Name="BookingDetails" EntityType="EventDBModel.BookingDetail" />
+  </EntityContainer>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="CityID" />
+    </Key>
+    <Property Name="CityID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CityName" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="StateID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="CountryID" />
+    </Key>
+    <Property Name="CountryID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="City" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="State" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Country" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Mobileno" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="EmailID" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Username" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="Password" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ConfirmPassword" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Gender" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="Birthdate" Type="DateTime" Precision="3" />
+    <Property Type="Int32" Name="RoleID" />
+  </EntityType>
+  <EntityType Name="State">
+    <Key>
+      <PropertyRef Name="StateID" />
+    </Key>
+    <Property Name="StateID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="StateName" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="CountryID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleID" />
+    </Key>
+    <Property Type="Int32" Name="RoleID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Rolename" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Venue">
+    <Key>
+      <PropertyRef Name="VenueID" />
+    </Key>
+    <Property Type="Int32" Name="VenueID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="VenueName" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="VenueFilename" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="VenueFilePath" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="Createdate" Precision="3" />
+    <Property Type="Int32" Name="VenueCost" />
+  </EntityType>
+  <EntityType Name="Equipment">
+    <Key>
+      <PropertyRef Name="EquipmentID" />
+    </Key>
+    <Property Type="Int32" Name="EquipmentID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="EquipmentName" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="EquipmentFilename" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="EquipmentFilePath" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="Createdate" Precision="3" />
+    <Property Type="Int32" Name="EquipmentCost" />
+  </EntityType>
+  <EntityType Name="Food">
+    <Key>
+      <PropertyRef Name="FoodID" />
+    </Key>
+    <Property Type="Int32" Name="FoodID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FoodType" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="FoodName" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="FoodFilename" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="FoodFilePath" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="Createdate" Precision="3" />
+    <Property Type="Int32" Name="FoodCost" />
+    <Property Type="String" Name="MealType" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="Int32" Name="DishType" />
+  </EntityType>
+  <EntityType Name="Light">
+    <Key>
+      <PropertyRef Name="LightID" />
+    </Key>
+    <Property Type="Int32" Name="LightID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="LightType" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="LightName" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="LightFilename" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="LightFilePath" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="Createdate" Precision="3" />
+    <Property Type="Int32" Name="LightCost" />
+  </EntityType>
+  <EntityType Name="Flower">
+    <Key>
+      <PropertyRef Name="FlowerID" />
+    </Key>
+    <Property Type="Int32" Name="FlowerID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FlowerName" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="FlowerFilename" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="FlowerFilePath" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="Createdate" Precision="3" />
+    <Property Type="Int32" Name="FlowerCost" />
+  </EntityType>
+  <EntityType Name="Event">
+    <Key>
+      <PropertyRef Name="EventID" />
+    </Key>
+    <Property Type="Int32" Name="EventID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="EventType" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Status" MaxLength="1" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="BookingEquipment">
+    <Key>
+      <PropertyRef Name="BookingEquipmentID" />
+    </Key>
+    <Property Type="Int32" Name="BookingEquipmentID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="EquipmentID" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="BookingID" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BookingFood">
+    <Key>
+      <PropertyRef Name="BookFoodID" />
+    </Key>
+    <Property Type="Int32" Name="BookFoodID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FoodType" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="MealType" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="Int32" Name="DishType" />
+    <Property Type="Int32" Name="DishName" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="BookingID" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BookingLight">
+    <Key>
+      <PropertyRef Name="BookLightID" />
+    </Key>
+    <Property Type="Int32" Name="BookLightID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="LightType" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="Int32" Name="LightIDSelected" />
+    <Property Type="Int32" Name="BookingID" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="BookingFlower">
+    <Key>
+      <PropertyRef Name="BookingFlowerID" />
+    </Key>
+    <Property Type="Int32" Name="BookingFlowerID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="FlowerID" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="BookingID" />
+  </EntityType>
+  <EntityType Name="BookingVenue">
+    <Key>
+      <PropertyRef Name="BookingVenueID" />
+    </Key>
+    <Property Type="Int32" Name="BookingVenueID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="VenueID" />
+    <Property Type="Int32" Name="EventTypeID" />
+    <Property Type="Int32" Name="GuestCount" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="BookingID" />
+  </EntityType>
+  <EntityType Name="BookingDetail">
+    <Key>
+      <PropertyRef Name="BookingID" />
+    </Key>
+    <Property Type="Int32" Name="BookingID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="BookingNo" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="BookingDate" Precision="0" />
+    <Property Type="Int32" Name="Createdby" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="String" Name="BookingApproval" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="DateTime" Name="BookingApprovalDate" Precision="3" />
+    <Property Type="String" Name="BookingCompletedFlag" MaxLength="1" FixedLength="true" Unicode="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,8 @@
+obj\Debug\WindowsInterpreterClient.exe
+obj\Debug\WindowsInterpreterClient.pdb
+bin\Debug\WindowsInterpreterClient.exe
+bin\Debug\WindowsInterpreterClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsInterpreterClient.Form1.resources
+obj\Debug\WindowsInterpreterClient.Properties.Resources.resources
+obj\Debug\WindowsInterpreterClient.csproj.GenerateResource.Cache

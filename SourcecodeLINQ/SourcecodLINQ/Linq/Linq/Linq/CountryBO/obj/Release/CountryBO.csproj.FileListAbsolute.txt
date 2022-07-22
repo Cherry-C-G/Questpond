@@ -1,0 +1,9 @@
+D:\Linq\Linq\CountryBO\bin\Release\CountryBO.dll
+D:\Linq\Linq\CountryBO\bin\Release\CountryBO.pdb
+D:\Linq\Linq\CountryBO\obj\Release\ResolveAssemblyReference.cache
+D:\Linq\Linq\CountryBO\obj\Release\CountryBO.dll
+D:\Linq\Linq\CountryBO\obj\Release\CountryBO.pdb
+D:\Linq\Linq\CountryBO\bin\Release\CountryEntity.dll
+D:\Linq\Linq\CountryBO\bin\Release\CountryEntity.pdb
+D:\Linq\Linq\CountryBO\bin\Release\CountryDAL.dll
+D:\Linq\Linq\CountryBO\bin\Release\CountryDAL.pdb

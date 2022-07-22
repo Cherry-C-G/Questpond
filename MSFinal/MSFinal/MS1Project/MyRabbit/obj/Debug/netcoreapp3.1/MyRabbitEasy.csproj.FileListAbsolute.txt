@@ -1,0 +1,36 @@
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.exe
+E:\MS\MS1\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.AssemblyInfoInputs.cache
+E:\MS\MS1\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.AssemblyInfo.cs
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.deps.json
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.runtimeconfig.json
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.runtimeconfig.dev.json
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.dll
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.pdb
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\MS\MS1\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\MS\MS1\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.csprojAssemblyReference.cache
+E:\MS\MS1\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.csproj.CoreCompileInputs.cache
+E:\MS\MS1\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.csproj.CopyComplete
+E:\MS\MS1\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.dll
+E:\MS\MS1\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.pdb
+E:\MS\MS1\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.genruntimeconfig.cache
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.exe
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.deps.json
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.runtimeconfig.json
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.runtimeconfig.dev.json
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.dll
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\MyRabbitEasy.pdb
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.csprojAssemblyReference.cache
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.AssemblyInfoInputs.cache
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.AssemblyInfo.cs
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.csproj.CoreCompileInputs.cache
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.csproj.CopyComplete
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.dll
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.pdb
+E:\MS\MS1 - Copy\MS1Project\MyRabbit\obj\Debug\netcoreapp3.1\MyRabbitEasy.genruntimeconfig.cache

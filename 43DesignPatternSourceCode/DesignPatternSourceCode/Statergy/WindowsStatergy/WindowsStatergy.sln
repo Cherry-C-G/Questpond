@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsStatergy", "WindowsStatergy\WindowsStatergy.csproj", "{071244B8-6EF9-4996-926A-F5F7F96EC8C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statergy", "Statergy\Statergy.csproj", "{F625BFCF-5F19-488C-8915-B5E52F14B117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071244B8-6EF9-4996-926A-F5F7F96EC8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071244B8-6EF9-4996-926A-F5F7F96EC8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071244B8-6EF9-4996-926A-F5F7F96EC8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071244B8-6EF9-4996-926A-F5F7F96EC8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F625BFCF-5F19-488C-8915-B5E52F14B117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F625BFCF-5F19-488C-8915-B5E52F14B117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F625BFCF-5F19-488C-8915-B5E52F14B117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F625BFCF-5F19-488C-8915-B5E52F14B117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

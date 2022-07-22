@@ -1,0 +1,8 @@
+obj\Debug\WindowsState.exe
+obj\Debug\WindowsState.pdb
+bin\Debug\WindowsState.exe
+bin\Debug\WindowsState.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsState.Form1.resources
+obj\Debug\WindowsState.Properties.Resources.resources
+obj\Debug\WindowsState.csproj.GenerateResource.Cache

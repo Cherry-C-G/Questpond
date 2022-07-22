@@ -1,0 +1,8 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Interpeter\WindowsInterpreterClient\WindowsInterpreterClient\bin\Debug\WindowsInterpreterClient.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Interpeter\WindowsInterpreterClient\WindowsInterpreterClient\bin\Debug\WindowsInterpreterClient.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Interpeter\WindowsInterpreterClient\WindowsInterpreterClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Interpeter\WindowsInterpreterClient\WindowsInterpreterClient\obj\Debug\WindowsInterpreterClient.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Interpeter\WindowsInterpreterClient\WindowsInterpreterClient\obj\Debug\WindowsInterpreterClient.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Interpeter\WindowsInterpreterClient\WindowsInterpreterClient\obj\Debug\WindowsInterpreterClient.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Interpeter\WindowsInterpreterClient\WindowsInterpreterClient\obj\Debug\WindowsInterpreterClient.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Interpeter\WindowsInterpreterClient\WindowsInterpreterClient\obj\Debug\WindowsInterpreterClient.Form1.resources

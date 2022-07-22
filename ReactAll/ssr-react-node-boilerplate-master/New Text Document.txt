@@ -1,0 +1,6 @@
+
+    npm run build:watch:server - runs babel to transpile the server from es6 to es5 (watch mode)
+    npm run build:watch:client - runs webpack to build bundle (watch mode)
+    npm run start:dev - in parallel shells it calls build:watch:client build:watch:server and then runs the app in watch mode, using nodemon
+
+npm i --save-dev webpack-dev-server

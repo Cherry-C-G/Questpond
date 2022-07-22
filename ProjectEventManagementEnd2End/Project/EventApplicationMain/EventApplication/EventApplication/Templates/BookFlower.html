@@ -1,0 +1,45 @@
+﻿<form novalidate name="form1">
+    <div class="col-xs-offset-0 col-xs-4">
+        <h3><span class="label label-info">Book Flower</span></h3>
+        <div class="form-group">
+            <div ng-repeat="flow in FlowerList">
+                <input type="checkbox" value="{{flow.EquipmentID}}" ng-model="flow.checked" />
+                <label>{{flow.FlowerName}}</label>
+            </div>
+            <br />
+            <input type="button" id="btnClick" class="btn btn-success" value="Next" ng-click="SaveFlower(FlowerList)" />
+              <input type="button" class="btn btn-success" ng-click="Cancel();" value="Cancel" />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="bg">
+            <div class="mainimageshell">
+                <div class="viewwindow">
+                    <ul id="fullscroller" class="fullsizelist" ng-style="listposition">
+                        <li ng-repeat="image in galleryData">
+                            <h4><span class="label label-warning">{{image.FlowerName||Uppercase}} || Cost :- {{image.FlowerCost||Uppercase}}</span></h4>
+                           <img id="fullsize" class="large" ng-src="{{IMAGE_LOCATION+image.FlowerFilePath}}" />
+                            
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+            <div class="thumbsshell">
+                <div class="thumbswrapper">
+                    <ul>
+                        <li ng-repeat="image in galleryData">
+                            <div class="thumbwrapper">
+                                <a ng-href="" ng-click="scrollTo(image,$index)">
+                                    <img class="thumbnail" ng-src="{{IMAGE_LOCATION+image.FlowerFilePath}}" />
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+</form>
+

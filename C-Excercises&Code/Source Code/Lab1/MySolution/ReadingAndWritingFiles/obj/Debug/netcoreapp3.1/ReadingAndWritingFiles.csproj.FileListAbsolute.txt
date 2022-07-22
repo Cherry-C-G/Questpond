@@ -1,0 +1,12 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\bin\Debug\netcoreapp3.1\ReadingAndWritingFiles.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\bin\Debug\netcoreapp3.1\ReadingAndWritingFiles.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\bin\Debug\netcoreapp3.1\ReadingAndWritingFiles.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\bin\Debug\netcoreapp3.1\ReadingAndWritingFiles.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\bin\Debug\netcoreapp3.1\ReadingAndWritingFiles.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\bin\Debug\netcoreapp3.1\ReadingAndWritingFiles.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\obj\Debug\netcoreapp3.1\ReadingAndWritingFiles.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\obj\Debug\netcoreapp3.1\ReadingAndWritingFiles.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\obj\Debug\netcoreapp3.1\ReadingAndWritingFiles.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\obj\Debug\netcoreapp3.1\ReadingAndWritingFiles.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\obj\Debug\netcoreapp3.1\ReadingAndWritingFiles.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\ReadingAndWritingFiles\obj\Debug\netcoreapp3.1\ReadingAndWritingFiles.genruntimeconfig.cache

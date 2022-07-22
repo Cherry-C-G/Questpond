@@ -1,0 +1,5 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\FactorySample\bin\Debug\FactorySample.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\FactorySample\bin\Debug\FactorySample.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\FactorySample\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\FactorySample\obj\Debug\FactorySample.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\FactorySample\obj\Debug\FactorySample.pdb

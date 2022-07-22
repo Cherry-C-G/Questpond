@@ -1,0 +1,19 @@
+package Client;
+
+public class clsInvoiceClient 
+{
+public static void main(String[] args) 
+{
+	try 
+	{ 
+	    int intInvoiceType  = System.in.read(); 
+	    
+	}
+	catch (Exception e)
+	{
+		  
+	} 
+
+}
+
+}

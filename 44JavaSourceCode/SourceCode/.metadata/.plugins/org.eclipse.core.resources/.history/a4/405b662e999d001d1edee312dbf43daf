@@ -1,0 +1,8 @@
+
+public class clsFactoryInvoice 
+{
+static public IInvoice getInvoice(int intInvoice)
+{
+
+}
+}

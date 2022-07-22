@@ -1,0 +1,5 @@
+bin\Debug\Observers.dll
+bin\Debug\Observers.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Observers.dll
+obj\Debug\Observers.pdb

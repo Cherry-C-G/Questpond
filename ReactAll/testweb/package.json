@@ -1,0 +1,19 @@
+{
+  "name": "testweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -p --config ./webpack.config.js --mode development",
+    "watch": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.23.0",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}

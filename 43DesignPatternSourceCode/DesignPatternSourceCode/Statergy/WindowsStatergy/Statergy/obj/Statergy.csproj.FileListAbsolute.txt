@@ -1,0 +1,5 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\Statergy\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\Statergy\bin\Debug\Statergy.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\Statergy\bin\Debug\Statergy.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\Statergy\obj\Debug\Statergy.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Statergy\WindowsStatergy\Statergy\obj\Debug\Statergy.pdb

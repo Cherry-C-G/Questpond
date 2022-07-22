@@ -1,0 +1,29 @@
+﻿<form novalidate name="form1">
+    <div class="col-xs-offset-0 col-xs-4">
+        <h3><span class="label label-info">Edit Flower</span></h3>
+        <div class="form-group">
+            Flower Name
+            <input id="FlowerName" class="form-control" ng-model="Flower.FlowerName" required name="FlowerName" type="text" />
+            <span style="color: red" ng-show="form1.FlowerName.$error.required && submitted">Enter Flowername </span>
+        </div>
+        <div class="form-group">
+            Flower Cost
+            <input id="FlowerCost" class="form-control" ng-model="Flower.FlowerCost" required name="FlowerCost" type="number" min="0" />
+            <span style="color: red" ng-show="form1.FlowerCost.$error.required && submitted">Enter FlowerCost </span>
+        </div>
+        <div class="form-group">
+            <div class="controls">
+                <input type="file" name="file" accept="image/*" onchange="angular.element(this).scope().selectFileforUpload(this.files)" required />
+                <img alt="" width="200px" height="200px" ng-src="{{('../UploadedFiles/'+ Flower.FlowerFilePath)}}" />
+                <span style="color: red" ng-show="(form1.file.$dirty || IsFormSubmitted) && form1.file.$error.required">Image required!</span>
+                <span style="color: red">{{FileInvalidMessage}}</span>
+            </div>
+        </div>
+        <div class="form-actions">
+            <input type="submit" class="btn btn-success" ng-disabled="form1.$invalid" ng-click="UpdateFlowerData(Flower);submitted=true" value="Update" />
+        </div>
+        <div class="form-actions">
+            <a href="#/AllFlower">Show All Flower</a>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,26 @@
+﻿<div class="container">
+     <h3><span class="label label-info">All Flower</span></h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>FlowerName</th>
+                <th>Flower Cost</th>
+                <th>Flower View</th>
+                <th>Edit Flower</th>
+                <th>Delete Flower</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="List in FlowerList">
+            <tr>
+                <td>{{List.FlowerName}}</td>
+                <td>{{List.FlowerCost}}</td>
+                <td>
+                    <img alt="" width="200px" height="200px" ng-src="{{('../UploadedFiles/'+ List.FlowerFilePath)}}" /></td>
+                <td>
+                    <input id="btnEdit" type="button" ng-click="EditFlower(List)" value="Edit" /></td>
+                <td>
+                    <input id="btndelete" type="button" ng-click="deleteFlower(List.FlowerID)" value="Delete" /></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

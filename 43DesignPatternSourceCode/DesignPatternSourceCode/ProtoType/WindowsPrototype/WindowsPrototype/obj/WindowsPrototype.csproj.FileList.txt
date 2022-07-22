@@ -1,0 +1,2 @@
+obj\Debug\WindowsPrototype.exe
+obj\Debug\WindowsPrototype.pdb

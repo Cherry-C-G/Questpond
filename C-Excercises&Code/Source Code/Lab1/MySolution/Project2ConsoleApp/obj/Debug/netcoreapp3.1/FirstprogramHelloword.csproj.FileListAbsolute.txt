@@ -1,0 +1,16 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\FirstprogramHelloword.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\FirstprogramHelloword.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\FirstprogramHelloword.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\FirstprogramHelloword.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\FirstprogramHelloword.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\FirstprogramHelloword.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\DLLConcept.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\bin\Debug\netcoreapp3.1\DLLConcept.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\FirstprogramHelloword.csprojAssemblyReference.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\FirstprogramHelloword.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\FirstprogramHelloword.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\FirstprogramHelloword.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\FirstprogramHelloword.csproj.CopyComplete
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\FirstprogramHelloword.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\FirstprogramHelloword.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Project2ConsoleApp\obj\Debug\netcoreapp3.1\FirstprogramHelloword.genruntimeconfig.cache

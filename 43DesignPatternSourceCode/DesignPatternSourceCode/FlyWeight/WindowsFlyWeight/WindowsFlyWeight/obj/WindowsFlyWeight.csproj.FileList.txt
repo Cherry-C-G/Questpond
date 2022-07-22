@@ -1,0 +1,8 @@
+obj\Debug\WindowsFlyWeight.exe
+obj\Debug\WindowsFlyWeight.pdb
+bin\Debug\WindowsFlyWeight.exe
+bin\Debug\WindowsFlyWeight.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsFlyWeight.Form1.resources
+obj\Debug\WindowsFlyWeight.Properties.Resources.resources
+obj\Debug\WindowsFlyWeight.csproj.GenerateResource.Cache

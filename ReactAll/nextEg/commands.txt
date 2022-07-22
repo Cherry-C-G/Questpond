@@ -1,0 +1,6 @@
+npm install -g create-next-app
+npm run dev
+
+create-next-app my-app
+cd my-app/
+npm run dev

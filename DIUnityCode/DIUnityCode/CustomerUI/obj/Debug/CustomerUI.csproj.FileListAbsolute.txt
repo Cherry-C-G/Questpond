@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\CustomerUI.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\CustomerUI.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\CustomerUI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\obj\Debug\CustomerUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\obj\Debug\CustomerUI.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CustomerUI\CustomerUI\obj\Debug\CustomerUI.pdb

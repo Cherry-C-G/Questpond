@@ -1,0 +1,13 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\bin\Release\netcoreapp3.1\GarbageCollector.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\bin\Release\netcoreapp3.1\GarbageCollector.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\bin\Release\netcoreapp3.1\GarbageCollector.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\bin\Release\netcoreapp3.1\GarbageCollector.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\bin\Release\netcoreapp3.1\GarbageCollector.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\bin\Release\netcoreapp3.1\GarbageCollector.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\obj\Release\netcoreapp3.1\GarbageCollector.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\obj\Release\netcoreapp3.1\GarbageCollector.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\obj\Release\netcoreapp3.1\GarbageCollector.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\obj\Release\netcoreapp3.1\GarbageCollector.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\obj\Release\netcoreapp3.1\GarbageCollector.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\obj\Release\netcoreapp3.1\GarbageCollector.genruntimeconfig.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\GarbageCollector\obj\Release\netcoreapp3.1\GarbageCollector.csprojAssemblyReference.cache

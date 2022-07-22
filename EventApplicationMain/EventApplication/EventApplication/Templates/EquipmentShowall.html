@@ -1,0 +1,29 @@
+﻿<div class="container">
+
+    <h3><span class="label label-info">All Equipments</span></h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Equipment Name</th>
+                <th>Equipment Cost</th>
+                <th>Equipment View</th>
+                <th>Edit Equipment</th>
+                <th>Delete Equipment</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="List in EquipmentList">
+            <tr>
+                <td>{{List.EquipmentName}}</td>
+                <td>{{List.EquipmentCost}}</td>
+                <td>
+                    <img alt="" width="200px" height="200px" ng-src="{{('../UploadedFiles/'+ List.EquipmentFilePath)}}" /></td>
+                <td>
+                    <input id="btnEdit" type="button" ng-click="EditEquipment(List.EquipmentID)" value="Edit" />
+                </td>
+                <td>
+                    <input id="btndelete" type="button" ng-click="deleteEquipment(List.EquipmentID)" value="Delete" /></td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>

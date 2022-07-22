@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EventDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Countries" EntityType="EventDBModel.Country" />
+    <EntitySet Name="States" EntityType="EventDBModel.State" />
+    <EntitySet Name="Registrations" EntityType="EventDBModel.Registration" />
+    <EntitySet Name="Cities" EntityType="EventDBModel.City" />
+  </EntityContainer>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="CountryID" />
+    </Key>
+    <Property Name="CountryID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="State">
+    <Key>
+      <PropertyRef Name="StateID" />
+    </Key>
+    <Property Name="StateID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="StateName" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="CountryID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Address" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="City" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="State" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Country" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Mobileno" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="EmailID" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Username" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Password" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ConfirmPassword" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Gender" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="DateTime" Name="Birthdate" Precision="3" />
+  </EntityType>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="CityID" />
+    </Key>
+    <Property Type="Int32" Name="CityID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CityName" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="StateID" />
+  </EntityType>
+</Schema>

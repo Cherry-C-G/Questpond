@@ -1,0 +1,130 @@
+﻿@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_SuperAdminLayout.cshtml";  
+}
+ 
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+<link href="~/Content/loading-bar.css" rel="stylesheet" />
+<script src="~/AngularJS/jquery.js"></script>
+<script src="~/AngularJS/jquery-ui.js"></script>
+<script src="~/Angularlib/angular.js"></script>
+<script src="~/Angularlib/angular-cookies.js"></script>
+<script src="~/Angularlib/angular-animate.js"></script>
+<script src="~/AngularJS/Module/App.js"></script>
+<script src="~/AngularJS/Directive/Angudirective.js"></script>
+<script src="~/AngularJS/AngularController/RegistrationAdminController.js"></script>
+<script src="~/AngularJS/OuterModule/igCharLimit.js"></script>
+<script src="~/AngularJS/OuterModule/md5.js"></script>
+<script src="~/AngularJS/OuterModule/loading-bar.js"></script>
+<div ng-app="AppModule">
+    <div class="container" ng-controller="RegistrationController">
+        <h2>Create Admin User</h2>
+        <form name="form1">
+            <div class="row">
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    FullName
+                <input id="FullName" class="form-control" ng-model="Registration.FullName" required name="FullName" type="text" />
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span style="color: red" ng-show="form1.FullName.$error.required && submitted">Enter FullName </span>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Address
+            <input id="Address" name="Address" ng-model="Registration.Address" required class="form-control" type="text" />
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span style="color: red" ng-show="form1.Address.$error.required && submitted">Enter Address </span>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Country
+         <select class="form-control" ng-options="s.CountryID as s.Name for s in CountryList" ng-change="onCountryChange(Registration.CountryID)"
+             name="CountryID" required ng-model="Registration.CountryID">
+             <option value="">-- Select a Country --</option>
+         </select>
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span class="ng-hide" ng-show="form1.CountryID.$error.required && submitted" style="color: red">Select Country.</span>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    State
+         <select class="form-control" required ng-options="s.StateID as s.StateName for s in StateList" ng-change="onstateChange(Registration.StateID)"
+             name="StateID" ng-model="Registration.StateID">
+             <option value="">-- Select a State --</option>
+         </select>
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span class="ng-hide" ng-show="form1.StateID.$error.required && submitted" style="color: red">Select State.</span>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    City
+                <select class="form-control" ng-options="s.CityID as s.CityName for s in CityList"
+                    name="CityID" required ng-model="Registration.CityID">
+                    <option value="">-- Select a City --</option>
+                </select>
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span class="ng-hide" ng-show="form1.CityID.$error.required && submitted" style="color: red">Select City.</span>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Moblie no
+                <input name="mobileno" class="form-control" ng-model="Registration.mobileno" ng-minlength="10" char-limit="10" ng-maxlength="15" required type="number" />
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span ng-show="form1.mobileno.$error.required && submitted" style="color: red">Enter Moblie no</span>
+                    <span ng-show="form1.mobileno.$error.minlength" style="color: red">Enter Moblie no</span>
+                    <span ng-show="form1.mobileno.$error.maxlength" style="color: red">Enter Moblie no</span>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Email ID
+                 <input name="EmailID" class="form-control" ng-model="Registration.EmailID" ng-maxlength="30" char-limit="30" required type="email" />
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span ng-show="form1.EmailID.$error.required && submitted" style="color: red">Enter Email ID</span>
+                    <span ng-show="form1.EmailID.$error.email" style="color: red">Enter Email ID</span>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Gender<br />
+                    <input id="rbtGender" name="rbtGender" required value="M" type="radio" ng-model="Registration.rbtGender" />
+                    Male
+                    <input id="rbtGender" name="rbtGender" required value="F" type="radio" ng-model="Registration.rbtGender" />
+                    Female
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span ng-show="form1.rbtGender.$error.required && submitted" style="color: red">Select Gender</span>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Date of birth
+                    <input type="text" class="form-control" ng-change="selectDate(Registration.Dateofbirth)" char-limit="10" ng-model="Registration.Dateofbirth" mydatepicker
+                        name="Dateofbirth">
+                    <span style="color: red" ng-show="form1.Dateofbirth.$error.required && submitted">Enter Date of birth</span>
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Username
+                    <input name="Username"
+                        class="form-control" ng-model="Registration.Username" char-limit="15" ng-blur="onUsername(Registration);"
+                        ng-minlength="6" required type="text" />
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span ng-show="form1.Username.$error.required && submitted" style="color: red">Enter Username</span>
+                    <span ng-show="form1.Username.$error.minlength">Username to short</span>
+
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Password
+                    <input type="password" name="password" class="form-control" ng-minlength="6" char-limit="15" 
+                        ng-model="Registration.password" required />
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span ng-show="form1.password.$error.required && submitted" style="color: red">Enter Password</span>
+                    <span ng-show="form1.password.$error.minlength">Password to short</span>
+
+                </div>
+                <div class="col-xs-12 col-md-4 col-sm-3">
+                    Confirm Password
+                    <input type="password" name="confirmPassword" class="form-control" char-limit="15" 
+                        ng-model="Registration.confirmPassword"
+                        required compare-to="Registration.password" />
+                    <div id="ngProgress" style="height: 2px; background-color: firebrick; color: firebrick; width: 98.986%; opacity: 1;"></div>
+                    <span ng-show="form1.confirmPassword.$error.required && submitted" style="color: red">Enter confirmPassword</span>
+                    <span ng-show="form1.confirmPassword.$error.compareTo" style="color: red">Must match the previous entry</span>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-12">
+                    <input id="Submit1" ng-click="RegisterAdmin(Registration,form1);submitted=true" class="btn btn-success" type="submit" value="Register">
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+

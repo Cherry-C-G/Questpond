@@ -1,0 +1,29 @@
+﻿<div class="container">
+ 
+      <h3><span class="label label-info">All Types of Lightings</span></h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Light Name</th>
+                <th>Light Cost</th>
+                <th>Light View</th>
+                <th>Edit Light</th>
+                <th>Delete Light</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="List in LightList">
+            <tr>
+                <td>{{List.LightName}}</td>
+                <td>{{List.LightCost}}</td>
+                 <td>{{List.LightType==="1"?"InDoor" : "OutDoor"}}</td>
+                <td>
+                    <img alt="" width="200px" height="200px" ng-src="{{('../UploadedFiles/'+ List.LightFilePath)}}" /></td>
+                  <td>
+                    <input id="btnedit" type="button" ng-click="EditLight(List.LightID)" value="Edit" /></td>
+                <td>
+                    <input id="btndelete" type="button" ng-click="deleteLight(List.LightID)" value="Delete" /></td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>

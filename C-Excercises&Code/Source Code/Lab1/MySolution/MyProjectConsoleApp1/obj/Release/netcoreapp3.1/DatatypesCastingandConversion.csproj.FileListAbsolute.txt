@@ -1,0 +1,13 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\bin\Release\netcoreapp3.1\DatatypesCastingandConversion.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\bin\Release\netcoreapp3.1\DatatypesCastingandConversion.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\bin\Release\netcoreapp3.1\DatatypesCastingandConversion.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\bin\Release\netcoreapp3.1\DatatypesCastingandConversion.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\bin\Release\netcoreapp3.1\DatatypesCastingandConversion.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\bin\Release\netcoreapp3.1\DatatypesCastingandConversion.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\obj\Release\netcoreapp3.1\DatatypesCastingandConversion.csprojAssemblyReference.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\obj\Release\netcoreapp3.1\DatatypesCastingandConversion.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\obj\Release\netcoreapp3.1\DatatypesCastingandConversion.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\obj\Release\netcoreapp3.1\DatatypesCastingandConversion.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\obj\Release\netcoreapp3.1\DatatypesCastingandConversion.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\obj\Release\netcoreapp3.1\DatatypesCastingandConversion.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\MyProjectConsoleApp1\obj\Release\netcoreapp3.1\DatatypesCastingandConversion.genruntimeconfig.cache

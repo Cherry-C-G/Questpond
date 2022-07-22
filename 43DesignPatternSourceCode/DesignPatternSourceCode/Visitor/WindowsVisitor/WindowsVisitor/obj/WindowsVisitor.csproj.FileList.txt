@@ -1,0 +1,10 @@
+obj\Debug\WindowsVisitor.exe
+obj\Debug\WindowsVisitor.pdb
+bin\Debug\WindowsVisitor.exe
+bin\Debug\WindowsVisitor.pdb
+bin\Debug\Visitor.dll
+bin\Debug\Visitor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsVisitor.Form1.resources
+obj\Debug\WindowsVisitor.Properties.Resources.resources
+obj\Debug\WindowsVisitor.csproj.GenerateResource.Cache

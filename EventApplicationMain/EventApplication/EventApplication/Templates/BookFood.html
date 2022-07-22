@@ -1,0 +1,73 @@
+﻿<form novalidate name="form1">
+    <div class="col-xs-offset-0 col-xs-4">
+        <h3><span class="label label-info">Book Food</span></h3>
+
+        <div class="form-group">
+            Food Type
+            <input name="FoodType" id="FoodType1" ng-click="OnFoodClick()" ng-change="OnFoodClick()" value="1" required ng-model="Food.FoodType" type="radio" />
+            Veg
+            <input name="FoodType" id="FoodType2" ng-click="OnFoodClick()" ng-change="OnFoodClick()" value="2" required ng-model="Food.FoodType" type="radio" />
+            Non-Veg
+            <span style="color: red" ng-show="form1.FoodType.$error.required && submitted">Select Food Type</span>
+        </div>
+        <div ng-hide="MealShow" class="form-group">
+            Meal Type
+            <input name="LDType" id="Radio1" ng-click="OnMealClick()" ng-change="OnMealClick()" value="1" required ng-model="Food.LDType" type="radio" />
+            Lunch
+            <input name="LDType" id="Radio2" ng-click="OnMealClick()" ng-change="OnMealClick()" value="2" required ng-model="Food.LDType" type="radio" />
+            Dinner
+            <span style="color: red" ng-show="form1.LDType.$error.required && submitted">Select Lunch / Dinner Type</span>
+        </div>
+        <div ng-hide="DishShow" class="form-group">
+            Dish Type
+            <select ng-model="Food.Dishtypeselected" ng-change="OnChangeDish();" class="form-control" required ng-options="s.id as s.name for s in DishtypesList" name="Dishtype" id="Dishtype">
+                <option value="">--Select--</option>
+            </select>
+            <span style="color: red" ng-show="form1.Dishtype.$error.required && submitted">Select Dish Type</span>
+        </div>
+
+        <div class="form-group">
+            <div ng-repeat="Foods in FoodList">
+                <input type="checkbox" value="{{Foods.FoodID}}" ng-model="Foods.checked" />
+                <label>{{Foods.FoodName}}</label>
+            </div>
+            <br />
+        </div>
+
+        <div ng-hide="SubmitShow" class="form-group">
+            <input type="button" id="btnClick" ng-disabled="form1.$invalid" class="btn btn-success" value="Next" ng-click="SaveFood(Food ,FoodList)" />
+              <input type="button" class="btn btn-success" ng-click="Cancel();" value="Cancel" />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="bg">
+            <div class="mainimageshell">
+                <div class="viewwindow">
+                    <ul id="fullscroller" class="fullsizelist" ng-style="listposition">
+                        <li ng-repeat="image in galleryData">
+                            <h4><span class="label label-warning">{{image.FoodName||Uppercase}} || Cost :- {{image.FoodCost||Uppercase}}</span></h4>
+                            <img id="fullsize" class="large" ng-src="{{IMAGE_LOCATION+image.FoodFilePath}}" />
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+            <div class="thumbsshell">
+                <div class="thumbswrapper">
+                    <ul>
+                        <li ng-repeat="image in galleryData">
+                            <div class="thumbwrapper">
+                                <a ng-href="" ng-click="scrollTo(image,$index)">
+                                    <img class="thumbnail" ng-src="{{IMAGE_LOCATION+image.FoodFilePath}}" />
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>
+

@@ -1,0 +1,8 @@
+obj\Debug\WindowsMediator.exe
+obj\Debug\WindowsMediator.pdb
+bin\Debug\WindowsMediator.exe
+bin\Debug\WindowsMediator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsMediator.Form1.resources
+obj\Debug\WindowsMediator.Properties.Resources.resources
+obj\Debug\WindowsMediator.csproj.GenerateResource.Cache

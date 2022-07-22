@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "CustomerDashboard";
+    Layout = "~/Views/Shared/_LayoutCustomer.cshtml";  
+}
+
+
+
+<div ng-app="CustomerModule">
+
+   
+       @System.Web.Optimization.Styles.Render("~/CustomerContent/css") 
+       @System.Web.Optimization.Scripts.Render("~/bundles/CustomerNgbundle")
+
+    <div ng-view></div>
+
+</div>

@@ -1,0 +1,13 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\bin\Debug\netcoreapp3.1\AsynchAwait.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\bin\Debug\netcoreapp3.1\AsynchAwait.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\bin\Debug\netcoreapp3.1\AsynchAwait.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\bin\Debug\netcoreapp3.1\AsynchAwait.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\bin\Debug\netcoreapp3.1\AsynchAwait.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\bin\Debug\netcoreapp3.1\AsynchAwait.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\obj\Debug\netcoreapp3.1\AsynchAwait.csprojAssemblyReference.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\obj\Debug\netcoreapp3.1\AsynchAwait.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\obj\Debug\netcoreapp3.1\AsynchAwait.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\obj\Debug\netcoreapp3.1\AsynchAwait.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\obj\Debug\netcoreapp3.1\AsynchAwait.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\obj\Debug\netcoreapp3.1\AsynchAwait.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\AsynchAwait\obj\Debug\netcoreapp3.1\AsynchAwait.genruntimeconfig.cache

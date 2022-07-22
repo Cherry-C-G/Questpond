@@ -1,0 +1,10 @@
+D:\MVPSample\MVPStockSample\StockBO\bin\Debug\StockBO.dll
+D:\MVPSample\MVPStockSample\StockBO\bin\Debug\StockBO.pdb
+D:\MVPSample\MVPStockSample\StockBO\obj\Debug\ResolveAssemblyReference.cache
+D:\MVPSample\MVPStockSample\StockBO\obj\Debug\StockBO.dll
+D:\MVPSample\MVPStockSample\StockBO\obj\Debug\StockBO.pdb
+D:\MVPStockSample\StockBO\bin\Debug\StockBO.dll
+D:\MVPStockSample\StockBO\bin\Debug\StockBO.pdb
+D:\MVPStockSample\StockBO\obj\Debug\ResolveAssemblyReference.cache
+D:\MVPStockSample\StockBO\obj\Debug\StockBO.dll
+D:\MVPStockSample\StockBO\obj\Debug\StockBO.pdb

@@ -1,0 +1,4029 @@
+---
+  0 debug pnpm:package-json: 
+    initial: 
+      name: "minimal-react-webpack-babel-setup"
+      version: "1.0.0"
+      description: "[![Build Status](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)"
+      main: "index.js"
+      scripts: 
+        start: "webpack-dev-server --config ./webpack.config.js --mode development"
+        test: "echo \"No test specified\" && exit 0"
+      keywords: []
+      author: ""
+      license: "ISC"
+      devDependencies: 
+        @babel/core: "^7.1.0"
+        @babel/preset-env: "^7.1.0"
+        @babel/preset-react: "^7.0.0"
+        babel-loader: "^8.0.2"
+        react-hot-loader: "^4.3.11"
+        webpack: "^4.19.1"
+        webpack-cli: "^3.1.0"
+        webpack-dev-server: "^3.1.8"
+      dependencies: 
+        express: "^4.16.4"
+        react: "^16.5.2"
+        react-dom: "^16.5.2"
+      readme: "# minimal-react-webpack-babel-setup\n\n[![Build Status](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)\n\nRead more about it: [The Minimal React Webpack Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)\n\n## Features\n\n* React 16\n* Webpack 4\n* Babel 7\n* Hot Module Replacement\n\n## Installation\n\n* `git clone git@github.com:rwieruch/minimal-react-webpack-babel-setup.git`\n* cd minimal-react-webpack-babel-setup\n* npm install\n* npm start\n* visit `http://localhost:8080/`\n"
+      readmeFilename: "README.md"
+      _id: "minimal-react-webpack-babel-setup@1.0.0"
+    prefix: "D:\\reacteg\\fewmoreconcepts\\eg"
+  1 info pnpm: 
+    message: "Performing headless installation"
+    prefix: "D:\\reacteg\\fewmoreconcepts\\eg"
+  2 debug pnpm:package-json: 
+    initial: 
+      name: "minimal-react-webpack-babel-setup"
+      version: "1.0.0"
+      description: "[![Build Status](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)"
+      main: "index.js"
+      scripts: 
+        start: "webpack-dev-server --config ./webpack.config.js --mode development"
+        test: "echo \"No test specified\" && exit 0"
+      keywords: []
+      author: ""
+      license: "ISC"
+      devDependencies: 
+        @babel/core: "^7.1.0"
+        @babel/preset-env: "^7.1.0"
+        @babel/preset-react: "^7.0.0"
+        babel-loader: "^8.0.2"
+        react-hot-loader: "^4.3.11"
+        webpack: "^4.19.1"
+        webpack-cli: "^3.1.0"
+        webpack-dev-server: "^3.1.8"
+      dependencies: 
+        express: "^4.16.4"
+        react: "^16.5.2"
+        react-dom: "^16.5.2"
+      readme: "# minimal-react-webpack-babel-setup\n\n[![Build Status](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)\n\nRead more about it: [The Minimal React Webpack Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)\n\n## Features\n\n* React 16\n* Webpack 4\n* Babel 7\n* Hot Module Replacement\n\n## Installation\n\n* `git clone git@github.com:rwieruch/minimal-react-webpack-babel-setup.git`\n* cd minimal-react-webpack-babel-setup\n* npm install\n* npm start\n* visit `http://localhost:8080/`\n"
+      readmeFilename: "README.md"
+      _id: "minimal-react-webpack-babel-setup@1.0.0"
+    prefix: "D:\\reacteg\\fewmoreconcepts\\eg"
+  3 debug pnpm:stats: 
+    prefix: "D:\\reacteg\\fewmoreconcepts\\eg"
+    removed: 0
+  4 debug pnpm:stage: "importing_started"
+  5 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/code-frame/7.0.0"
+    status: "resolving_content"
+  6 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/core/7.1.2"
+    status: "resolving_content"
+  7 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/generator/7.1.3"
+    status: "resolving_content"
+  8 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-annotate-as-pure/7.0.0"
+    status: "resolving_content"
+  9 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/code-frame/7.0.0"
+    status: "found_in_store"
+  10 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-builder-binary-assignment-operator-visitor/7.1.0"
+    status: "resolving_content"
+  11 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-builder-react-jsx/7.0.0"
+    status: "resolving_content"
+  12 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/core/7.1.2"
+    status: "found_in_store"
+  13 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/generator/7.1.3"
+    status: "found_in_store"
+  14 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-call-delegate/7.1.0"
+    status: "resolving_content"
+  15 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-annotate-as-pure/7.0.0"
+    status: "found_in_store"
+  16 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-define-map/7.1.0"
+    status: "resolving_content"
+  17 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-builder-binary-assignment-operator-visitor/7.1.0"
+    status: "found_in_store"
+  18 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-explode-assignable-expression/7.1.0"
+    status: "resolving_content"
+  19 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-builder-react-jsx/7.0.0"
+    status: "found_in_store"
+  20 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-function-name/7.1.0"
+    status: "resolving_content"
+  21 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-call-delegate/7.1.0"
+    status: "found_in_store"
+  22 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-get-function-arity/7.0.0"
+    status: "resolving_content"
+  23 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-define-map/7.1.0"
+    status: "found_in_store"
+  24 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-hoist-variables/7.0.0"
+    status: "resolving_content"
+  25 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-explode-assignable-expression/7.1.0"
+    status: "found_in_store"
+  26 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-member-expression-to-functions/7.0.0"
+    status: "resolving_content"
+  27 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-module-imports/7.0.0"
+    status: "resolving_content"
+  28 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-function-name/7.1.0"
+    status: "found_in_store"
+  29 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-get-function-arity/7.0.0"
+    status: "found_in_store"
+  30 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-module-transforms/7.1.0"
+    status: "resolving_content"
+  31 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-hoist-variables/7.0.0"
+    status: "found_in_store"
+  32 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-member-expression-to-functions/7.0.0"
+    status: "found_in_store"
+  33 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-optimise-call-expression/7.0.0"
+    status: "resolving_content"
+  34 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-module-imports/7.0.0"
+    status: "found_in_store"
+  35 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-plugin-utils/7.0.0"
+    status: "resolving_content"
+  36 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-module-transforms/7.1.0"
+    status: "found_in_store"
+  37 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-optimise-call-expression/7.0.0"
+    status: "found_in_store"
+  38 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-regex/7.0.0"
+    status: "resolving_content"
+  39 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-plugin-utils/7.0.0"
+    status: "found_in_store"
+  40 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-remap-async-to-generator/7.1.0"
+    status: "resolving_content"
+  41 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-replace-supers/7.1.0"
+    status: "resolving_content"
+  42 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-simple-access/7.1.0"
+    status: "resolving_content"
+  43 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-split-export-declaration/7.0.0"
+    status: "resolving_content"
+  44 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-regex/7.0.0"
+    status: "found_in_store"
+  45 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-remap-async-to-generator/7.1.0"
+    status: "found_in_store"
+  46 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-wrap-function/7.1.0"
+    status: "resolving_content"
+  47 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-replace-supers/7.1.0"
+    status: "found_in_store"
+  48 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-simple-access/7.1.0"
+    status: "found_in_store"
+  49 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helpers/7.1.2"
+    status: "resolving_content"
+  50 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-split-export-declaration/7.0.0"
+    status: "found_in_store"
+  51 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/highlight/7.0.0"
+    status: "resolving_content"
+  52 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helper-wrap-function/7.1.0"
+    status: "found_in_store"
+  53 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/parser/7.1.3"
+    status: "resolving_content"
+  54 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-async-generator-functions/7.1.0"
+    status: "resolving_content"
+  55 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/helpers/7.1.2"
+    status: "found_in_store"
+  56 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-json-strings/7.0.0"
+    status: "resolving_content"
+  57 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-object-rest-spread/7.0.0"
+    status: "resolving_content"
+  58 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/highlight/7.0.0"
+    status: "found_in_store"
+  59 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-optional-catch-binding/7.0.0"
+    status: "resolving_content"
+  60 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-unicode-property-regex/7.0.0"
+    status: "resolving_content"
+  61 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-async-generators/7.0.0"
+    status: "resolving_content"
+  62 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-json-strings/7.0.0"
+    status: "resolving_content"
+  63 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-async-generator-functions/7.1.0"
+    status: "found_in_store"
+  64 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-jsx/7.0.0"
+    status: "resolving_content"
+  65 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-json-strings/7.0.0"
+    status: "found_in_store"
+  66 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-object-rest-spread/7.0.0"
+    status: "resolving_content"
+  67 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/parser/7.1.3"
+    status: "found_in_store"
+  68 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/7.0.0"
+    status: "resolving_content"
+  69 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-object-rest-spread/7.0.0"
+    status: "found_in_store"
+  70 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-optional-catch-binding/7.0.0"
+    status: "found_in_store"
+  71 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-proposal-unicode-property-regex/7.0.0"
+    status: "found_in_store"
+  72 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-async-generators/7.0.0"
+    status: "found_in_store"
+  73 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-arrow-functions/7.0.0"
+    status: "resolving_content"
+  74 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-async-to-generator/7.1.0"
+    status: "resolving_content"
+  75 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-json-strings/7.0.0"
+    status: "found_in_store"
+  76 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-jsx/7.0.0"
+    status: "found_in_store"
+  77 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-object-rest-spread/7.0.0"
+    status: "found_in_store"
+  78 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/7.0.0"
+    status: "found_in_store"
+  79 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-block-scoped-functions/7.0.0"
+    status: "resolving_content"
+  80 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-block-scoping/7.0.0"
+    status: "resolving_content"
+  81 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-classes/7.1.0"
+    status: "resolving_content"
+  82 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-arrow-functions/7.0.0"
+    status: "found_in_store"
+  83 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-computed-properties/7.0.0"
+    status: "resolving_content"
+  84 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-destructuring/7.1.3"
+    status: "resolving_content"
+  85 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-async-to-generator/7.1.0"
+    status: "found_in_store"
+  86 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-block-scoped-functions/7.0.0"
+    status: "found_in_store"
+  87 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-dotall-regex/7.0.0"
+    status: "resolving_content"
+  88 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-block-scoping/7.0.0"
+    status: "found_in_store"
+  89 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-duplicate-keys/7.0.0"
+    status: "resolving_content"
+  90 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-exponentiation-operator/7.1.0"
+    status: "resolving_content"
+  91 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-computed-properties/7.0.0"
+    status: "found_in_store"
+  92 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-for-of/7.0.0"
+    status: "resolving_content"
+  93 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-classes/7.1.0"
+    status: "found_in_store"
+  94 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-function-name/7.1.0"
+    status: "resolving_content"
+  95 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-literals/7.0.0"
+    status: "resolving_content"
+  96 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-destructuring/7.1.3"
+    status: "found_in_store"
+  97 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-modules-amd/7.1.0"
+    status: "resolving_content"
+  98 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-dotall-regex/7.0.0"
+    status: "found_in_store"
+  99 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-duplicate-keys/7.0.0"
+    status: "found_in_store"
+  100 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-modules-commonjs/7.1.0"
+    status: "resolving_content"
+  101 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-exponentiation-operator/7.1.0"
+    status: "found_in_store"
+  102 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-for-of/7.0.0"
+    status: "found_in_store"
+  103 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-modules-systemjs/7.1.3"
+    status: "resolving_content"
+  104 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-modules-umd/7.1.0"
+    status: "resolving_content"
+  105 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-function-name/7.1.0"
+    status: "found_in_store"
+  106 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-new-target/7.0.0"
+    status: "resolving_content"
+  107 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-literals/7.0.0"
+    status: "found_in_store"
+  108 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-object-super/7.1.0"
+    status: "resolving_content"
+  109 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-modules-amd/7.1.0"
+    status: "found_in_store"
+  110 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-modules-commonjs/7.1.0"
+    status: "found_in_store"
+  111 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-parameters/7.1.0"
+    status: "resolving_content"
+  112 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-modules-systemjs/7.1.3"
+    status: "found_in_store"
+  113 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-react-display-name/7.0.0"
+    status: "resolving_content"
+  114 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-react-jsx-self/7.0.0"
+    status: "resolving_content"
+  115 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-modules-umd/7.1.0"
+    status: "found_in_store"
+  116 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-new-target/7.0.0"
+    status: "found_in_store"
+  117 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-react-jsx-source/7.0.0"
+    status: "resolving_content"
+  118 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-object-super/7.1.0"
+    status: "found_in_store"
+  119 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-react-jsx/7.0.0"
+    status: "resolving_content"
+  120 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-regenerator/7.0.0"
+    status: "resolving_content"
+  121 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-react-display-name/7.0.0"
+    status: "found_in_store"
+  122 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-react-jsx-self/7.0.0"
+    status: "found_in_store"
+  123 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-parameters/7.1.0"
+    status: "found_in_store"
+  124 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-shorthand-properties/7.0.0"
+    status: "resolving_content"
+  125 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-react-jsx-source/7.0.0"
+    status: "found_in_store"
+  126 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-react-jsx/7.0.0"
+    status: "found_in_store"
+  127 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-regenerator/7.0.0"
+    status: "found_in_store"
+  128 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-spread/7.0.0"
+    status: "resolving_content"
+  129 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-sticky-regex/7.0.0"
+    status: "resolving_content"
+  130 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-shorthand-properties/7.0.0"
+    status: "found_in_store"
+  131 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-template-literals/7.0.0"
+    status: "resolving_content"
+  132 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-typeof-symbol/7.0.0"
+    status: "resolving_content"
+  133 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-spread/7.0.0"
+    status: "found_in_store"
+  134 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-template-literals/7.0.0"
+    status: "found_in_store"
+  135 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-unicode-regex/7.0.0"
+    status: "resolving_content"
+  136 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-sticky-regex/7.0.0"
+    status: "found_in_store"
+  137 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/preset-env/7.1.0"
+    status: "resolving_content"
+  138 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/preset-react/7.0.0"
+    status: "resolving_content"
+  139 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/template/7.1.2"
+    status: "resolving_content"
+  140 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-typeof-symbol/7.0.0"
+    status: "found_in_store"
+  141 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/traverse/7.1.4"
+    status: "resolving_content"
+  142 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/types/7.1.3"
+    status: "resolving_content"
+  143 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/plugin-transform-unicode-regex/7.0.0"
+    status: "found_in_store"
+  144 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/preset-env/7.1.0"
+    status: "found_in_store"
+  145 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/ast/1.7.10"
+    status: "resolving_content"
+  146 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/preset-react/7.0.0"
+    status: "found_in_store"
+  147 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/1.7.10"
+    status: "resolving_content"
+  148 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/template/7.1.2"
+    status: "found_in_store"
+  149 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-api-error/1.7.10"
+    status: "resolving_content"
+  150 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/traverse/7.1.4"
+    status: "found_in_store"
+  151 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@babel/types/7.1.3"
+    status: "found_in_store"
+  152 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-buffer/1.7.10"
+    status: "resolving_content"
+  153 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-code-frame/1.7.10"
+    status: "resolving_content"
+  154 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/ast/1.7.10"
+    status: "found_in_store"
+  155 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-fsm/1.7.10"
+    status: "resolving_content"
+  156 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/1.7.10"
+    status: "found_in_store"
+  157 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-module-context/1.7.10"
+    status: "resolving_content"
+  158 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode/1.7.10"
+    status: "resolving_content"
+  159 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-api-error/1.7.10"
+    status: "found_in_store"
+  160 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-buffer/1.7.10"
+    status: "found_in_store"
+  161 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-wasm-section/1.7.10"
+    status: "resolving_content"
+  162 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-code-frame/1.7.10"
+    status: "found_in_store"
+  163 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/ieee754/1.7.10"
+    status: "resolving_content"
+  164 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-fsm/1.7.10"
+    status: "found_in_store"
+  165 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/leb128/1.7.10"
+    status: "resolving_content"
+  166 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/utf8/1.7.10"
+    status: "resolving_content"
+  167 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-module-context/1.7.10"
+    status: "found_in_store"
+  168 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wasm-edit/1.7.10"
+    status: "resolving_content"
+  169 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wasm-gen/1.7.10"
+    status: "resolving_content"
+  170 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode/1.7.10"
+    status: "found_in_store"
+  171 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wasm-opt/1.7.10"
+    status: "resolving_content"
+  172 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/helper-wasm-section/1.7.10"
+    status: "found_in_store"
+  173 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wasm-parser/1.7.10"
+    status: "resolving_content"
+  174 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wast-parser/1.7.10"
+    status: "resolving_content"
+  175 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/ieee754/1.7.10"
+    status: "found_in_store"
+  176 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/utf8/1.7.10"
+    status: "found_in_store"
+  177 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/leb128/1.7.10"
+    status: "found_in_store"
+  178 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wasm-edit/1.7.10"
+    status: "found_in_store"
+  179 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wast-printer/1.7.10"
+    status: "resolving_content"
+  180 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@xtuc/ieee754/1.2.0"
+    status: "resolving_content"
+  181 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wasm-gen/1.7.10"
+    status: "found_in_store"
+  182 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@xtuc/long/4.2.1"
+    status: "resolving_content"
+  183 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wasm-opt/1.7.10"
+    status: "found_in_store"
+  184 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/accepts/1.3.5"
+    status: "resolving_content"
+  185 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/acorn-dynamic-import/3.0.0"
+    status: "resolving_content"
+  186 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wasm-parser/1.7.10"
+    status: "found_in_store"
+  187 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/acorn/5.7.3"
+    status: "resolving_content"
+  188 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ajv-errors/1.0.0"
+    status: "resolving_content"
+  189 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wast-parser/1.7.10"
+    status: "found_in_store"
+  190 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ajv-keywords/3.2.0"
+    status: "resolving_content"
+  191 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@webassemblyjs/wast-printer/1.7.10"
+    status: "found_in_store"
+  192 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ajv/6.5.4"
+    status: "resolving_content"
+  193 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/accepts/1.3.5"
+    status: "found_in_store"
+  194 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@xtuc/ieee754/1.2.0"
+    status: "found_in_store"
+  195 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-colors/3.2.1"
+    status: "resolving_content"
+  196 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/@xtuc/long/4.2.1"
+    status: "found_in_store"
+  197 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-html/0.0.7"
+    status: "resolving_content"
+  198 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-regex/2.1.1"
+    status: "resolving_content"
+  199 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/acorn-dynamic-import/3.0.0"
+    status: "found_in_store"
+  200 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-regex/3.0.0"
+    status: "resolving_content"
+  201 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/acorn/5.7.3"
+    status: "found_in_store"
+  202 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ajv-errors/1.0.0"
+    status: "found_in_store"
+  203 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-styles/3.2.1"
+    status: "resolving_content"
+  204 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/anymatch/2.0.0"
+    status: "resolving_content"
+  205 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/aproba/1.2.0"
+    status: "resolving_content"
+  206 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ajv-keywords/3.2.0"
+    status: "found_in_store"
+  207 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ajv/6.5.4"
+    status: "found_in_store"
+  208 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/arr-diff/4.0.0"
+    status: "resolving_content"
+  209 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/arr-flatten/1.1.0"
+    status: "resolving_content"
+  210 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-html/0.0.7"
+    status: "found_in_store"
+  211 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/arr-union/3.1.0"
+    status: "resolving_content"
+  212 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-colors/3.2.1"
+    status: "found_in_store"
+  213 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-regex/2.1.1"
+    status: "found_in_store"
+  214 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-flatten/1.1.1"
+    status: "resolving_content"
+  215 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-flatten/2.1.1"
+    status: "resolving_content"
+  216 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-styles/3.2.1"
+    status: "found_in_store"
+  217 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-union/1.0.2"
+    status: "resolving_content"
+  218 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ansi-regex/3.0.0"
+    status: "found_in_store"
+  219 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-uniq/1.0.3"
+    status: "resolving_content"
+  220 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-unique/0.3.2"
+    status: "resolving_content"
+  221 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/anymatch/2.0.0"
+    status: "found_in_store"
+  222 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/aproba/1.2.0"
+    status: "found_in_store"
+  223 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/asn1.js/4.10.1"
+    status: "resolving_content"
+  224 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/arr-diff/4.0.0"
+    status: "found_in_store"
+  225 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/assert/1.4.1"
+    status: "resolving_content"
+  226 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/arr-flatten/1.1.0"
+    status: "found_in_store"
+  227 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/assign-symbols/1.0.0"
+    status: "resolving_content"
+  228 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/async-each/1.0.1"
+    status: "resolving_content"
+  229 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-flatten/1.1.1"
+    status: "found_in_store"
+  230 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/arr-union/3.1.0"
+    status: "found_in_store"
+  231 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/async/1.5.2"
+    status: "resolving_content"
+  232 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/atob/2.1.2"
+    status: "resolving_content"
+  233 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-flatten/2.1.1"
+    status: "found_in_store"
+  234 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/babel-loader/8.0.4"
+    status: "resolving_content"
+  235 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-uniq/1.0.3"
+    status: "found_in_store"
+  236 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-union/1.0.2"
+    status: "found_in_store"
+  237 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/balanced-match/1.0.0"
+    status: "resolving_content"
+  238 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/base/0.11.2"
+    status: "resolving_content"
+  239 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/array-unique/0.3.2"
+    status: "found_in_store"
+  240 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/assert/1.4.1"
+    status: "found_in_store"
+  241 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/base64-js/1.3.0"
+    status: "resolving_content"
+  242 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/asn1.js/4.10.1"
+    status: "found_in_store"
+  243 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/batch/0.6.1"
+    status: "resolving_content"
+  244 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/assign-symbols/1.0.0"
+    status: "found_in_store"
+  245 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/async-each/1.0.1"
+    status: "found_in_store"
+  246 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/big.js/3.2.0"
+    status: "resolving_content"
+  247 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/async/1.5.2"
+    status: "found_in_store"
+  248 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/atob/2.1.2"
+    status: "found_in_store"
+  249 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/binary-extensions/1.12.0"
+    status: "resolving_content"
+  250 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/bluebird/3.5.2"
+    status: "resolving_content"
+  251 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/bn.js/4.11.8"
+    status: "resolving_content"
+  252 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/babel-loader/8.0.4"
+    status: "found_in_store"
+  253 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/base64-js/1.3.0"
+    status: "found_in_store"
+  254 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/base/0.11.2"
+    status: "found_in_store"
+  255 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/balanced-match/1.0.0"
+    status: "found_in_store"
+  256 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/body-parser/1.18.3"
+    status: "resolving_content"
+  257 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/bonjour/3.5.0"
+    status: "resolving_content"
+  258 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/batch/0.6.1"
+    status: "found_in_store"
+  259 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/brace-expansion/1.1.11"
+    status: "resolving_content"
+  260 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/big.js/3.2.0"
+    status: "found_in_store"
+  261 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/binary-extensions/1.12.0"
+    status: "found_in_store"
+  262 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/braces/2.3.2"
+    status: "resolving_content"
+  263 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/bluebird/3.5.2"
+    status: "found_in_store"
+  264 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/brorand/1.1.0"
+    status: "resolving_content"
+  265 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-aes/1.2.0"
+    status: "resolving_content"
+  266 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/body-parser/1.18.3"
+    status: "found_in_store"
+  267 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/bn.js/4.11.8"
+    status: "found_in_store"
+  268 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-cipher/1.0.1"
+    status: "resolving_content"
+  269 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-des/1.0.2"
+    status: "resolving_content"
+  270 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/bonjour/3.5.0"
+    status: "found_in_store"
+  271 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-rsa/4.0.1"
+    status: "resolving_content"
+  272 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-sign/4.0.4"
+    status: "resolving_content"
+  273 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/brace-expansion/1.1.11"
+    status: "found_in_store"
+  274 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/braces/2.3.2"
+    status: "found_in_store"
+  275 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-zlib/0.2.0"
+    status: "resolving_content"
+  276 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserslist/4.3.3"
+    status: "resolving_content"
+  277 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/brorand/1.1.0"
+    status: "found_in_store"
+  278 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-aes/1.2.0"
+    status: "found_in_store"
+  279 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/buffer-from/1.1.1"
+    status: "resolving_content"
+  280 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-cipher/1.0.1"
+    status: "found_in_store"
+  281 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-des/1.0.2"
+    status: "found_in_store"
+  282 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/buffer-indexof/1.1.1"
+    status: "resolving_content"
+  283 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-rsa/4.0.1"
+    status: "found_in_store"
+  284 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/buffer-xor/1.0.3"
+    status: "resolving_content"
+  285 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-sign/4.0.4"
+    status: "found_in_store"
+  286 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/buffer/4.9.1"
+    status: "resolving_content"
+  287 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserify-zlib/0.2.0"
+    status: "found_in_store"
+  288 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/builtin-status-codes/3.0.0"
+    status: "resolving_content"
+  289 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/browserslist/4.3.3"
+    status: "found_in_store"
+  290 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/bytes/3.0.0"
+    status: "resolving_content"
+  291 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cacache/10.0.4"
+    status: "resolving_content"
+  292 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cache-base/1.0.1"
+    status: "resolving_content"
+  293 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/buffer-from/1.1.1"
+    status: "found_in_store"
+  294 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/camelcase/4.1.0"
+    status: "resolving_content"
+  295 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/buffer-indexof/1.1.1"
+    status: "found_in_store"
+  296 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/caniuse-lite/1.0.30000898"
+    status: "resolving_content"
+  297 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/buffer/4.9.1"
+    status: "found_in_store"
+  298 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/builtin-status-codes/3.0.0"
+    status: "found_in_store"
+  299 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/buffer-xor/1.0.3"
+    status: "found_in_store"
+  300 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/bytes/3.0.0"
+    status: "found_in_store"
+  301 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/chalk/2.4.1"
+    status: "resolving_content"
+  302 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/chokidar/2.0.4"
+    status: "resolving_content"
+  303 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/chownr/1.1.1"
+    status: "resolving_content"
+  304 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cache-base/1.0.1"
+    status: "found_in_store"
+  305 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cacache/10.0.4"
+    status: "found_in_store"
+  306 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/camelcase/4.1.0"
+    status: "found_in_store"
+  307 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/chrome-trace-event/1.0.0"
+    status: "resolving_content"
+  308 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cipher-base/1.0.4"
+    status: "resolving_content"
+  309 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/class-utils/0.3.6"
+    status: "resolving_content"
+  310 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/chalk/2.4.1"
+    status: "found_in_store"
+  311 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/chokidar/2.0.4"
+    status: "found_in_store"
+  312 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cliui/4.1.0"
+    status: "resolving_content"
+  313 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/code-point-at/1.1.0"
+    status: "resolving_content"
+  314 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/collection-visit/1.0.0"
+    status: "resolving_content"
+  315 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/chownr/1.1.1"
+    status: "found_in_store"
+  316 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/color-convert/1.9.3"
+    status: "resolving_content"
+  317 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/color-name/1.1.3"
+    status: "resolving_content"
+  318 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/commander/2.13.0"
+    status: "resolving_content"
+  319 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/chrome-trace-event/1.0.0"
+    status: "found_in_store"
+  320 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/commondir/1.0.1"
+    status: "resolving_content"
+  321 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/component-emitter/1.2.1"
+    status: "resolving_content"
+  322 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/class-utils/0.3.6"
+    status: "found_in_store"
+  323 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cipher-base/1.0.4"
+    status: "found_in_store"
+  324 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/compressible/2.0.15"
+    status: "resolving_content"
+  325 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cliui/4.1.0"
+    status: "found_in_store"
+  326 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/compression/1.7.3"
+    status: "resolving_content"
+  327 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/concat-map/0.0.1"
+    status: "resolving_content"
+  328 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/code-point-at/1.1.0"
+    status: "found_in_store"
+  329 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/collection-visit/1.0.0"
+    status: "found_in_store"
+  330 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/color-convert/1.9.3"
+    status: "found_in_store"
+  331 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/concat-stream/1.6.2"
+    status: "resolving_content"
+  332 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/connect-history-api-fallback/1.5.0"
+    status: "resolving_content"
+  333 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/commander/2.13.0"
+    status: "found_in_store"
+  334 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/color-name/1.1.3"
+    status: "found_in_store"
+  335 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/console-browserify/1.1.0"
+    status: "resolving_content"
+  336 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/constants-browserify/1.0.0"
+    status: "resolving_content"
+  337 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/commondir/1.0.1"
+    status: "found_in_store"
+  338 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/component-emitter/1.2.1"
+    status: "found_in_store"
+  339 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/content-disposition/0.5.2"
+    status: "resolving_content"
+  340 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/content-type/1.0.4"
+    status: "resolving_content"
+  341 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/compressible/2.0.15"
+    status: "found_in_store"
+  342 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/convert-source-map/1.6.0"
+    status: "resolving_content"
+  343 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/compression/1.7.3"
+    status: "found_in_store"
+  344 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cookie-signature/1.0.6"
+    status: "resolving_content"
+  345 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/concat-map/0.0.1"
+    status: "found_in_store"
+  346 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cookie/0.3.1"
+    status: "resolving_content"
+  347 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/copy-concurrently/1.0.5"
+    status: "resolving_content"
+  348 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/concat-stream/1.6.2"
+    status: "found_in_store"
+  349 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/connect-history-api-fallback/1.5.0"
+    status: "found_in_store"
+  350 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/console-browserify/1.1.0"
+    status: "found_in_store"
+  351 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/caniuse-lite/1.0.30000898"
+    status: "found_in_store"
+  352 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/content-disposition/0.5.2"
+    status: "found_in_store"
+  353 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/copy-descriptor/0.1.1"
+    status: "resolving_content"
+  354 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/content-type/1.0.4"
+    status: "found_in_store"
+  355 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/constants-browserify/1.0.0"
+    status: "found_in_store"
+  356 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/core-util-is/1.0.2"
+    status: "resolving_content"
+  357 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cookie-signature/1.0.6"
+    status: "found_in_store"
+  358 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cookie/0.3.1"
+    status: "found_in_store"
+  359 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/convert-source-map/1.6.0"
+    status: "found_in_store"
+  360 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/create-ecdh/4.0.3"
+    status: "resolving_content"
+  361 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/create-hash/1.2.0"
+    status: "resolving_content"
+  362 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/copy-concurrently/1.0.5"
+    status: "found_in_store"
+  363 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/create-hmac/1.1.7"
+    status: "resolving_content"
+  364 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cross-spawn/6.0.5"
+    status: "resolving_content"
+  365 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/copy-descriptor/0.1.1"
+    status: "found_in_store"
+  366 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/crypto-browserify/3.12.0"
+    status: "resolving_content"
+  367 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/core-util-is/1.0.2"
+    status: "found_in_store"
+  368 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cyclist/0.2.2"
+    status: "resolving_content"
+  369 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/create-ecdh/4.0.3"
+    status: "found_in_store"
+  370 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/date-now/0.1.4"
+    status: "resolving_content"
+  371 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/create-hash/1.2.0"
+    status: "found_in_store"
+  372 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/debug/2.6.9"
+    status: "resolving_content"
+  373 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/debug/3.1.0"
+    status: "resolving_content"
+  374 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/debug/3.2.6"
+    status: "resolving_content"
+  375 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/create-hmac/1.1.7"
+    status: "found_in_store"
+  376 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/decamelize/2.0.0"
+    status: "resolving_content"
+  377 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cross-spawn/6.0.5"
+    status: "found_in_store"
+  378 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/cyclist/0.2.2"
+    status: "found_in_store"
+  379 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/crypto-browserify/3.12.0"
+    status: "found_in_store"
+  380 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/decode-uri-component/0.2.0"
+    status: "resolving_content"
+  381 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/debug/2.6.9"
+    status: "found_in_store"
+  382 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/deep-equal/1.0.1"
+    status: "resolving_content"
+  383 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/debug/3.1.0"
+    status: "found_in_store"
+  384 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/date-now/0.1.4"
+    status: "found_in_store"
+  385 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/default-gateway/2.7.2"
+    status: "resolving_content"
+  386 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/define-properties/1.1.3"
+    status: "resolving_content"
+  387 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/debug/3.2.6"
+    status: "found_in_store"
+  388 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/decamelize/2.0.0"
+    status: "found_in_store"
+  389 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/decode-uri-component/0.2.0"
+    status: "found_in_store"
+  390 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/define-property/0.2.5"
+    status: "resolving_content"
+  391 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/define-property/1.0.0"
+    status: "resolving_content"
+  392 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/define-property/2.0.2"
+    status: "resolving_content"
+  393 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/deep-equal/1.0.1"
+    status: "found_in_store"
+  394 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/default-gateway/2.7.2"
+    status: "found_in_store"
+  395 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/del/3.0.0"
+    status: "resolving_content"
+  396 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/depd/1.1.2"
+    status: "resolving_content"
+  397 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/des.js/1.0.0"
+    status: "resolving_content"
+  398 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/define-properties/1.1.3"
+    status: "found_in_store"
+  399 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/destroy/1.0.4"
+    status: "resolving_content"
+  400 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/define-property/0.2.5"
+    status: "found_in_store"
+  401 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/detect-node/2.0.4"
+    status: "resolving_content"
+  402 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/define-property/1.0.0"
+    status: "found_in_store"
+  403 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/diffie-hellman/5.0.3"
+    status: "resolving_content"
+  404 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/define-property/2.0.2"
+    status: "found_in_store"
+  405 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/depd/1.1.2"
+    status: "found_in_store"
+  406 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/dns-equal/1.0.0"
+    status: "resolving_content"
+  407 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/dns-packet/1.3.1"
+    status: "resolving_content"
+  408 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/del/3.0.0"
+    status: "found_in_store"
+  409 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/destroy/1.0.4"
+    status: "found_in_store"
+  410 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/dns-txt/2.0.2"
+    status: "resolving_content"
+  411 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/des.js/1.0.0"
+    status: "found_in_store"
+  412 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/dom-walk/0.1.1"
+    status: "resolving_content"
+  413 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/domain-browser/1.2.0"
+    status: "resolving_content"
+  414 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/detect-node/2.0.4"
+    status: "found_in_store"
+  415 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/duplexify/3.6.1"
+    status: "resolving_content"
+  416 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/diffie-hellman/5.0.3"
+    status: "found_in_store"
+  417 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ee-first/1.1.1"
+    status: "resolving_content"
+  418 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/dns-equal/1.0.0"
+    status: "found_in_store"
+  419 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/electron-to-chromium/1.3.81"
+    status: "resolving_content"
+  420 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/elliptic/6.4.1"
+    status: "resolving_content"
+  421 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/dns-packet/1.3.1"
+    status: "found_in_store"
+  422 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/emojis-list/2.1.0"
+    status: "resolving_content"
+  423 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/dns-txt/2.0.2"
+    status: "found_in_store"
+  424 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/encodeurl/1.0.2"
+    status: "resolving_content"
+  425 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/end-of-stream/1.4.1"
+    status: "resolving_content"
+  426 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/dom-walk/0.1.1"
+    status: "found_in_store"
+  427 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/domain-browser/1.2.0"
+    status: "found_in_store"
+  428 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/enhanced-resolve/4.1.0"
+    status: "resolving_content"
+  429 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ee-first/1.1.1"
+    status: "found_in_store"
+  430 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/errno/0.1.7"
+    status: "resolving_content"
+  431 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/duplexify/3.6.1"
+    status: "found_in_store"
+  432 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/es-abstract/1.12.0"
+    status: "resolving_content"
+  433 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/es-to-primitive/1.2.0"
+    status: "resolving_content"
+  434 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/elliptic/6.4.1"
+    status: "found_in_store"
+  435 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/escape-html/1.0.3"
+    status: "resolving_content"
+  436 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/electron-to-chromium/1.3.81"
+    status: "found_in_store"
+  437 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/encodeurl/1.0.2"
+    status: "found_in_store"
+  438 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/escape-string-regexp/1.0.5"
+    status: "resolving_content"
+  439 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/eslint-scope/4.0.0"
+    status: "resolving_content"
+  440 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/emojis-list/2.1.0"
+    status: "found_in_store"
+  441 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/esrecurse/4.2.1"
+    status: "resolving_content"
+  442 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/end-of-stream/1.4.1"
+    status: "found_in_store"
+  443 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/estraverse/4.2.0"
+    status: "resolving_content"
+  444 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/enhanced-resolve/4.1.0"
+    status: "found_in_store"
+  445 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/esutils/2.0.2"
+    status: "resolving_content"
+  446 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/errno/0.1.7"
+    status: "found_in_store"
+  447 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/escape-html/1.0.3"
+    status: "found_in_store"
+  448 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/es-abstract/1.12.0"
+    status: "found_in_store"
+  449 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/etag/1.8.1"
+    status: "resolving_content"
+  450 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/es-to-primitive/1.2.0"
+    status: "found_in_store"
+  451 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/eventemitter3/3.1.0"
+    status: "resolving_content"
+  452 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/events/1.1.1"
+    status: "resolving_content"
+  453 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/escape-string-regexp/1.0.5"
+    status: "found_in_store"
+  454 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/eventsource/1.0.7"
+    status: "resolving_content"
+  455 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/evp_bytestokey/1.0.3"
+    status: "resolving_content"
+  456 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/eslint-scope/4.0.0"
+    status: "found_in_store"
+  457 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/execa/0.10.0"
+    status: "resolving_content"
+  458 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/esrecurse/4.2.1"
+    status: "found_in_store"
+  459 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/expand-brackets/2.1.4"
+    status: "resolving_content"
+  460 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/etag/1.8.1"
+    status: "found_in_store"
+  461 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/estraverse/4.2.0"
+    status: "found_in_store"
+  462 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/express/4.16.4"
+    status: "resolving_content"
+  463 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/extend-shallow/2.0.1"
+    status: "resolving_content"
+  464 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/esutils/2.0.2"
+    status: "found_in_store"
+  465 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/extend-shallow/3.0.2"
+    status: "resolving_content"
+  466 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/eventemitter3/3.1.0"
+    status: "found_in_store"
+  467 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/extglob/2.0.4"
+    status: "resolving_content"
+  468 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/events/1.1.1"
+    status: "found_in_store"
+  469 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fast-deep-equal/2.0.1"
+    status: "resolving_content"
+  470 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/evp_bytestokey/1.0.3"
+    status: "found_in_store"
+  471 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fast-json-stable-stringify/2.0.0"
+    status: "resolving_content"
+  472 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/execa/0.10.0"
+    status: "found_in_store"
+  473 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/eventsource/1.0.7"
+    status: "found_in_store"
+  474 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/expand-brackets/2.1.4"
+    status: "found_in_store"
+  475 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fast-levenshtein/2.0.6"
+    status: "resolving_content"
+  476 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/express/4.16.4"
+    status: "found_in_store"
+  477 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/extend-shallow/2.0.1"
+    status: "found_in_store"
+  478 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/faye-websocket/0.10.0"
+    status: "resolving_content"
+  479 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/faye-websocket/0.11.1"
+    status: "resolving_content"
+  480 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/extend-shallow/3.0.2"
+    status: "found_in_store"
+  481 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fill-range/4.0.0"
+    status: "resolving_content"
+  482 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/extglob/2.0.4"
+    status: "found_in_store"
+  483 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/finalhandler/1.1.1"
+    status: "resolving_content"
+  484 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fast-deep-equal/2.0.1"
+    status: "found_in_store"
+  485 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/find-cache-dir/1.0.0"
+    status: "resolving_content"
+  486 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/find-up/2.1.0"
+    status: "resolving_content"
+  487 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fast-json-stable-stringify/2.0.0"
+    status: "found_in_store"
+  488 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/find-up/3.0.0"
+    status: "resolving_content"
+  489 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fast-levenshtein/2.0.6"
+    status: "found_in_store"
+  490 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/flush-write-stream/1.0.3"
+    status: "resolving_content"
+  491 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/faye-websocket/0.10.0"
+    status: "found_in_store"
+  492 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/follow-redirects/1.5.9"
+    status: "resolving_content"
+  493 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/faye-websocket/0.11.1"
+    status: "found_in_store"
+  494 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/for-in/1.0.2"
+    status: "resolving_content"
+  495 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/forwarded/0.1.2"
+    status: "resolving_content"
+  496 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/finalhandler/1.1.1"
+    status: "found_in_store"
+  497 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/find-cache-dir/1.0.0"
+    status: "found_in_store"
+  498 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fragment-cache/0.2.1"
+    status: "resolving_content"
+  499 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fill-range/4.0.0"
+    status: "found_in_store"
+  500 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fresh/0.5.2"
+    status: "resolving_content"
+  501 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/from2/2.3.0"
+    status: "resolving_content"
+  502 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/find-up/2.1.0"
+    status: "found_in_store"
+  503 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fs-write-stream-atomic/1.0.10"
+    status: "resolving_content"
+  504 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/find-up/3.0.0"
+    status: "found_in_store"
+  505 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fs.realpath/1.0.0"
+    status: "resolving_content"
+  506 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/flush-write-stream/1.0.3"
+    status: "found_in_store"
+  507 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fsevents/1.2.4"
+    status: "resolving_content"
+  508 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/follow-redirects/1.5.9"
+    status: "found_in_store"
+  509 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/forwarded/0.1.2"
+    status: "found_in_store"
+  510 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/function-bind/1.1.1"
+    status: "resolving_content"
+  511 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/for-in/1.0.2"
+    status: "found_in_store"
+  512 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fresh/0.5.2"
+    status: "found_in_store"
+  513 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/get-caller-file/1.0.3"
+    status: "resolving_content"
+  514 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fragment-cache/0.2.1"
+    status: "found_in_store"
+  515 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/from2/2.3.0"
+    status: "found_in_store"
+  516 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/get-stream/3.0.0"
+    status: "resolving_content"
+  517 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fs-write-stream-atomic/1.0.10"
+    status: "found_in_store"
+  518 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/get-value/2.0.6"
+    status: "resolving_content"
+  519 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/glob-parent/3.1.0"
+    status: "resolving_content"
+  520 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/glob/7.1.3"
+    status: "resolving_content"
+  521 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/global-modules-path/2.3.0"
+    status: "resolving_content"
+  522 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fs.realpath/1.0.0"
+    status: "found_in_store"
+  523 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/global/4.3.2"
+    status: "resolving_content"
+  524 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/function-bind/1.1.1"
+    status: "found_in_store"
+  525 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/globals/11.8.0"
+    status: "resolving_content"
+  526 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/globby/6.1.0"
+    status: "resolving_content"
+  527 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/get-caller-file/1.0.3"
+    status: "found_in_store"
+  528 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/graceful-fs/4.1.11"
+    status: "resolving_content"
+  529 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/get-value/2.0.6"
+    status: "found_in_store"
+  530 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/get-stream/3.0.0"
+    status: "found_in_store"
+  531 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/handle-thing/1.2.5"
+    status: "resolving_content"
+  532 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-flag/3.0.0"
+    status: "resolving_content"
+  533 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/glob-parent/3.1.0"
+    status: "found_in_store"
+  534 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-symbols/1.0.0"
+    status: "resolving_content"
+  535 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-value/0.3.1"
+    status: "resolving_content"
+  536 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/glob/7.1.3"
+    status: "found_in_store"
+  537 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/global-modules-path/2.3.0"
+    status: "found_in_store"
+  538 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-value/1.0.0"
+    status: "resolving_content"
+  539 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/global/4.3.2"
+    status: "found_in_store"
+  540 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-values/0.1.4"
+    status: "resolving_content"
+  541 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/globals/11.8.0"
+    status: "found_in_store"
+  542 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-values/1.0.0"
+    status: "resolving_content"
+  543 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/globby/6.1.0"
+    status: "found_in_store"
+  544 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has/1.0.3"
+    status: "resolving_content"
+  545 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/graceful-fs/4.1.11"
+    status: "found_in_store"
+  546 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hash-base/3.0.4"
+    status: "resolving_content"
+  547 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/handle-thing/1.2.5"
+    status: "found_in_store"
+  548 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hash.js/1.1.5"
+    status: "resolving_content"
+  549 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hmac-drbg/1.0.1"
+    status: "resolving_content"
+  550 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-flag/3.0.0"
+    status: "found_in_store"
+  551 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/fsevents/1.2.4"
+    status: "found_in_store"
+  552 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-value/0.3.1"
+    status: "found_in_store"
+  553 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hoist-non-react-statics/2.5.5"
+    status: "resolving_content"
+  554 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-symbols/1.0.0"
+    status: "found_in_store"
+  555 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hpack.js/2.1.6"
+    status: "resolving_content"
+  556 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-value/1.0.0"
+    status: "found_in_store"
+  557 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/html-entities/1.2.1"
+    status: "resolving_content"
+  558 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-values/1.0.0"
+    status: "found_in_store"
+  559 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-deceiver/1.2.7"
+    status: "resolving_content"
+  560 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has-values/0.1.4"
+    status: "found_in_store"
+  561 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-errors/1.6.3"
+    status: "resolving_content"
+  562 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/has/1.0.3"
+    status: "found_in_store"
+  563 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-parser-js/0.5.0"
+    status: "resolving_content"
+  564 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hash-base/3.0.4"
+    status: "found_in_store"
+  565 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-proxy-middleware/0.18.0"
+    status: "resolving_content"
+  566 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hash.js/1.1.5"
+    status: "found_in_store"
+  567 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-proxy/1.17.0"
+    status: "resolving_content"
+  568 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hmac-drbg/1.0.1"
+    status: "found_in_store"
+  569 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hoist-non-react-statics/2.5.5"
+    status: "found_in_store"
+  570 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/https-browserify/1.0.0"
+    status: "resolving_content"
+  571 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/hpack.js/2.1.6"
+    status: "found_in_store"
+  572 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/iconv-lite/0.4.23"
+    status: "resolving_content"
+  573 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/html-entities/1.2.1"
+    status: "found_in_store"
+  574 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ieee754/1.1.12"
+    status: "resolving_content"
+  575 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-errors/1.6.3"
+    status: "found_in_store"
+  576 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-deceiver/1.2.7"
+    status: "found_in_store"
+  577 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/iferr/0.1.5"
+    status: "resolving_content"
+  578 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/import-local/2.0.0"
+    status: "resolving_content"
+  579 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-parser-js/0.5.0"
+    status: "found_in_store"
+  580 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/imurmurhash/0.1.4"
+    status: "resolving_content"
+  581 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-proxy-middleware/0.18.0"
+    status: "found_in_store"
+  582 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/indexof/0.0.1"
+    status: "resolving_content"
+  583 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/http-proxy/1.17.0"
+    status: "found_in_store"
+  584 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/inflight/1.0.6"
+    status: "resolving_content"
+  585 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/inherits/2.0.1"
+    status: "resolving_content"
+  586 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/https-browserify/1.0.0"
+    status: "found_in_store"
+  587 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/inherits/2.0.3"
+    status: "resolving_content"
+  588 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/internal-ip/3.0.1"
+    status: "resolving_content"
+  589 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/iconv-lite/0.4.23"
+    status: "found_in_store"
+  590 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ieee754/1.1.12"
+    status: "found_in_store"
+  591 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/interpret/1.1.0"
+    status: "resolving_content"
+  592 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/iferr/0.1.5"
+    status: "found_in_store"
+  593 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/import-local/2.0.0"
+    status: "found_in_store"
+  594 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/invariant/2.2.4"
+    status: "resolving_content"
+  595 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/invert-kv/2.0.0"
+    status: "resolving_content"
+  596 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/imurmurhash/0.1.4"
+    status: "found_in_store"
+  597 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ip-regex/2.1.0"
+    status: "resolving_content"
+  598 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/indexof/0.0.1"
+    status: "found_in_store"
+  599 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/inflight/1.0.6"
+    status: "found_in_store"
+  600 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ip/1.1.5"
+    status: "resolving_content"
+  601 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/inherits/2.0.1"
+    status: "found_in_store"
+  602 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ipaddr.js/1.8.0"
+    status: "resolving_content"
+  603 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/inherits/2.0.3"
+    status: "found_in_store"
+  604 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ipaddr.js/1.8.1"
+    status: "resolving_content"
+  605 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/interpret/1.1.0"
+    status: "found_in_store"
+  606 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/internal-ip/3.0.1"
+    status: "found_in_store"
+  607 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-accessor-descriptor/0.1.6"
+    status: "resolving_content"
+  608 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/invariant/2.2.4"
+    status: "found_in_store"
+  609 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/invert-kv/2.0.0"
+    status: "found_in_store"
+  610 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-accessor-descriptor/1.0.0"
+    status: "resolving_content"
+  611 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-binary-path/1.0.1"
+    status: "resolving_content"
+  612 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ip-regex/2.1.0"
+    status: "found_in_store"
+  613 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-buffer/1.1.6"
+    status: "resolving_content"
+  614 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ip/1.1.5"
+    status: "found_in_store"
+  615 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-callable/1.1.4"
+    status: "resolving_content"
+  616 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ipaddr.js/1.8.0"
+    status: "found_in_store"
+  617 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-data-descriptor/0.1.4"
+    status: "resolving_content"
+  618 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-data-descriptor/1.0.0"
+    status: "resolving_content"
+  619 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-date-object/1.0.1"
+    status: "resolving_content"
+  620 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-accessor-descriptor/0.1.6"
+    status: "found_in_store"
+  621 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ipaddr.js/1.8.1"
+    status: "found_in_store"
+  622 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-descriptor/0.1.6"
+    status: "resolving_content"
+  623 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-accessor-descriptor/1.0.0"
+    status: "found_in_store"
+  624 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-descriptor/1.0.2"
+    status: "resolving_content"
+  625 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-extendable/0.1.1"
+    status: "resolving_content"
+  626 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-binary-path/1.0.1"
+    status: "found_in_store"
+  627 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-extendable/1.0.1"
+    status: "resolving_content"
+  628 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-buffer/1.1.6"
+    status: "found_in_store"
+  629 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-data-descriptor/0.1.4"
+    status: "found_in_store"
+  630 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-extglob/2.1.1"
+    status: "resolving_content"
+  631 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-callable/1.1.4"
+    status: "found_in_store"
+  632 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-data-descriptor/1.0.0"
+    status: "found_in_store"
+  633 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-fullwidth-code-point/1.0.0"
+    status: "resolving_content"
+  634 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-date-object/1.0.1"
+    status: "found_in_store"
+  635 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-fullwidth-code-point/2.0.0"
+    status: "resolving_content"
+  636 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-descriptor/0.1.6"
+    status: "found_in_store"
+  637 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-glob/3.1.0"
+    status: "resolving_content"
+  638 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-descriptor/1.0.2"
+    status: "found_in_store"
+  639 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-glob/4.0.0"
+    status: "resolving_content"
+  640 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-number/3.0.0"
+    status: "resolving_content"
+  641 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-extendable/0.1.1"
+    status: "found_in_store"
+  642 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-extendable/1.0.1"
+    status: "found_in_store"
+  643 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-path-cwd/1.0.0"
+    status: "resolving_content"
+  644 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-path-in-cwd/1.0.1"
+    status: "resolving_content"
+  645 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-path-inside/1.0.1"
+    status: "resolving_content"
+  646 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-extglob/2.1.1"
+    status: "found_in_store"
+  647 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-plain-object/2.0.4"
+    status: "resolving_content"
+  648 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-fullwidth-code-point/1.0.0"
+    status: "found_in_store"
+  649 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-regex/1.0.4"
+    status: "resolving_content"
+  650 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-stream/1.1.0"
+    status: "resolving_content"
+  651 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-fullwidth-code-point/2.0.0"
+    status: "found_in_store"
+  652 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-symbol/1.0.2"
+    status: "resolving_content"
+  653 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-glob/3.1.0"
+    status: "found_in_store"
+  654 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-glob/4.0.0"
+    status: "found_in_store"
+  655 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-windows/1.0.2"
+    status: "resolving_content"
+  656 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-number/3.0.0"
+    status: "found_in_store"
+  657 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-wsl/1.1.0"
+    status: "resolving_content"
+  658 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-path-cwd/1.0.0"
+    status: "found_in_store"
+  659 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-path-in-cwd/1.0.1"
+    status: "found_in_store"
+  660 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-path-inside/1.0.1"
+    status: "found_in_store"
+  661 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/isarray/1.0.0"
+    status: "resolving_content"
+  662 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/isexe/2.0.0"
+    status: "resolving_content"
+  663 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-plain-object/2.0.4"
+    status: "found_in_store"
+  664 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/isobject/2.1.0"
+    status: "resolving_content"
+  665 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-stream/1.1.0"
+    status: "found_in_store"
+  666 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/isobject/3.0.1"
+    status: "resolving_content"
+  667 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-regex/1.0.4"
+    status: "found_in_store"
+  668 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-symbol/1.0.2"
+    status: "found_in_store"
+  669 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/js-levenshtein/1.1.4"
+    status: "resolving_content"
+  670 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/js-tokens/4.0.0"
+    status: "resolving_content"
+  671 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/jsesc/0.5.0"
+    status: "resolving_content"
+  672 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-windows/1.0.2"
+    status: "found_in_store"
+  673 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/is-wsl/1.1.0"
+    status: "found_in_store"
+  674 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/jsesc/2.5.1"
+    status: "resolving_content"
+  675 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/isexe/2.0.0"
+    status: "found_in_store"
+  676 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/json-parse-better-errors/1.0.2"
+    status: "resolving_content"
+  677 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/isobject/2.1.0"
+    status: "found_in_store"
+  678 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/isarray/1.0.0"
+    status: "found_in_store"
+  679 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/json-schema-traverse/0.4.1"
+    status: "resolving_content"
+  680 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/json3/3.3.2"
+    status: "resolving_content"
+  681 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/js-levenshtein/1.1.4"
+    status: "found_in_store"
+  682 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/isobject/3.0.1"
+    status: "found_in_store"
+  683 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/json5/0.5.1"
+    status: "resolving_content"
+  684 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/killable/1.0.1"
+    status: "resolving_content"
+  685 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/js-tokens/4.0.0"
+    status: "found_in_store"
+  686 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/kind-of/3.2.2"
+    status: "resolving_content"
+  687 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/jsesc/2.5.1"
+    status: "found_in_store"
+  688 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/kind-of/4.0.0"
+    status: "resolving_content"
+  689 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/jsesc/0.5.0"
+    status: "found_in_store"
+  690 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/kind-of/5.1.0"
+    status: "resolving_content"
+  691 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/json-parse-better-errors/1.0.2"
+    status: "found_in_store"
+  692 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/kind-of/6.0.2"
+    status: "resolving_content"
+  693 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/lcid/2.0.0"
+    status: "resolving_content"
+  694 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/json-schema-traverse/0.4.1"
+    status: "found_in_store"
+  695 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/loader-runner/2.3.1"
+    status: "resolving_content"
+  696 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/json5/0.5.1"
+    status: "found_in_store"
+  697 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/json3/3.3.2"
+    status: "found_in_store"
+  698 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/loader-utils/1.1.0"
+    status: "resolving_content"
+  699 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/locate-path/2.0.0"
+    status: "resolving_content"
+  700 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/locate-path/3.0.0"
+    status: "resolving_content"
+  701 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/lodash.debounce/4.0.8"
+    status: "resolving_content"
+  702 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/killable/1.0.1"
+    status: "found_in_store"
+  703 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/kind-of/3.2.2"
+    status: "found_in_store"
+  704 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/kind-of/4.0.0"
+    status: "found_in_store"
+  705 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/lodash/4.17.11"
+    status: "resolving_content"
+  706 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/kind-of/5.1.0"
+    status: "found_in_store"
+  707 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/loglevel/1.6.1"
+    status: "resolving_content"
+  708 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/loose-envify/1.4.0"
+    status: "resolving_content"
+  709 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/kind-of/6.0.2"
+    status: "found_in_store"
+  710 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/lcid/2.0.0"
+    status: "found_in_store"
+  711 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/lru-cache/4.1.3"
+    status: "resolving_content"
+  712 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/loader-runner/2.3.1"
+    status: "found_in_store"
+  713 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/make-dir/1.3.0"
+    status: "resolving_content"
+  714 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/loader-utils/1.1.0"
+    status: "found_in_store"
+  715 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/locate-path/2.0.0"
+    status: "found_in_store"
+  716 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/map-age-cleaner/0.1.2"
+    status: "resolving_content"
+  717 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/locate-path/3.0.0"
+    status: "found_in_store"
+  718 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/lodash.debounce/4.0.8"
+    status: "found_in_store"
+  719 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/map-cache/0.2.2"
+    status: "resolving_content"
+  720 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/map-visit/1.0.0"
+    status: "resolving_content"
+  721 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/loglevel/1.6.1"
+    status: "found_in_store"
+  722 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/md5.js/1.3.5"
+    status: "resolving_content"
+  723 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/loose-envify/1.4.0"
+    status: "found_in_store"
+  724 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/media-typer/0.3.0"
+    status: "resolving_content"
+  725 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mem/4.0.0"
+    status: "resolving_content"
+  726 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/lru-cache/4.1.3"
+    status: "found_in_store"
+  727 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/memory-fs/0.4.1"
+    status: "resolving_content"
+  728 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/merge-descriptors/1.0.1"
+    status: "resolving_content"
+  729 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/make-dir/1.3.0"
+    status: "found_in_store"
+  730 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/methods/1.1.2"
+    status: "resolving_content"
+  731 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/map-age-cleaner/0.1.2"
+    status: "found_in_store"
+  732 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/micromatch/3.1.10"
+    status: "resolving_content"
+  733 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/map-cache/0.2.2"
+    status: "found_in_store"
+  734 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/miller-rabin/4.0.1"
+    status: "resolving_content"
+  735 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/map-visit/1.0.0"
+    status: "found_in_store"
+  736 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/md5.js/1.3.5"
+    status: "found_in_store"
+  737 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mime-db/1.37.0"
+    status: "resolving_content"
+  738 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/media-typer/0.3.0"
+    status: "found_in_store"
+  739 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mime-types/2.1.21"
+    status: "resolving_content"
+  740 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mem/4.0.0"
+    status: "found_in_store"
+  741 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mime/1.4.1"
+    status: "resolving_content"
+  742 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mime/2.3.1"
+    status: "resolving_content"
+  743 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/merge-descriptors/1.0.1"
+    status: "found_in_store"
+  744 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/memory-fs/0.4.1"
+    status: "found_in_store"
+  745 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mimic-fn/1.2.0"
+    status: "resolving_content"
+  746 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/methods/1.1.2"
+    status: "found_in_store"
+  747 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/min-document/2.19.0"
+    status: "resolving_content"
+  748 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/micromatch/3.1.10"
+    status: "found_in_store"
+  749 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/minimalistic-assert/1.0.1"
+    status: "resolving_content"
+  750 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/minimalistic-crypto-utils/1.0.1"
+    status: "resolving_content"
+  751 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/minimatch/3.0.4"
+    status: "resolving_content"
+  752 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/miller-rabin/4.0.1"
+    status: "found_in_store"
+  753 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mime-db/1.37.0"
+    status: "found_in_store"
+  754 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/minimist/0.0.8"
+    status: "resolving_content"
+  755 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mime-types/2.1.21"
+    status: "found_in_store"
+  756 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mississippi/2.0.0"
+    status: "resolving_content"
+  757 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mixin-deep/1.3.1"
+    status: "resolving_content"
+  758 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mime/1.4.1"
+    status: "found_in_store"
+  759 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mkdirp/0.5.1"
+    status: "resolving_content"
+  760 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mime/2.3.1"
+    status: "found_in_store"
+  761 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/move-concurrently/1.0.1"
+    status: "resolving_content"
+  762 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mimic-fn/1.2.0"
+    status: "found_in_store"
+  763 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ms/2.0.0"
+    status: "resolving_content"
+  764 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/minimalistic-assert/1.0.1"
+    status: "found_in_store"
+  765 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ms/2.1.1"
+    status: "resolving_content"
+  766 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/min-document/2.19.0"
+    status: "found_in_store"
+  767 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/multicast-dns-service-types/1.1.0"
+    status: "resolving_content"
+  768 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/minimalistic-crypto-utils/1.0.1"
+    status: "found_in_store"
+  769 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/multicast-dns/6.2.3"
+    status: "resolving_content"
+  770 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/minimatch/3.0.4"
+    status: "found_in_store"
+  771 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/nan/2.11.1"
+    status: "resolving_content"
+  772 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/minimist/0.0.8"
+    status: "found_in_store"
+  773 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/nanomatch/1.2.13"
+    status: "resolving_content"
+  774 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mississippi/2.0.0"
+    status: "found_in_store"
+  775 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/negotiator/0.6.1"
+    status: "resolving_content"
+  776 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mixin-deep/1.3.1"
+    status: "found_in_store"
+  777 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/neo-async/2.6.0"
+    status: "resolving_content"
+  778 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/mkdirp/0.5.1"
+    status: "found_in_store"
+  779 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/nice-try/1.0.5"
+    status: "resolving_content"
+  780 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ms/2.0.0"
+    status: "found_in_store"
+  781 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/move-concurrently/1.0.1"
+    status: "found_in_store"
+  782 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/node-forge/0.7.5"
+    status: "resolving_content"
+  783 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ms/2.1.1"
+    status: "found_in_store"
+  784 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/node-libs-browser/2.1.0"
+    status: "resolving_content"
+  785 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/multicast-dns-service-types/1.1.0"
+    status: "found_in_store"
+  786 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/lodash/4.17.11"
+    status: "found_in_store"
+  787 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/node-releases/1.0.0-alpha.15"
+    status: "resolving_content"
+  788 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/multicast-dns/6.2.3"
+    status: "found_in_store"
+  789 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/normalize-path/2.1.1"
+    status: "resolving_content"
+  790 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/nan/2.11.1"
+    status: "found_in_store"
+  791 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/nanomatch/1.2.13"
+    status: "found_in_store"
+  792 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/negotiator/0.6.1"
+    status: "found_in_store"
+  793 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/npm-run-path/2.0.2"
+    status: "resolving_content"
+  794 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/number-is-nan/1.0.1"
+    status: "resolving_content"
+  795 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/nice-try/1.0.5"
+    status: "found_in_store"
+  796 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object-assign/4.1.1"
+    status: "resolving_content"
+  797 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/neo-async/2.6.0"
+    status: "found_in_store"
+  798 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/node-forge/0.7.5"
+    status: "found_in_store"
+  799 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object-copy/0.1.0"
+    status: "resolving_content"
+  800 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object-keys/1.0.12"
+    status: "resolving_content"
+  801 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/node-libs-browser/2.1.0"
+    status: "found_in_store"
+  802 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/node-releases/1.0.0-alpha.15"
+    status: "found_in_store"
+  803 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object-visit/1.0.1"
+    status: "resolving_content"
+  804 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object.getownpropertydescriptors/2.0.3"
+    status: "resolving_content"
+  805 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object.pick/1.3.0"
+    status: "resolving_content"
+  806 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/npm-run-path/2.0.2"
+    status: "found_in_store"
+  807 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/normalize-path/2.1.1"
+    status: "found_in_store"
+  808 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object-assign/4.1.1"
+    status: "found_in_store"
+  809 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/obuf/1.1.2"
+    status: "resolving_content"
+  810 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/number-is-nan/1.0.1"
+    status: "found_in_store"
+  811 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/on-finished/2.3.0"
+    status: "resolving_content"
+  812 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object-copy/0.1.0"
+    status: "found_in_store"
+  813 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/on-headers/1.0.1"
+    status: "resolving_content"
+  814 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object-visit/1.0.1"
+    status: "found_in_store"
+  815 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object-keys/1.0.12"
+    status: "found_in_store"
+  816 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/once/1.4.0"
+    status: "resolving_content"
+  817 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/opn/5.4.0"
+    status: "resolving_content"
+  818 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object.getownpropertydescriptors/2.0.3"
+    status: "found_in_store"
+  819 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/original/1.0.2"
+    status: "resolving_content"
+  820 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/os-browserify/0.3.0"
+    status: "resolving_content"
+  821 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/object.pick/1.3.0"
+    status: "found_in_store"
+  822 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/obuf/1.1.2"
+    status: "found_in_store"
+  823 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/on-finished/2.3.0"
+    status: "found_in_store"
+  824 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/os-locale/3.0.1"
+    status: "resolving_content"
+  825 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-defer/1.0.0"
+    status: "resolving_content"
+  826 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/on-headers/1.0.1"
+    status: "found_in_store"
+  827 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/once/1.4.0"
+    status: "found_in_store"
+  828 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/opn/5.4.0"
+    status: "found_in_store"
+  829 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-finally/1.0.0"
+    status: "resolving_content"
+  830 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-is-promise/1.1.0"
+    status: "resolving_content"
+  831 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-limit/1.3.0"
+    status: "resolving_content"
+  832 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-limit/2.0.0"
+    status: "resolving_content"
+  833 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/original/1.0.2"
+    status: "found_in_store"
+  834 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-locate/2.0.0"
+    status: "resolving_content"
+  835 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-locate/3.0.0"
+    status: "resolving_content"
+  836 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/os-browserify/0.3.0"
+    status: "found_in_store"
+  837 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/os-locale/3.0.1"
+    status: "found_in_store"
+  838 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-map/1.2.0"
+    status: "resolving_content"
+  839 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-try/1.0.0"
+    status: "resolving_content"
+  840 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-defer/1.0.0"
+    status: "found_in_store"
+  841 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-try/2.0.0"
+    status: "resolving_content"
+  842 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pako/1.0.6"
+    status: "resolving_content"
+  843 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-finally/1.0.0"
+    status: "found_in_store"
+  844 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-is-promise/1.1.0"
+    status: "found_in_store"
+  845 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/parallel-transform/1.1.0"
+    status: "resolving_content"
+  846 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-limit/2.0.0"
+    status: "found_in_store"
+  847 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-limit/1.3.0"
+    status: "found_in_store"
+  848 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/parse-asn1/5.1.1"
+    status: "resolving_content"
+  849 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-locate/2.0.0"
+    status: "found_in_store"
+  850 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/parseurl/1.3.2"
+    status: "resolving_content"
+  851 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pascalcase/0.1.1"
+    status: "resolving_content"
+  852 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-locate/3.0.0"
+    status: "found_in_store"
+  853 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-map/1.2.0"
+    status: "found_in_store"
+  854 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-browserify/0.0.0"
+    status: "resolving_content"
+  855 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-try/1.0.0"
+    status: "found_in_store"
+  856 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/p-try/2.0.0"
+    status: "found_in_store"
+  857 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-dirname/1.0.2"
+    status: "resolving_content"
+  858 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pako/1.0.6"
+    status: "found_in_store"
+  859 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-exists/3.0.0"
+    status: "resolving_content"
+  860 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-is-absolute/1.0.1"
+    status: "resolving_content"
+  861 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/parallel-transform/1.1.0"
+    status: "found_in_store"
+  862 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-is-inside/1.0.2"
+    status: "resolving_content"
+  863 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/parseurl/1.3.2"
+    status: "found_in_store"
+  864 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-key/2.0.1"
+    status: "resolving_content"
+  865 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/parse-asn1/5.1.1"
+    status: "found_in_store"
+  866 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-parse/1.0.6"
+    status: "resolving_content"
+  867 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pascalcase/0.1.1"
+    status: "found_in_store"
+  868 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-to-regexp/0.1.7"
+    status: "resolving_content"
+  869 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pbkdf2/3.0.17"
+    status: "resolving_content"
+  870 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-browserify/0.0.0"
+    status: "found_in_store"
+  871 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pify/2.3.0"
+    status: "resolving_content"
+  872 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-dirname/1.0.2"
+    status: "found_in_store"
+  873 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pify/3.0.0"
+    status: "resolving_content"
+  874 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pinkie-promise/2.0.1"
+    status: "resolving_content"
+  875 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pinkie/2.0.4"
+    status: "resolving_content"
+  876 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-is-absolute/1.0.1"
+    status: "found_in_store"
+  877 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-exists/3.0.0"
+    status: "found_in_store"
+  878 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-is-inside/1.0.2"
+    status: "found_in_store"
+  879 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-key/2.0.1"
+    status: "found_in_store"
+  880 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pkg-dir/2.0.0"
+    status: "resolving_content"
+  881 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pkg-dir/3.0.0"
+    status: "resolving_content"
+  882 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-parse/1.0.6"
+    status: "found_in_store"
+  883 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/path-to-regexp/0.1.7"
+    status: "found_in_store"
+  884 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/portfinder/1.0.19"
+    status: "resolving_content"
+  885 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/posix-character-classes/0.1.1"
+    status: "resolving_content"
+  886 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pbkdf2/3.0.17"
+    status: "found_in_store"
+  887 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pify/2.3.0"
+    status: "found_in_store"
+  888 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pify/3.0.0"
+    status: "found_in_store"
+  889 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/private/0.1.8"
+    status: "resolving_content"
+  890 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/process-nextick-args/2.0.0"
+    status: "resolving_content"
+  891 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pinkie-promise/2.0.1"
+    status: "found_in_store"
+  892 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pinkie/2.0.4"
+    status: "found_in_store"
+  893 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pkg-dir/2.0.0"
+    status: "found_in_store"
+  894 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/process/0.11.10"
+    status: "resolving_content"
+  895 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pkg-dir/3.0.0"
+    status: "found_in_store"
+  896 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/process/0.5.2"
+    status: "resolving_content"
+  897 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/promise-inflight/1.0.1"
+    status: "resolving_content"
+  898 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/portfinder/1.0.19"
+    status: "found_in_store"
+  899 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/posix-character-classes/0.1.1"
+    status: "found_in_store"
+  900 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/prop-types/15.6.2"
+    status: "resolving_content"
+  901 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/proxy-addr/2.0.4"
+    status: "resolving_content"
+  902 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/prr/1.0.1"
+    status: "resolving_content"
+  903 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/process-nextick-args/2.0.0"
+    status: "found_in_store"
+  904 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/private/0.1.8"
+    status: "found_in_store"
+  905 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pseudomap/1.0.2"
+    status: "resolving_content"
+  906 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/public-encrypt/4.0.3"
+    status: "resolving_content"
+  907 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pump/2.0.1"
+    status: "resolving_content"
+  908 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/process/0.11.10"
+    status: "found_in_store"
+  909 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/process/0.5.2"
+    status: "found_in_store"
+  910 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/promise-inflight/1.0.1"
+    status: "found_in_store"
+  911 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pumpify/1.5.1"
+    status: "resolving_content"
+  912 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/proxy-addr/2.0.4"
+    status: "found_in_store"
+  913 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/punycode/1.3.2"
+    status: "resolving_content"
+  914 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/prop-types/15.6.2"
+    status: "found_in_store"
+  915 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/prr/1.0.1"
+    status: "found_in_store"
+  916 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/punycode/1.4.1"
+    status: "resolving_content"
+  917 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/punycode/2.1.1"
+    status: "resolving_content"
+  918 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pseudomap/1.0.2"
+    status: "found_in_store"
+  919 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/qs/6.5.2"
+    status: "resolving_content"
+  920 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/public-encrypt/4.0.3"
+    status: "found_in_store"
+  921 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/querystring-es3/0.2.1"
+    status: "resolving_content"
+  922 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/querystring/0.2.0"
+    status: "resolving_content"
+  923 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/querystringify/2.1.0"
+    status: "resolving_content"
+  924 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/randombytes/2.0.6"
+    status: "resolving_content"
+  925 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pump/2.0.1"
+    status: "found_in_store"
+  926 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/pumpify/1.5.1"
+    status: "found_in_store"
+  927 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/randomfill/1.0.4"
+    status: "resolving_content"
+  928 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/punycode/1.3.2"
+    status: "found_in_store"
+  929 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/range-parser/1.2.0"
+    status: "resolving_content"
+  930 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/punycode/1.4.1"
+    status: "found_in_store"
+  931 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/raw-body/2.3.3"
+    status: "resolving_content"
+  932 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/punycode/2.1.1"
+    status: "found_in_store"
+  933 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/qs/6.5.2"
+    status: "found_in_store"
+  934 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/react-dom/16.6.0"
+    status: "resolving_content"
+  935 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/querystring-es3/0.2.1"
+    status: "found_in_store"
+  936 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/querystring/0.2.0"
+    status: "found_in_store"
+  937 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/react-hot-loader/4.3.11"
+    status: "resolving_content"
+  938 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/querystringify/2.1.0"
+    status: "found_in_store"
+  939 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/react-lifecycles-compat/3.0.4"
+    status: "resolving_content"
+  940 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/randombytes/2.0.6"
+    status: "found_in_store"
+  941 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/react/16.6.0"
+    status: "resolving_content"
+  942 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/randomfill/1.0.4"
+    status: "found_in_store"
+  943 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/raw-body/2.3.3"
+    status: "found_in_store"
+  944 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/range-parser/1.2.0"
+    status: "found_in_store"
+  945 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/readable-stream/2.3.6"
+    status: "resolving_content"
+  946 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/readdirp/2.2.1"
+    status: "resolving_content"
+  947 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regenerate-unicode-properties/7.0.0"
+    status: "resolving_content"
+  948 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regenerate/1.4.0"
+    status: "resolving_content"
+  949 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/react-hot-loader/4.3.11"
+    status: "found_in_store"
+  950 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regenerator-transform/0.13.3"
+    status: "resolving_content"
+  951 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regex-not/1.0.2"
+    status: "resolving_content"
+  952 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regexpu-core/4.2.0"
+    status: "resolving_content"
+  953 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/react-dom/16.6.0"
+    status: "found_in_store"
+  954 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/react/16.6.0"
+    status: "found_in_store"
+  955 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regjsgen/0.4.0"
+    status: "resolving_content"
+  956 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/react-lifecycles-compat/3.0.4"
+    status: "found_in_store"
+  957 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/readable-stream/2.3.6"
+    status: "found_in_store"
+  958 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/readdirp/2.2.1"
+    status: "found_in_store"
+  959 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regjsparser/0.3.0"
+    status: "resolving_content"
+  960 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/remove-trailing-separator/1.1.0"
+    status: "resolving_content"
+  961 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/repeat-element/1.1.3"
+    status: "resolving_content"
+  962 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regenerate/1.4.0"
+    status: "found_in_store"
+  963 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regenerator-transform/0.13.3"
+    status: "found_in_store"
+  964 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/repeat-string/1.6.1"
+    status: "resolving_content"
+  965 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regex-not/1.0.2"
+    status: "found_in_store"
+  966 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/require-directory/2.1.1"
+    status: "resolving_content"
+  967 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/require-main-filename/1.0.1"
+    status: "resolving_content"
+  968 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regexpu-core/4.2.0"
+    status: "found_in_store"
+  969 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/requires-port/1.0.0"
+    status: "resolving_content"
+  970 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regjsgen/0.4.0"
+    status: "found_in_store"
+  971 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/resolve-cwd/2.0.0"
+    status: "resolving_content"
+  972 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regjsparser/0.3.0"
+    status: "found_in_store"
+  973 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/remove-trailing-separator/1.1.0"
+    status: "found_in_store"
+  974 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/resolve-from/3.0.0"
+    status: "resolving_content"
+  975 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/resolve-url/0.2.1"
+    status: "resolving_content"
+  976 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/regenerate-unicode-properties/7.0.0"
+    status: "found_in_store"
+  977 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/resolve/1.8.1"
+    status: "resolving_content"
+  978 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/repeat-element/1.1.3"
+    status: "found_in_store"
+  979 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/repeat-string/1.6.1"
+    status: "found_in_store"
+  980 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ret/0.1.15"
+    status: "resolving_content"
+  981 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/rimraf/2.6.2"
+    status: "resolving_content"
+  982 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/require-directory/2.1.1"
+    status: "found_in_store"
+  983 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ripemd160/2.0.2"
+    status: "resolving_content"
+  984 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/require-main-filename/1.0.1"
+    status: "found_in_store"
+  985 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/run-queue/1.0.3"
+    status: "resolving_content"
+  986 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/requires-port/1.0.0"
+    status: "found_in_store"
+  987 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/resolve-cwd/2.0.0"
+    status: "found_in_store"
+  988 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/resolve-from/3.0.0"
+    status: "found_in_store"
+  989 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/safe-buffer/5.1.2"
+    status: "resolving_content"
+  990 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/safe-regex/1.1.0"
+    status: "resolving_content"
+  991 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/resolve-url/0.2.1"
+    status: "found_in_store"
+  992 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/resolve/1.8.1"
+    status: "found_in_store"
+  993 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/safer-buffer/2.1.2"
+    status: "resolving_content"
+  994 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/scheduler/0.10.0"
+    status: "resolving_content"
+  995 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ret/0.1.15"
+    status: "found_in_store"
+  996 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/rimraf/2.6.2"
+    status: "found_in_store"
+  997 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/schema-utils/0.4.7"
+    status: "resolving_content"
+  998 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ripemd160/2.0.2"
+    status: "found_in_store"
+  999 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/run-queue/1.0.3"
+    status: "found_in_store"
+  1000 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/schema-utils/1.0.0"
+    status: "resolving_content"
+  1001 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/select-hose/2.0.0"
+    status: "resolving_content"
+  1002 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/safe-buffer/5.1.2"
+    status: "found_in_store"
+  1003 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/selfsigned/1.10.4"
+    status: "resolving_content"
+  1004 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/safe-regex/1.1.0"
+    status: "found_in_store"
+  1005 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/semver/5.6.0"
+    status: "resolving_content"
+  1006 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/safer-buffer/2.1.2"
+    status: "found_in_store"
+  1007 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/send/0.16.2"
+    status: "resolving_content"
+  1008 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/serialize-javascript/1.5.0"
+    status: "resolving_content"
+  1009 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/serve-index/1.9.1"
+    status: "resolving_content"
+  1010 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/schema-utils/0.4.7"
+    status: "found_in_store"
+  1011 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/scheduler/0.10.0"
+    status: "found_in_store"
+  1012 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/serve-static/1.13.2"
+    status: "resolving_content"
+  1013 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/schema-utils/1.0.0"
+    status: "found_in_store"
+  1014 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/set-blocking/2.0.0"
+    status: "resolving_content"
+  1015 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/set-value/0.4.3"
+    status: "resolving_content"
+  1016 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/select-hose/2.0.0"
+    status: "found_in_store"
+  1017 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/selfsigned/1.10.4"
+    status: "found_in_store"
+  1018 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/set-value/2.0.0"
+    status: "resolving_content"
+  1019 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/semver/5.6.0"
+    status: "found_in_store"
+  1020 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/setimmediate/1.0.5"
+    status: "resolving_content"
+  1021 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/send/0.16.2"
+    status: "found_in_store"
+  1022 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/setprototypeof/1.1.0"
+    status: "resolving_content"
+  1023 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/serve-index/1.9.1"
+    status: "found_in_store"
+  1024 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/serialize-javascript/1.5.0"
+    status: "found_in_store"
+  1025 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/sha.js/2.4.11"
+    status: "resolving_content"
+  1026 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/serve-static/1.13.2"
+    status: "found_in_store"
+  1027 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/shallowequal/1.1.0"
+    status: "resolving_content"
+  1028 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/shebang-command/1.2.0"
+    status: "resolving_content"
+  1029 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/set-blocking/2.0.0"
+    status: "found_in_store"
+  1030 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/shebang-regex/1.0.0"
+    status: "resolving_content"
+  1031 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/set-value/0.4.3"
+    status: "found_in_store"
+  1032 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/signal-exit/3.0.2"
+    status: "resolving_content"
+  1033 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/snapdragon-node/2.1.1"
+    status: "resolving_content"
+  1034 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/set-value/2.0.0"
+    status: "found_in_store"
+  1035 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/setprototypeof/1.1.0"
+    status: "found_in_store"
+  1036 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/snapdragon-util/3.0.1"
+    status: "resolving_content"
+  1037 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/snapdragon/0.8.2"
+    status: "resolving_content"
+  1038 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/sha.js/2.4.11"
+    status: "found_in_store"
+  1039 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/setimmediate/1.0.5"
+    status: "found_in_store"
+  1040 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/sockjs-client/1.3.0"
+    status: "resolving_content"
+  1041 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/shallowequal/1.1.0"
+    status: "found_in_store"
+  1042 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/sockjs/0.3.19"
+    status: "resolving_content"
+  1043 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/shebang-command/1.2.0"
+    status: "found_in_store"
+  1044 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/signal-exit/3.0.2"
+    status: "found_in_store"
+  1045 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/shebang-regex/1.0.0"
+    status: "found_in_store"
+  1046 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-list-map/2.0.1"
+    status: "resolving_content"
+  1047 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/snapdragon-node/2.1.1"
+    status: "found_in_store"
+  1048 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/snapdragon-util/3.0.1"
+    status: "found_in_store"
+  1049 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-map-resolve/0.5.2"
+    status: "resolving_content"
+  1050 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/snapdragon/0.8.2"
+    status: "found_in_store"
+  1051 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-map-url/0.4.0"
+    status: "resolving_content"
+  1052 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-map/0.5.7"
+    status: "resolving_content"
+  1053 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/sockjs-client/1.3.0"
+    status: "found_in_store"
+  1054 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-map/0.6.1"
+    status: "resolving_content"
+  1055 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/sockjs/0.3.19"
+    status: "found_in_store"
+  1056 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/spdy-transport/2.1.0"
+    status: "resolving_content"
+  1057 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/spdy/3.4.7"
+    status: "resolving_content"
+  1058 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-list-map/2.0.1"
+    status: "found_in_store"
+  1059 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/split-string/3.1.0"
+    status: "resolving_content"
+  1060 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-map-resolve/0.5.2"
+    status: "found_in_store"
+  1061 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ssri/5.3.0"
+    status: "resolving_content"
+  1062 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/static-extend/0.1.2"
+    status: "resolving_content"
+  1063 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-map-url/0.4.0"
+    status: "found_in_store"
+  1064 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-map/0.5.7"
+    status: "found_in_store"
+  1065 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/statuses/1.4.0"
+    status: "resolving_content"
+  1066 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/source-map/0.6.1"
+    status: "found_in_store"
+  1067 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/statuses/1.5.0"
+    status: "resolving_content"
+  1068 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/stream-browserify/2.0.1"
+    status: "resolving_content"
+  1069 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/spdy-transport/2.1.0"
+    status: "found_in_store"
+  1070 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/stream-each/1.2.3"
+    status: "resolving_content"
+  1071 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/spdy/3.4.7"
+    status: "found_in_store"
+  1072 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/split-string/3.1.0"
+    status: "found_in_store"
+  1073 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/stream-http/2.8.3"
+    status: "resolving_content"
+  1074 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/static-extend/0.1.2"
+    status: "found_in_store"
+  1075 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/stream-shift/1.0.0"
+    status: "resolving_content"
+  1076 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/statuses/1.4.0"
+    status: "found_in_store"
+  1077 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/ssri/5.3.0"
+    status: "found_in_store"
+  1078 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/statuses/1.5.0"
+    status: "found_in_store"
+  1079 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/string-width/1.0.2"
+    status: "resolving_content"
+  1080 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/string-width/2.1.1"
+    status: "resolving_content"
+  1081 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/stream-browserify/2.0.1"
+    status: "found_in_store"
+  1082 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/string_decoder/1.1.1"
+    status: "resolving_content"
+  1083 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/stream-each/1.2.3"
+    status: "found_in_store"
+  1084 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/strip-ansi/3.0.1"
+    status: "resolving_content"
+  1085 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/stream-http/2.8.3"
+    status: "found_in_store"
+  1086 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/strip-ansi/4.0.0"
+    status: "resolving_content"
+  1087 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/strip-eof/1.0.0"
+    status: "resolving_content"
+  1088 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/stream-shift/1.0.0"
+    status: "found_in_store"
+  1089 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/string-width/1.0.2"
+    status: "found_in_store"
+  1090 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/supports-color/5.5.0"
+    status: "resolving_content"
+  1091 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/tapable/1.1.0"
+    status: "resolving_content"
+  1092 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/string-width/2.1.1"
+    status: "found_in_store"
+  1093 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/through2/2.0.3"
+    status: "resolving_content"
+  1094 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/string_decoder/1.1.1"
+    status: "found_in_store"
+  1095 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/thunky/1.0.3"
+    status: "resolving_content"
+  1096 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/strip-ansi/3.0.1"
+    status: "found_in_store"
+  1097 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/timers-browserify/2.0.10"
+    status: "resolving_content"
+  1098 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/strip-ansi/4.0.0"
+    status: "found_in_store"
+  1099 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-arraybuffer/1.0.1"
+    status: "resolving_content"
+  1100 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/strip-eof/1.0.0"
+    status: "found_in_store"
+  1101 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-fast-properties/2.0.0"
+    status: "resolving_content"
+  1102 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-object-path/0.3.0"
+    status: "resolving_content"
+  1103 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/supports-color/5.5.0"
+    status: "found_in_store"
+  1104 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-regex-range/2.1.1"
+    status: "resolving_content"
+  1105 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/tapable/1.1.0"
+    status: "found_in_store"
+  1106 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-regex/3.0.2"
+    status: "resolving_content"
+  1107 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/trim-right/1.0.1"
+    status: "resolving_content"
+  1108 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/through2/2.0.3"
+    status: "found_in_store"
+  1109 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/thunky/1.0.3"
+    status: "found_in_store"
+  1110 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/tslib/1.9.3"
+    status: "resolving_content"
+  1111 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/timers-browserify/2.0.10"
+    status: "found_in_store"
+  1112 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/tty-browserify/0.0.0"
+    status: "resolving_content"
+  1113 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-arraybuffer/1.0.1"
+    status: "found_in_store"
+  1114 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/type-is/1.6.16"
+    status: "resolving_content"
+  1115 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-fast-properties/2.0.0"
+    status: "found_in_store"
+  1116 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/typedarray/0.0.6"
+    status: "resolving_content"
+  1117 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/uglify-es/3.3.9"
+    status: "resolving_content"
+  1118 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-object-path/0.3.0"
+    status: "found_in_store"
+  1119 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-regex/3.0.2"
+    status: "found_in_store"
+  1120 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/uglifyjs-webpack-plugin/1.3.0"
+    status: "resolving_content"
+  1121 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unicode-canonical-property-names-ecmascript/1.0.4"
+    status: "resolving_content"
+  1122 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/trim-right/1.0.1"
+    status: "found_in_store"
+  1123 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/to-regex-range/2.1.1"
+    status: "found_in_store"
+  1124 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unicode-match-property-ecmascript/1.0.4"
+    status: "resolving_content"
+  1125 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/tslib/1.9.3"
+    status: "found_in_store"
+  1126 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unicode-match-property-value-ecmascript/1.0.2"
+    status: "resolving_content"
+  1127 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/type-is/1.6.16"
+    status: "found_in_store"
+  1128 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/tty-browserify/0.0.0"
+    status: "found_in_store"
+  1129 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unicode-property-aliases-ecmascript/1.0.4"
+    status: "resolving_content"
+  1130 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/typedarray/0.0.6"
+    status: "found_in_store"
+  1131 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/union-value/1.0.0"
+    status: "resolving_content"
+  1132 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/uglify-es/3.3.9"
+    status: "found_in_store"
+  1133 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/uglifyjs-webpack-plugin/1.3.0"
+    status: "found_in_store"
+  1134 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unicode-canonical-property-names-ecmascript/1.0.4"
+    status: "found_in_store"
+  1135 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unicode-match-property-ecmascript/1.0.4"
+    status: "found_in_store"
+  1136 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unique-filename/1.1.1"
+    status: "resolving_content"
+  1137 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unicode-match-property-value-ecmascript/1.0.2"
+    status: "found_in_store"
+  1138 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unicode-property-aliases-ecmascript/1.0.4"
+    status: "found_in_store"
+  1139 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unique-slug/2.0.1"
+    status: "resolving_content"
+  1140 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unpipe/1.0.0"
+    status: "resolving_content"
+  1141 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unset-value/1.0.0"
+    status: "resolving_content"
+  1142 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/upath/1.1.0"
+    status: "resolving_content"
+  1143 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/union-value/1.0.0"
+    status: "found_in_store"
+  1144 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/uri-js/4.2.2"
+    status: "resolving_content"
+  1145 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/urix/0.1.0"
+    status: "resolving_content"
+  1146 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unique-filename/1.1.1"
+    status: "found_in_store"
+  1147 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unique-slug/2.0.1"
+    status: "found_in_store"
+  1148 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/url-parse/1.4.3"
+    status: "resolving_content"
+  1149 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/url/0.11.0"
+    status: "resolving_content"
+  1150 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/use/3.1.1"
+    status: "resolving_content"
+  1151 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unpipe/1.0.0"
+    status: "found_in_store"
+  1152 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/util-deprecate/1.0.2"
+    status: "resolving_content"
+  1153 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/unset-value/1.0.0"
+    status: "found_in_store"
+  1154 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/util.promisify/1.0.0"
+    status: "resolving_content"
+  1155 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/uri-js/4.2.2"
+    status: "found_in_store"
+  1156 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/util/0.10.3"
+    status: "resolving_content"
+  1157 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/upath/1.1.0"
+    status: "found_in_store"
+  1158 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/util/0.10.4"
+    status: "resolving_content"
+  1159 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/urix/0.1.0"
+    status: "found_in_store"
+  1160 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/utils-merge/1.0.1"
+    status: "resolving_content"
+  1161 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/uuid/3.3.2"
+    status: "resolving_content"
+  1162 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/url-parse/1.4.3"
+    status: "found_in_store"
+  1163 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/url/0.11.0"
+    status: "found_in_store"
+  1164 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/use/3.1.1"
+    status: "found_in_store"
+  1165 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/v8-compile-cache/2.0.2"
+    status: "resolving_content"
+  1166 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/util-deprecate/1.0.2"
+    status: "found_in_store"
+  1167 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/vary/1.1.2"
+    status: "resolving_content"
+  1168 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/vm-browserify/0.0.4"
+    status: "resolving_content"
+  1169 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/util.promisify/1.0.0"
+    status: "found_in_store"
+  1170 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/util/0.10.3"
+    status: "found_in_store"
+  1171 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/util/0.10.4"
+    status: "found_in_store"
+  1172 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/watchpack/1.6.0"
+    status: "resolving_content"
+  1173 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/utils-merge/1.0.1"
+    status: "found_in_store"
+  1174 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/wbuf/1.7.3"
+    status: "resolving_content"
+  1175 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-cli/3.1.2"
+    status: "resolving_content"
+  1176 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/uuid/3.3.2"
+    status: "found_in_store"
+  1177 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-dev-middleware/3.4.0"
+    status: "resolving_content"
+  1178 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/v8-compile-cache/2.0.2"
+    status: "found_in_store"
+  1179 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/vary/1.1.2"
+    status: "found_in_store"
+  1180 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-dev-server/3.1.10"
+    status: "resolving_content"
+  1181 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-log/2.0.0"
+    status: "resolving_content"
+  1182 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/vm-browserify/0.0.4"
+    status: "found_in_store"
+  1183 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-sources/1.3.0"
+    status: "resolving_content"
+  1184 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack/4.23.0"
+    status: "resolving_content"
+  1185 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/websocket-driver/0.7.0"
+    status: "resolving_content"
+  1186 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/watchpack/1.6.0"
+    status: "found_in_store"
+  1187 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/websocket-extensions/0.1.3"
+    status: "resolving_content"
+  1188 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/wbuf/1.7.3"
+    status: "found_in_store"
+  1189 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/which-module/2.0.0"
+    status: "resolving_content"
+  1190 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-cli/3.1.2"
+    status: "found_in_store"
+  1191 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-dev-middleware/3.4.0"
+    status: "found_in_store"
+  1192 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/which/1.3.1"
+    status: "resolving_content"
+  1193 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-dev-server/3.1.10"
+    status: "found_in_store"
+  1194 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/worker-farm/1.6.0"
+    status: "resolving_content"
+  1195 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-log/2.0.0"
+    status: "found_in_store"
+  1196 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/wrap-ansi/2.1.0"
+    status: "resolving_content"
+  1197 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack-sources/1.3.0"
+    status: "found_in_store"
+  1198 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/wrappy/1.0.2"
+    status: "resolving_content"
+  1199 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/xregexp/4.0.0"
+    status: "resolving_content"
+  1200 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/xtend/4.0.1"
+    status: "resolving_content"
+  1201 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/websocket-driver/0.7.0"
+    status: "found_in_store"
+  1202 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/y18n/4.0.0"
+    status: "resolving_content"
+  1203 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/websocket-extensions/0.1.3"
+    status: "found_in_store"
+  1204 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/yallist/2.1.2"
+    status: "resolving_content"
+  1205 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/which-module/2.0.0"
+    status: "found_in_store"
+  1206 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/which/1.3.1"
+    status: "found_in_store"
+  1207 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/worker-farm/1.6.0"
+    status: "found_in_store"
+  1208 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/yargs-parser/10.1.0"
+    status: "resolving_content"
+  1209 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/yargs/12.0.2"
+    status: "resolving_content"
+  1210 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/wrap-ansi/2.1.0"
+    status: "found_in_store"
+  1211 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/wrappy/1.0.2"
+    status: "found_in_store"
+  1212 debug pnpm:stats: 
+    added: 607
+    prefix: "D:\\reacteg\\fewmoreconcepts\\eg"
+  1213 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\highlight\\7.0.0\\node_modules\\@babel\\highlight"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\code-frame\\7.0.0\\node_modules\\@babel\\highlight"
+  1214 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\code-frame\\7.0.0\\node_modules\\@babel\\code-frame"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\code-frame"
+  1215 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\generator\\7.1.3\\node_modules\\@babel\\generator"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\generator"
+  1216 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helpers\\7.1.2\\node_modules\\@babel\\helpers"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\helpers"
+  1217 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\parser\\7.1.3\\node_modules\\@babel\\parser"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\parser"
+  1218 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\template\\7.1.2\\node_modules\\@babel\\template"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\template"
+  1219 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\traverse\\7.1.4\\node_modules\\@babel\\traverse"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\traverse"
+  1220 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\types"
+  1221 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\convert-source-map\\1.6.0\\node_modules\\convert-source-map"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\convert-source-map"
+  1222 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\debug\\3.2.6\\node_modules\\debug"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\debug"
+  1223 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\json5\\0.5.1\\node_modules\\json5"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\json5"
+  1224 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\lodash\\4.17.11\\node_modules\\lodash"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\lodash"
+  1225 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\resolve\\1.8.1\\node_modules\\resolve"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\resolve"
+  1226 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\semver\\5.6.0\\node_modules\\semver"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\semver"
+  1227 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\source-map\\0.5.7\\node_modules\\source-map"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\source-map"
+  1228 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\generator\\7.1.3\\node_modules\\@babel\\types"
+  1229 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\jsesc\\2.5.1\\node_modules\\jsesc"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\generator\\7.1.3\\node_modules\\jsesc"
+  1230 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\lodash\\4.17.11\\node_modules\\lodash"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\generator\\7.1.3\\node_modules\\lodash"
+  1231 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\source-map\\0.5.7\\node_modules\\source-map"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\generator\\7.1.3\\node_modules\\source-map"
+  1232 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\trim-right\\1.0.1\\node_modules\\trim-right"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\generator\\7.1.3\\node_modules\\trim-right"
+  1233 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-annotate-as-pure\\7.0.0\\node_modules\\@babel\\types"
+  1234 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-explode-assignable-expression\\7.1.0\\node_modules\\@babel\\helper-explode-assignable-expression"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-builder-binary-assignment-operator-visitor\\7.1.0\\node_modules\\@babel\\helper-explode-assignable-expression"
+  1235 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-builder-binary-assignment-operator-visitor\\7.1.0\\node_modules\\@babel\\types"
+  1236 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-builder-react-jsx\\7.0.0\\node_modules\\@babel\\types"
+  1237 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\esutils\\2.0.2\\node_modules\\esutils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-builder-react-jsx\\7.0.0\\node_modules\\esutils"
+  1238 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-hoist-variables\\7.0.0\\node_modules\\@babel\\helper-hoist-variables"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-call-delegate\\7.1.0\\node_modules\\@babel\\helper-hoist-variables"
+  1239 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\traverse\\7.1.4\\node_modules\\@babel\\traverse"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-call-delegate\\7.1.0\\node_modules\\@babel\\traverse"
+  1240 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-call-delegate\\7.1.0\\node_modules\\@babel\\types"
+  1241 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-function-name\\7.1.0\\node_modules\\@babel\\helper-function-name"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-define-map\\7.1.0\\node_modules\\@babel\\helper-function-name"
+  1242 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-define-map\\7.1.0\\node_modules\\@babel\\types"
+  1243 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\lodash\\4.17.11\\node_modules\\lodash"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-define-map\\7.1.0\\node_modules\\lodash"
+  1244 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\traverse\\7.1.4\\node_modules\\@babel\\traverse"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-explode-assignable-expression\\7.1.0\\node_modules\\@babel\\traverse"
+  1245 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-explode-assignable-expression\\7.1.0\\node_modules\\@babel\\types"
+  1246 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-get-function-arity\\7.0.0\\node_modules\\@babel\\helper-get-function-arity"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-function-name\\7.1.0\\node_modules\\@babel\\helper-get-function-arity"
+  1247 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\template\\7.1.2\\node_modules\\@babel\\template"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-function-name\\7.1.0\\node_modules\\@babel\\template"
+  1248 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-function-name\\7.1.0\\node_modules\\@babel\\types"
+  1249 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-get-function-arity\\7.0.0\\node_modules\\@babel\\types"
+  1250 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-hoist-variables\\7.0.0\\node_modules\\@babel\\types"
+  1251 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-member-expression-to-functions\\7.0.0\\node_modules\\@babel\\types"
+  1252 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-imports\\7.0.0\\node_modules\\@babel\\types"
+  1253 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-imports\\7.0.0\\node_modules\\@babel\\helper-module-imports"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-transforms\\7.1.0\\node_modules\\@babel\\helper-module-imports"
+  1254 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-simple-access\\7.1.0\\node_modules\\@babel\\helper-simple-access"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-transforms\\7.1.0\\node_modules\\@babel\\helper-simple-access"
+  1255 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-split-export-declaration\\7.0.0\\node_modules\\@babel\\helper-split-export-declaration"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-transforms\\7.1.0\\node_modules\\@babel\\helper-split-export-declaration"
+  1256 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\template\\7.1.2\\node_modules\\@babel\\template"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-transforms\\7.1.0\\node_modules\\@babel\\template"
+  1257 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-transforms\\7.1.0\\node_modules\\@babel\\types"
+  1258 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\lodash\\4.17.11\\node_modules\\lodash"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-transforms\\7.1.0\\node_modules\\lodash"
+  1259 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-optimise-call-expression\\7.0.0\\node_modules\\@babel\\types"
+  1260 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/xregexp/4.0.0"
+    status: "found_in_store"
+  1261 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/xtend/4.0.1"
+    status: "found_in_store"
+  1262 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\code-frame\\7.0.0\\node_modules\\@babel\\code-frame"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\code-frame\\7.0.0\\node_modules\\@babel\\code-frame"
+    method: "hardlink"
+  1263 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\core"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\core"
+    method: "hardlink"
+  1264 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\generator\\7.1.3\\node_modules\\@babel\\generator"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\generator\\7.1.3\\node_modules\\@babel\\generator"
+    method: "hardlink"
+  1265 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-builder-binary-assignment-operator-visitor\\7.1.0\\node_modules\\@babel\\helper-builder-binary-assignment-operator-visitor"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-builder-binary-assignment-operator-visitor\\7.1.0\\node_modules\\@babel\\helper-builder-binary-assignment-operator-visitor"
+    method: "hardlink"
+  1266 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-annotate-as-pure\\7.0.0\\node_modules\\@babel\\helper-annotate-as-pure"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-annotate-as-pure\\7.0.0\\node_modules\\@babel\\helper-annotate-as-pure"
+    method: "hardlink"
+  1267 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-builder-react-jsx\\7.0.0\\node_modules\\@babel\\helper-builder-react-jsx"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-builder-react-jsx\\7.0.0\\node_modules\\@babel\\helper-builder-react-jsx"
+    method: "hardlink"
+  1268 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-define-map\\7.1.0\\node_modules\\@babel\\helper-define-map"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-define-map\\7.1.0\\node_modules\\@babel\\helper-define-map"
+    method: "hardlink"
+  1269 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-call-delegate\\7.1.0\\node_modules\\@babel\\helper-call-delegate"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-call-delegate\\7.1.0\\node_modules\\@babel\\helper-call-delegate"
+    method: "hardlink"
+  1270 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-explode-assignable-expression\\7.1.0\\node_modules\\@babel\\helper-explode-assignable-expression"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-explode-assignable-expression\\7.1.0\\node_modules\\@babel\\helper-explode-assignable-expression"
+    method: "hardlink"
+  1271 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-function-name\\7.1.0\\node_modules\\@babel\\helper-function-name"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-function-name\\7.1.0\\node_modules\\@babel\\helper-function-name"
+    method: "hardlink"
+  1272 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-get-function-arity\\7.0.0\\node_modules\\@babel\\helper-get-function-arity"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-get-function-arity\\7.0.0\\node_modules\\@babel\\helper-get-function-arity"
+    method: "hardlink"
+  1273 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-member-expression-to-functions\\7.0.0\\node_modules\\@babel\\helper-member-expression-to-functions"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-member-expression-to-functions\\7.0.0\\node_modules\\@babel\\helper-member-expression-to-functions"
+    method: "hardlink"
+  1274 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-module-imports\\7.0.0\\node_modules\\@babel\\helper-module-imports"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-imports\\7.0.0\\node_modules\\@babel\\helper-module-imports"
+    method: "hardlink"
+  1275 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-module-transforms\\7.1.0\\node_modules\\@babel\\helper-module-transforms"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-module-transforms\\7.1.0\\node_modules\\@babel\\helper-module-transforms"
+    method: "hardlink"
+  1276 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-hoist-variables\\7.0.0\\node_modules\\@babel\\helper-hoist-variables"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-hoist-variables\\7.0.0\\node_modules\\@babel\\helper-hoist-variables"
+    method: "hardlink"
+  1277 debug pnpm:importing: 
+    from: "D:\\.pnpm-store\\2\\registry.npmjs.org\\@babel\\helper-optimise-call-expression\\7.0.0\\node_modules\\@babel\\helper-optimise-call-expression"
+    to: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-optimise-call-expression\\7.0.0\\node_modules\\@babel\\helper-optimise-call-expression"
+    method: "hardlink"
+  1278 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\lodash\\4.17.11\\node_modules\\lodash"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-regex\\7.0.0\\node_modules\\lodash"
+  1279 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-annotate-as-pure\\7.0.0\\node_modules\\@babel\\helper-annotate-as-pure"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-remap-async-to-generator\\7.1.0\\node_modules\\@babel\\helper-annotate-as-pure"
+  1280 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-wrap-function\\7.1.0\\node_modules\\@babel\\helper-wrap-function"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-remap-async-to-generator\\7.1.0\\node_modules\\@babel\\helper-wrap-function"
+  1281 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\template\\7.1.2\\node_modules\\@babel\\template"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-remap-async-to-generator\\7.1.0\\node_modules\\@babel\\template"
+  1282 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\traverse\\7.1.4\\node_modules\\@babel\\traverse"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-remap-async-to-generator\\7.1.0\\node_modules\\@babel\\traverse"
+  1283 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-remap-async-to-generator\\7.1.0\\node_modules\\@babel\\types"
+  1284 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-member-expression-to-functions\\7.0.0\\node_modules\\@babel\\helper-member-expression-to-functions"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-replace-supers\\7.1.0\\node_modules\\@babel\\helper-member-expression-to-functions"
+  1285 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-optimise-call-expression\\7.0.0\\node_modules\\@babel\\helper-optimise-call-expression"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-replace-supers\\7.1.0\\node_modules\\@babel\\helper-optimise-call-expression"
+  1286 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\traverse\\7.1.4\\node_modules\\@babel\\traverse"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-replace-supers\\7.1.0\\node_modules\\@babel\\traverse"
+  1287 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-replace-supers\\7.1.0\\node_modules\\@babel\\types"
+  1288 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\template\\7.1.2\\node_modules\\@babel\\template"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-simple-access\\7.1.0\\node_modules\\@babel\\template"
+  1289 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-simple-access\\7.1.0\\node_modules\\@babel\\types"
+  1290 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-split-export-declaration\\7.0.0\\node_modules\\@babel\\types"
+  1291 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-function-name\\7.1.0\\node_modules\\@babel\\helper-function-name"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-wrap-function\\7.1.0\\node_modules\\@babel\\helper-function-name"
+  1292 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\template\\7.1.2\\node_modules\\@babel\\template"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-wrap-function\\7.1.0\\node_modules\\@babel\\template"
+  1293 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\traverse\\7.1.4\\node_modules\\@babel\\traverse"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-wrap-function\\7.1.0\\node_modules\\@babel\\traverse"
+  1294 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-wrap-function\\7.1.0\\node_modules\\@babel\\types"
+  1295 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\template\\7.1.2\\node_modules\\@babel\\template"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helpers\\7.1.2\\node_modules\\@babel\\template"
+  1296 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\traverse\\7.1.4\\node_modules\\@babel\\traverse"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helpers\\7.1.2\\node_modules\\@babel\\traverse"
+  1297 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\types\\7.1.3\\node_modules\\@babel\\types"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helpers\\7.1.2\\node_modules\\@babel\\types"
+  1298 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\chalk\\2.4.1\\node_modules\\chalk"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\highlight\\7.0.0\\node_modules\\chalk"
+  1299 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\esutils\\2.0.2\\node_modules\\esutils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\highlight\\7.0.0\\node_modules\\esutils"
+  1300 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\js-tokens\\4.0.0\\node_modules\\js-tokens"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\highlight\\7.0.0\\node_modules\\js-tokens"
+  1301 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-plugin-utils\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-async-generator-functions\\7.1.0\\node_modules\\@babel\\helper-plugin-utils"
+  1302 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-remap-async-to-generator\\7.1.0\\node_modules\\@babel\\helper-remap-async-to-generator"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-async-generator-functions\\7.1.0\\node_modules\\@babel\\helper-remap-async-to-generator"
+  1303 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-syntax-async-generators\\7.0.0\\node_modules\\@babel\\plugin-syntax-async-generators"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-async-generator-functions\\7.1.0\\node_modules\\@babel\\plugin-syntax-async-generators"
+  1304 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-plugin-utils\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-json-strings\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+  1305 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-syntax-json-strings\\7.0.0\\node_modules\\@babel\\plugin-syntax-json-strings"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-json-strings\\7.0.0\\node_modules\\@babel\\plugin-syntax-json-strings"
+  1306 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-plugin-utils\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-object-rest-spread\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+  1307 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-syntax-object-rest-spread\\7.0.0\\node_modules\\@babel\\plugin-syntax-object-rest-spread"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-object-rest-spread\\7.0.0\\node_modules\\@babel\\plugin-syntax-object-rest-spread"
+  1308 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-plugin-utils\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-optional-catch-binding\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+  1309 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-syntax-optional-catch-binding\\7.0.0\\node_modules\\@babel\\plugin-syntax-optional-catch-binding"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-optional-catch-binding\\7.0.0\\node_modules\\@babel\\plugin-syntax-optional-catch-binding"
+  1310 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-plugin-utils\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-unicode-property-regex\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+  1311 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-regex\\7.0.0\\node_modules\\@babel\\helper-regex"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-unicode-property-regex\\7.0.0\\node_modules\\@babel\\helper-regex"
+  1312 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\regexpu-core\\4.2.0\\node_modules\\regexpu-core"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-proposal-unicode-property-regex\\7.0.0\\node_modules\\regexpu-core"
+  1313 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-plugin-utils\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-syntax-async-generators\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+  1314 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-plugin-utils\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-syntax-json-strings\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+  1315 debug pnpm:link: 
+    target: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\helper-plugin-utils\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+    link: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\plugin-syntax-jsx\\7.0.0\\node_modules\\@babel\\helper-plugin-utils"
+  1316 debug pnpm:progress: 
+    pkgId: "registry.npmjs.org/webpack/4.23.0"
+    status: "found_in_store"
+  1317 error pnpm: 
+    message: 
+      errno: -4094
+      code: "UNKNOWN"
+      syscall: "readlink"
+      path: "D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\code-frame"
+    err: 
+      name: "Error"
+      message: "UNKNOWN: unknown error, readlink 'D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\code-frame'"
+      code: "UNKNOWN"
+      stack: "Error: UNKNOWN: unknown error, readlink 'D:\\reacteg\\fewmoreconcepts\\eg\\node_modules\\.registry.npmjs.org\\@babel\\core\\7.1.2\\node_modules\\@babel\\code-frame'"

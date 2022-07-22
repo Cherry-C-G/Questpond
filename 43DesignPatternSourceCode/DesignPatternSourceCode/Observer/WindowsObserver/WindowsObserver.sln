@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observers", "Observers\Observers.csproj", "{9A4C3E99-2AC5-43D1-8215-16B796DA3AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleObServerClient", "ConsoleObServer\ConsoleObServerClient.csproj", "{63B9DAC0-C013-44E0-92C0-218E99829B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4C3E99-2AC5-43D1-8215-16B796DA3AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4C3E99-2AC5-43D1-8215-16B796DA3AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4C3E99-2AC5-43D1-8215-16B796DA3AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4C3E99-2AC5-43D1-8215-16B796DA3AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B9DAC0-C013-44E0-92C0-218E99829B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B9DAC0-C013-44E0-92C0-218E99829B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B9DAC0-C013-44E0-92C0-218E99829B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B9DAC0-C013-44E0-92C0-218E99829B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

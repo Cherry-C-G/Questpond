@@ -1,0 +1,5 @@
+E:\LINQtoSQLStoredProc\LINQtoSQLStoredProc\bin\LINQtoSQLStoredProc.dll
+E:\LINQtoSQLStoredProc\LINQtoSQLStoredProc\bin\LINQtoSQLStoredProc.pdb
+E:\LINQtoSQLStoredProc\LINQtoSQLStoredProc\obj\Debug\ResolveAssemblyReference.cache
+E:\LINQtoSQLStoredProc\LINQtoSQLStoredProc\obj\Debug\LINQtoSQLStoredProc.dll
+E:\LINQtoSQLStoredProc\LINQtoSQLStoredProc\obj\Debug\LINQtoSQLStoredProc.pdb

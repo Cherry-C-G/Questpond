@@ -1,0 +1,117 @@
+﻿<div class="container">
+    <div style="border-style: dotted;" print-section>
+        <div style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px">
+            <h3><span class="label label-info">All Order Details</span></h3>
+            <div class="clearfix"></div>
+
+            <div class="form-group">
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                    Total Amount
+        <input id="TotalAmount" value="{{TotalAmount}}" style="background-color: #f9f9f9; color: black;" ng-readonly="true" class="form-control" name="TotalLightCost" type="text" />
+                </div>
+
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                    Booking No
+        <input id="BookingNo" value="{{BookingNo}}" style="background-color: #f9f9f9; color: black;" ng-readonly="true" class="form-control" name="TotalLightCost" type="text" />
+
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                    Booking Date
+        <input id="BookingDate" value="{{BookingDate}}" style="background-color: #f9f9f9; color: black;" ng-readonly="true" class="form-control" name="TotalLightCost" type="text" />
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <h3><span class="label label-default">All Venues</span></h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>VenueName</th>
+                        <th>Venue Cost</th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="List in TotalVenueList">
+                    <tr>
+                        <td>{{List.VenueName}}</td>
+                        <td>{{List.VenueCost}}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3><span class="label label-default">All Lighting</span></h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Light Name</th>
+                        <th>Light View</th>
+                        <th>Light Cost</th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="List in TotalLightList">
+                    <tr>
+                        <td>{{List.LightName}}</td>
+
+                        <td>{{List.LightType==="1"?"InDoor" : "OutDoor"}}</td>
+                        <td>{{List.LightCost}}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3><span class="label label-default">All Equipments</span></h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Equipment Name</th>
+                        <th>Equipment Cost</th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="List in TotalEquipmentList">
+                    <tr>
+                        <td>{{List.EquipmentName}}</td>
+                        <td>{{List.EquipmentCost}}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3><span class="label label-default">All Food Items</span></h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Food Name</th>
+                        <th>Food Type</th>
+                        <th>Meal Type</th>
+                        <th>Dish Type</th>
+                        <th>Food Cost</th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="List in TotalFoodList">
+                    <tr>
+                        <td>{{List.FoodName}}</td>
+                        <td>{{List.FoodType==="1"?"Veg" : "Non-Veg"}}</td>
+                        <td>{{List.MealType==="1"?"Lunch" : "Dinner"}}</td>
+                        <td>{{List.DishType==="1"?"Deluxe" : "Regular"}}</td>
+                        <td>{{List.FoodCost}}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3><span class="label label-default">All Flower</span></h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Flower Name</th>
+                        <th>Flower Cost</th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="List in TotalFlowerList">
+                    <tr>
+                        <td>{{List.FlowerName}}</td>
+                        <td>{{List.FlowerCost}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div print-remove class="form-group">
+        <button print-btn>Print Div</button>
+    </div>
+</div>

@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\ButtonProject\bin\Debug\ButtonProject.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\ButtonProject\bin\Debug\ButtonProject.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\ButtonProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\ButtonProject\obj\Debug\ButtonProject.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\ButtonProject\obj\Debug\ButtonProject.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\ButtonProject\bin\Debug\InterfaceUI.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\ButtonProject\bin\Debug\InterfaceUI.pdb

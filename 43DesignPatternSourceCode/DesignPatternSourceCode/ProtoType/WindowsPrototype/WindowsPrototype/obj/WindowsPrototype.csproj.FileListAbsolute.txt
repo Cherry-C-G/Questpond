@@ -1,0 +1,10 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\bin\Debug\WindowsPrototype.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\bin\Debug\WindowsPrototype.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\obj\Debug\WindowsPrototype.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\obj\Debug\WindowsPrototype.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\obj\Debug\WindowsPrototype.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\obj\Debug\WindowsPrototype.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\bin\Debug\ProtoType.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\bin\Debug\ProtoType.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ProtoType\WindowsPrototype\WindowsPrototype\obj\Debug\WindowsPrototype.Form1.resources

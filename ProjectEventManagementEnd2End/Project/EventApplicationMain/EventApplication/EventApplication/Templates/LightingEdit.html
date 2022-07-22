@@ -1,0 +1,35 @@
+﻿<form novalidate name="form1">
+    <div class="col-xs-offset-0 col-xs-4">
+          <h3><span class="label label-info">Edit Lightings </span></h3>
+        <div class="form-group">
+            Light Type
+            <input name="LightType" id="FoodType1" value="1" ng-model="Light.LightType" required  type="radio" /> IN Door
+            <input name="LightType" id="FoodType2" value="2" ng-model="Light.LightType"  required type="radio" /> Out Door
+            <span style="color: red" ng-show="form1.LightType.$error.required && submitted">Select Light Type</span>
+        </div>
+        <div class="form-group">
+            Light Name
+            <input id="LightName" class="form-control" ng-model="Light.LightName" required name="LightName" type="text" />
+            <span style="color: red" ng-show="form1.LightName.$error.required && submitted">Enter Light Name </span>
+        </div>
+        <div class="form-group">
+            Lighting Cost
+            <input id="LightCost" class="form-control" ng-model="Light.LightCost" required name="LightCost" type="number" min="0" />
+            <span style="color: red" ng-show="form1.LightCost.$error.required && submitted">Enter Lighting Cost </span>
+        </div>
+        <div class="form-group">
+            <div class="controls">
+                <input type="file" name="file" accept="image/*" onchange="angular.element(this).scope().selectFileforUpload(this.files)" required />
+                 <img alt="" width="200px" height="200px" ng-src="{{('../UploadedFiles/'+ Light.LightFilePath)}}" />
+                <span style="color: red" ng-show="(form1.file.$dirty || IsFormSubmitted) && form1.file.$error.required">Image required!</span>
+                <span style="color: red">{{FileInvalidMessage}}</span>
+            </div>
+        </div>
+        <div class="form-actions">
+            <input type="submit" class="btn btn-success" ng-disabled="form1.$invalid" ng-click="Updatelight(Light);submitted=true" value="Update" />
+        </div>
+        <div class="form-actions">
+            <a href="#/AllLighting">Show All Light</a>
+        </div>
+    </div>
+</form>

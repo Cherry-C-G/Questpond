@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\MVCCoreMayTraining\PatientModel\bin\Debug\netcoreapp3.1\PatientModel.deps.json
+C:\Users\Dell\source\repos\MVCCoreMayTraining\PatientModel\bin\Debug\netcoreapp3.1\PatientModel.dll
+C:\Users\Dell\source\repos\MVCCoreMayTraining\PatientModel\bin\Debug\netcoreapp3.1\PatientModel.pdb
+C:\Users\Dell\source\repos\MVCCoreMayTraining\PatientModel\obj\Debug\netcoreapp3.1\PatientModel.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MVCCoreMayTraining\PatientModel\obj\Debug\netcoreapp3.1\PatientModel.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MVCCoreMayTraining\PatientModel\obj\Debug\netcoreapp3.1\PatientModel.dll
+C:\Users\Dell\source\repos\MVCCoreMayTraining\PatientModel\obj\Debug\netcoreapp3.1\PatientModel.pdb

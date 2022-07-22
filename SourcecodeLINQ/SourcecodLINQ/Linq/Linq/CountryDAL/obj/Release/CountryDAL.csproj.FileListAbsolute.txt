@@ -1,0 +1,7 @@
+D:\Linq\Linq\CountryDAL\bin\Release\CountryDAL.dll
+D:\Linq\Linq\CountryDAL\bin\Release\CountryDAL.pdb
+D:\Linq\Linq\CountryDAL\obj\Release\ResolveAssemblyReference.cache
+D:\Linq\Linq\CountryDAL\obj\Release\CountryDAL.dll
+D:\Linq\Linq\CountryDAL\obj\Release\CountryDAL.pdb
+D:\Linq\Linq\CountryDAL\bin\Release\CountryEntity.dll
+D:\Linq\Linq\CountryDAL\bin\Release\CountryEntity.pdb

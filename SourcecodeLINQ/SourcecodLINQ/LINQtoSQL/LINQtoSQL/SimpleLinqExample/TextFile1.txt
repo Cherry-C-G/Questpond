@@ -1,0 +1,3 @@
+﻿=== Add using System.Data.Linq.Mapping; namespace
+=== For entity set we need to refer using System.Data.Linq;
+=== When you define relationships you need to define primary key in both the entity classes

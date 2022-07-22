@@ -1,0 +1,29 @@
+﻿<div class="container">
+      <h3><span class="label label-info">All Venues</span></h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>VenueName</th>
+                <th>Venue Cost</th>
+                <th>Venue View</th>
+
+                <th>Edit Venue</th>
+                <th>Delete Venue</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="List in VenueList">
+            <tr>
+                <td>{{List.VenueName}}</td>
+                <td>{{List.VenueCost}}</td>
+                <td>
+                    <img alt="" width="200px" height="200px" ng-src="{{('../UploadedFiles/'+ List.VenueFilePath)}}" /></td>
+
+                <td>
+                    <input id="btnEdit" type="button" ng-click="EditVenue(List)" value="Edit" /></td>
+                <td>
+                    <input id="btndelete" type="button" ng-click="deleteVenue(List.VenueID)" value="Delete" /></td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>

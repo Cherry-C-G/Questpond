@@ -1,0 +1,15 @@
+E:\SimpleLinqExample\SimpleLinqExample\bin\SimpleLinqExample.dll
+E:\SimpleLinqExample\SimpleLinqExample\bin\SimpleLinqExample.pdb
+E:\SimpleLinqExample\SimpleLinqExample\obj\Debug\ResolveAssemblyReference.cache
+E:\SimpleLinqExample\SimpleLinqExample\obj\Debug\SimpleLinqExample.dll
+E:\SimpleLinqExample\SimpleLinqExample\obj\Debug\SimpleLinqExample.pdb
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\New Folder\SimpleLinqExample\bin\SimpleLinqExample.dll
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\New Folder\SimpleLinqExample\bin\SimpleLinqExample.pdb
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\New Folder\SimpleLinqExample\obj\Debug\ResolveAssemblyReference.cache
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\New Folder\SimpleLinqExample\obj\Debug\SimpleLinqExample.dll
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\New Folder\SimpleLinqExample\obj\Debug\SimpleLinqExample.pdb
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\LINQtoSQL\SimpleLinqExample\bin\SimpleLinqExample.dll
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\LINQtoSQL\SimpleLinqExample\bin\SimpleLinqExample.pdb
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\LINQtoSQL\SimpleLinqExample\obj\Debug\ResolveAssemblyReference.cache
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\LINQtoSQL\SimpleLinqExample\obj\Debug\SimpleLinqExample.dll
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\LINQtoSQL\SimpleLinqExample\obj\Debug\SimpleLinqExample.pdb

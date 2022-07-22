@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\TextProject\bin\Debug\TextProject.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\TextProject\bin\Debug\TextProject.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\TextProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\TextProject\obj\Debug\TextProject.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\TextProject\obj\Debug\TextProject.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\TextProject\bin\Debug\InterfaceUI.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\AbstractFactory\ConsoleAbstractClient\TextProject\bin\Debug\InterfaceUI.pdb

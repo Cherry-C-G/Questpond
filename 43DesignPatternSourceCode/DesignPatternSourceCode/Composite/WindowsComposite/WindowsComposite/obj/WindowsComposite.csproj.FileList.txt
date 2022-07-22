@@ -1,0 +1,7 @@
+obj\Debug\WindowsComposite.exe
+obj\Debug\WindowsComposite.pdb
+bin\Debug\WindowsComposite.exe
+bin\Debug\WindowsComposite.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsComposite.Properties.Resources.resources
+obj\Debug\WindowsComposite.csproj.GenerateResource.Cache

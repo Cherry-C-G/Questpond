@@ -1,0 +1,10 @@
+
+public class clsInvoiceWithOutHeader implements IInvoice {
+
+	@Override
+	public void print() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

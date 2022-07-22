@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Composite\WindowsComposite\WindowsComposite\bin\Debug\WindowsComposite.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Composite\WindowsComposite\WindowsComposite\bin\Debug\WindowsComposite.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Composite\WindowsComposite\WindowsComposite\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Composite\WindowsComposite\WindowsComposite\obj\Debug\WindowsComposite.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Composite\WindowsComposite\WindowsComposite\obj\Debug\WindowsComposite.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Composite\WindowsComposite\WindowsComposite\obj\Debug\WindowsComposite.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Composite\WindowsComposite\WindowsComposite\obj\Debug\WindowsComposite.pdb

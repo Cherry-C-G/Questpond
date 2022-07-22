@@ -1,0 +1,40 @@
+﻿<div data-ng-init="init()">
+    <form novalidate name="form1">
+
+        <h3><span class="label label-info">Book Status</span></h3>
+        <div style="clear: both;"></div>
+        <table tr-ng-grid="" selected-items="mySelectedItems" page-items="4" items="myItems" fields="['BookingNo','BookingDate', 'BookingApproval' ,'BookingApprovalDate']"
+            selection-mode="SingleRow">
+            <thead>
+                <tr>
+                    <th field-name="BookingNo" display-align="BookingNo"></th>
+                    <th field-name="BookingDate" enable-sorting="BookingDate"></th>
+                    <th field-name="BookingApproval" enable-sorting="BookingApproval"></th>
+                    <th field-name="BookingApprovalDate" enable-sorting="BookingApprovalDate"></th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <div>
+                            <button class="btn btn-default" ng-click="alertOnSelectionChange(gridDisplayItem.BookingNo)">
+                                Print Recepit
+                            </button>
+
+                        </div>
+                    </td>
+
+                    <td>
+                        <div>
+                            <button class="btn btn-default" ng-click="DisplayOrderDetails(gridDisplayItem.BookingNo)">
+                                Show Order
+                            </button>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+    </form>
+</div>

@@ -1,0 +1,5 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BuilderPattern\BuilderPatternClient\Report\bin\Debug\Report.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BuilderPattern\BuilderPatternClient\Report\bin\Debug\Report.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BuilderPattern\BuilderPatternClient\Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BuilderPattern\BuilderPatternClient\Report\obj\Debug\Report.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BuilderPattern\BuilderPatternClient\Report\obj\Debug\Report.pdb

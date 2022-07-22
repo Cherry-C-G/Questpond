@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Decorator\WindowsDecorator\WindowsDecorator\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Decorator\WindowsDecorator\WindowsDecorator\obj\Debug\WindowsDecorator.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Decorator\WindowsDecorator\WindowsDecorator\obj\Debug\WindowsDecorator.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Decorator\WindowsDecorator\WindowsDecorator\bin\Debug\WindowsDecorator.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Decorator\WindowsDecorator\WindowsDecorator\bin\Debug\WindowsDecorator.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Decorator\WindowsDecorator\WindowsDecorator\obj\Debug\WindowsDecorator.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Decorator\WindowsDecorator\WindowsDecorator\obj\Debug\WindowsDecorator.pdb

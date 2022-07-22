@@ -1,0 +1,8 @@
+obj\Debug\WindowsIterator.exe
+obj\Debug\WindowsIterator.pdb
+bin\Debug\WindowsIterator.exe
+bin\Debug\WindowsIterator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsIterator.frmCustomer.resources
+obj\Debug\WindowsIterator.Properties.Resources.resources
+obj\Debug\WindowsIterator.csproj.GenerateResource.Cache

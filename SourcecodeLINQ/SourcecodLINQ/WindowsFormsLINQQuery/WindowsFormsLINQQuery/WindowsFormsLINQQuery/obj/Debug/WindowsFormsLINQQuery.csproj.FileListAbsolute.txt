@@ -1,0 +1,8 @@
+D:\WindowsFormsLINQQuery\WindowsFormsLINQQuery\bin\Debug\WindowsFormsLINQQuery.exe
+D:\WindowsFormsLINQQuery\WindowsFormsLINQQuery\bin\Debug\WindowsFormsLINQQuery.pdb
+D:\WindowsFormsLINQQuery\WindowsFormsLINQQuery\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsFormsLINQQuery\WindowsFormsLINQQuery\obj\Debug\WindowsFormsLINQQuery.frmLINQQuery.resources
+D:\WindowsFormsLINQQuery\WindowsFormsLINQQuery\obj\Debug\WindowsFormsLINQQuery.Properties.Resources.resources
+D:\WindowsFormsLINQQuery\WindowsFormsLINQQuery\obj\Debug\WindowsFormsLINQQuery.csproj.GenerateResource.Cache
+D:\WindowsFormsLINQQuery\WindowsFormsLINQQuery\obj\Debug\WindowsFormsLINQQuery.exe
+D:\WindowsFormsLINQQuery\WindowsFormsLINQQuery\obj\Debug\WindowsFormsLINQQuery.pdb

@@ -1,0 +1,5 @@
+bin\Debug\Visitor.dll
+bin\Debug\Visitor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Visitor.dll
+obj\Debug\Visitor.pdb

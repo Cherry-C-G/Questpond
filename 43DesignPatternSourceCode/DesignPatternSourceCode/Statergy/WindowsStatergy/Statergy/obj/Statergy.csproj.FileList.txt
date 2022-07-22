@@ -1,0 +1,5 @@
+bin\Debug\Statergy.dll
+bin\Debug\Statergy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Statergy.dll
+obj\Debug\Statergy.pdb

@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Proxy Pattern\WindowsProxyPattern\WindowsProxyPattern\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Proxy Pattern\WindowsProxyPattern\WindowsProxyPattern\obj\Debug\WindowsProxyPattern.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Proxy Pattern\WindowsProxyPattern\WindowsProxyPattern\obj\Debug\WindowsProxyPattern.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Proxy Pattern\WindowsProxyPattern\WindowsProxyPattern\bin\Debug\WindowsProxyPattern.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Proxy Pattern\WindowsProxyPattern\WindowsProxyPattern\bin\Debug\WindowsProxyPattern.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Proxy Pattern\WindowsProxyPattern\WindowsProxyPattern\obj\Debug\WindowsProxyPattern.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Proxy Pattern\WindowsProxyPattern\WindowsProxyPattern\obj\Debug\WindowsProxyPattern.pdb

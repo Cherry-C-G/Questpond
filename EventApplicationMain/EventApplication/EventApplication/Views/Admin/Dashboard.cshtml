@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div ng-app="VenueModule">
+    <link href="~/Content/loading-bar.css" rel="stylesheet" />
+    <div ng-view></div>
+   @System.Web.Optimization.Scripts.Render("~/bundles/AdminNgbundle")
+</div>

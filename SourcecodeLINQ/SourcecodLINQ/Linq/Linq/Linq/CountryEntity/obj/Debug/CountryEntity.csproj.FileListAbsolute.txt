@@ -1,0 +1,5 @@
+D:\Linq\Linq\CountryEntity\bin\Debug\CountryEntity.dll
+D:\Linq\Linq\CountryEntity\bin\Debug\CountryEntity.pdb
+D:\Linq\Linq\CountryEntity\obj\Debug\ResolveAssemblyReference.cache
+D:\Linq\Linq\CountryEntity\obj\Debug\CountryEntity.dll
+D:\Linq\Linq\CountryEntity\obj\Debug\CountryEntity.pdb

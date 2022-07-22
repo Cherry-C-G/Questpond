@@ -1,0 +1,77 @@
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.exe
+E:\MS\MS1\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csprojAssemblyReference.cache
+E:\MS\MS1\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.AssemblyInfoInputs.cache
+E:\MS\MS1\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.AssemblyInfo.cs
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\MS\MS1\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csproj.CopyComplete
+E:\MS\MS1\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csproj.CoreCompileInputs.cache
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csprojAssemblyReference.cache
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.AssemblyInfoInputs.cache
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.AssemblyInfo.cs
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csproj.CoreCompileInputs.cache
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.exe
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.deps.json
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.runtimeconfig.json
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.runtimeconfig.dev.json
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.pdb
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csproj.CopyComplete
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.dll
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.pdb
+E:\MS\MS1 - Copy\MS1Project\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.genruntimeconfig.cache

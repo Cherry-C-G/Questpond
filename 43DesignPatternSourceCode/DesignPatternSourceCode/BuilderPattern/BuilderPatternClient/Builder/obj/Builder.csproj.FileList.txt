@@ -1,0 +1,7 @@
+bin\Debug\Builder.dll
+bin\Debug\Builder.pdb
+bin\Debug\Report.dll
+bin\Debug\Report.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Builder.dll
+obj\Debug\Builder.pdb

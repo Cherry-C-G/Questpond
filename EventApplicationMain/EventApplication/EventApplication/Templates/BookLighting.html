@@ -1,0 +1,53 @@
+﻿<form novalidate name="form1">
+    <div class="col-xs-offset-0 col-xs-4">
+        <h3><span class="label label-info">Book Lighting</span></h3>
+        <div class="form-group">
+            Light Type
+            <input name="LightType" id="FoodType1" ng-change="ShowLightService(Light.LightType)" value="1" ng-model="Light.LightType" required type="radio" />
+            IN Door
+            <input name="LightType" id="FoodType2" ng-change="ShowLightService(Light.LightType)" value="2" ng-model="Light.LightType" required type="radio" />
+            Out Door
+            <span style="color: red" ng-show="form1.LightType.$error.required && submitted">Select Light Type</span>
+        </div>
+        <div class="form-group">
+            <div ng-repeat="Light in LightingList">
+                <input type="checkbox" value="{{Light.LightID}}" ng-model="Light.checked" />
+                <label>{{Light.LightName}}</label>
+            </div>
+            <br />
+            <input type="button" id="btnClick" class="btn btn-success" value="Next" ng-click="SaveLight(Light,LightingList)" />
+            <input type="button" class="btn btn-success" ng-click="Cancel();" value="Cancel" />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="bg">
+            <div class="mainimageshell">
+                <div class="viewwindow">
+                    <ul id="fullscroller" class="fullsizelist" ng-style="listposition">
+                        <li ng-repeat="image in LightingList">
+                            <h4><span class="label label-warning">{{image.LightName||Uppercase}} || Cost :- {{image.LightCost||Uppercase}}</span></h4>
+                            <img id="fullsize" class="large" ng-src="{{IMAGE_LOCATION+image.LightFilePath}}" />
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+            <div class="thumbsshell">
+                <div class="thumbswrapper">
+                    <ul>
+                        <li ng-repeat="image in LightingList">
+                            <div class="thumbwrapper">
+                                <a ng-href="" ng-click="scrollTo(image,$index)">
+                                    <img class="thumbnail" ng-src="{{IMAGE_LOCATION+image.LightFilePath}}" />
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>
+

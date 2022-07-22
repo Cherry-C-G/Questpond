@@ -1,0 +1,16 @@
+D:\Linq\Linq\Linq\bin\Release\Linq.exe
+D:\Linq\Linq\Linq\bin\Release\Linq.pdb
+D:\Linq\Linq\Linq\obj\Release\ResolveAssemblyReference.cache
+D:\Linq\Linq\Linq\obj\Release\Linq.Properties.Resources.resources
+D:\Linq\Linq\Linq\obj\Release\Linq.csproj.GenerateResource.Cache
+D:\Linq\Linq\Linq\obj\Release\Linq.exe
+D:\Linq\Linq\Linq\obj\Release\Linq.pdb
+D:\Linq\Linq\Linq\obj\Release\Linq.FormLinq.resources
+D:\Linq\Linq\Linq\bin\Release\CountryBO.dll
+D:\Linq\Linq\Linq\bin\Release\CountryEntity.dll
+D:\Linq\Linq\Linq\bin\Release\CountryDAL.dll
+D:\Linq\Linq\Linq\bin\Release\CountryBO.pdb
+D:\Linq\Linq\Linq\bin\Release\CountryDAL.pdb
+D:\Linq\Linq\Linq\bin\Release\CountryEntity.pdb
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\Linq\Linq\obj\Release\Linq.exe
+E:\shivprasad data\WCFWPFWWFLINQ\LINQ\Sourcecode for LINQ\Linq\Linq\obj\Release\Linq.pdb

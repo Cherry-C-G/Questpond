@@ -1,0 +1,10 @@
+obj\Debug\WindowsStatergy.exe
+obj\Debug\WindowsStatergy.pdb
+bin\Debug\WindowsStatergy.exe
+bin\Debug\WindowsStatergy.pdb
+bin\Debug\Statergy.dll
+bin\Debug\Statergy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsStatergy.Form1.resources
+obj\Debug\WindowsStatergy.Properties.Resources.resources
+obj\Debug\WindowsStatergy.csproj.GenerateResource.Cache

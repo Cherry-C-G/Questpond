@@ -1,0 +1,4 @@
+﻿<module name="myXmlConfigurationModule">
+  <bind service="CQRSArchitecture.ICommandHandler, CQRSArchitecture"
+        to="CQRSArchitecture.CustomerCreateHandler, CQRSArchitecture" />
+</module>

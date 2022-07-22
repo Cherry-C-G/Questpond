@@ -1,0 +1,2 @@
+obj\Debug\WindowsAdapter.exe
+obj\Debug\WindowsAdapter.pdb

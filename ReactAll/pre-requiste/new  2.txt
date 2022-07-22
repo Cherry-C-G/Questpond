@@ -1,0 +1,85 @@
+Module 1: Revisiting Python
+ Data types
+ Sequences
+ Mapping types
+ Program structure
+ Files and console I/O
+ Conditionals
+ Loops
+ Builtins
+Module 2: OS Services
+ The os module
+ Environment variables
+ Launching external commands
+ Walking directory trees
+ Paths, directories, and filenames
+ Working with file systems
+ Dates and times
+Module 4: Modules and Packages
+ Initialization code
+ Namespaces
+ Executing modules as scripts
+ Documentation
+ Packages and name resolution
+ Naming conventions
+ Using imports
+Module 3: Classes
+ Defining classes
+ Instance methods and data
+ Initializers
+ Class methods
+ Static methods
+ Inheritance
+ Multiple inheritance
+ Pseudo-private variable
+
+Database access
+ The DB API
+ Available Interfaces
+ Connecting to a server
+ Creating and executing a cursor
+ Fetching data
+ Parameterized statements
+ Metadata
+ Transaction control
+
+Pandas and Numpy
+Full coverage on same
+
+XML and JSON
+ Working with XML
+ DOM and SAX
+ Introducing ElementTree
+ Parsing XML
+ Navigating the document
+ Creating a new XML document
+ JSON
+ Parsing JSON into Python
+ Converting Python into JSON
+
+Following specific to finance only from tech perspective
+
+Regression and application
+The capital asset pricing model and the security market line
+The Arbitrage Pricing Theory model
+Multivariate linear regression of factor models 
+Linear optimization 29
+
+A simple linear optimization problem 
+Outcomes of linear programs
+Solving linear equations using matrices
+The LU decomposition
+The Cholesky decomposition 
+The QR decomposition 
+
+
+Nonlinearity modeling
+An introduction to root-finding
+Incremental search 
+The bisection method
+Newton's method 
+Combining root-finding methods
+
+Numerical methods
+Interest rates and derivatives
+Voltailiy 

@@ -1,0 +1,184 @@
+﻿body {
+
+    font-family: Helvetica,Arial;
+
+    font-size: 10pt;
+ 
+    color:#666;
+
+}
+
+
+li {
+
+    list-style:none;
+
+    display:inline-block;
+
+}
+
+
+ul{
+
+    padding:0;
+
+    margin:0;
+
+    white-space:nowrap;
+
+}
+
+
+.thumbnail {
+
+    height:65px;
+
+    padding:3px;
+
+}
+
+
+.large {
+
+    width:405px;
+
+}
+
+
+.mainimageshell {
+
+    background-color:#fff;
+
+    border-radius:8px;
+
+    float:left;
+
+    width:400px;
+
+    padding:10px;
+
+}
+
+
+.viewwindow {
+
+    width:400px;
+
+    height:307px;
+
+    overflow-x: hidden;
+
+    position:relative;
+
+}
+
+
+.fullsizelist{
+
+    position:absolute;
+
+    top:0;
+
+    left:0;
+
+    transition:  left .8s ease;
+
+    -ms-transition:  left .8s ease;
+
+    -o-transition:  left .8s ease;
+
+    -webkit-transition:  left .8s ease;
+
+    -moz-transition:  left .8s ease;
+
+}
+
+
+.bg {
+
+    background-color:#333;
+
+    padding:10px;
+
+    border-radius:8px;
+
+    float:right;
+
+}
+
+    
+
+
+.thumbsshell {
+
+    background-color:#fff;
+
+    width:400px;
+
+    padding:10px;
+
+    border-radius:8px;
+
+    float:left;
+
+}
+
+
+.thumbswrapper {
+
+    overflow-x: scroll;
+
+    width:371px;
+
+    height:100px;
+
+    margin:20px auto;
+
+}
+
+
+.thumbwrapper {
+
+    float:left;
+
+    height:60px;
+
+}
+
+
+.captionshell {
+
+    margin:0 0 10px 5px;
+
+    background-color:#fff;
+
+    width:175px;
+
+    height:324px;
+
+    padding:0 10px;
+
+    border-radius:8px;
+
+    float:left;
+
+}
+
+
+.logoshell {
+
+    margin:0 0 0 5px;
+
+    text-align:center;
+
+    background-color:#fff;
+
+    width:175px;
+
+    padding:9px 10px;
+
+    border-radius:8px;
+
+    float:left;
+
+}

@@ -1,0 +1,10 @@
+D:\MVPSample\MVPStockSample\IStockView\obj\Debug\ResolveAssemblyReference.cache
+D:\MVPSample\MVPStockSample\IStockView\bin\Debug\IStockView.dll
+D:\MVPSample\MVPStockSample\IStockView\bin\Debug\IStockView.pdb
+D:\MVPSample\MVPStockSample\IStockView\obj\Debug\IStockView.dll
+D:\MVPSample\MVPStockSample\IStockView\obj\Debug\IStockView.pdb
+D:\MVPStockSample\IStockView\bin\Debug\IStockView.dll
+D:\MVPStockSample\IStockView\bin\Debug\IStockView.pdb
+D:\MVPStockSample\IStockView\obj\Debug\ResolveAssemblyReference.cache
+D:\MVPStockSample\IStockView\obj\Debug\IStockView.dll
+D:\MVPStockSample\IStockView\obj\Debug\IStockView.pdb

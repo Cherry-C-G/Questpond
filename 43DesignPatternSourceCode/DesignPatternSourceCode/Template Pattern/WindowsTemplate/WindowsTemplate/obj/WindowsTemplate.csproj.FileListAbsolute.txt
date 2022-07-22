@@ -1,0 +1,5 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Template Pattern\WindowsTemplate\WindowsTemplate\bin\Debug\WindowsTemplate.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Template Pattern\WindowsTemplate\WindowsTemplate\bin\Debug\WindowsTemplate.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Template Pattern\WindowsTemplate\WindowsTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Template Pattern\WindowsTemplate\WindowsTemplate\obj\Debug\WindowsTemplate.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Template Pattern\WindowsTemplate\WindowsTemplate\obj\Debug\WindowsTemplate.pdb

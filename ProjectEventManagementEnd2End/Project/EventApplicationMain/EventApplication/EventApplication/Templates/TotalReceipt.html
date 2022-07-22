@@ -1,0 +1,43 @@
+﻿<form novalidate name="form1">
+    <div>
+        <div style="border-style: dotted;" class="col-xs-offset-0 col-xs-4" print-section>
+            <h3 style="text-align:center"><span class="label label-info">Receipt</span></h3>
+            <div class="form-group">
+                BookingNo
+            <input id="Text7" ng-readonly="true" class="form-control" ng-model="BookingNo" name="BookingNo" type="text" />
+            </div>
+            <div class="form-group">
+                Booking Date
+            <input id="Text6" ng-readonly="true" class="form-control" ng-model="BookingDate" name="BookingDate" type="text" />
+            </div>
+            <div class="form-group">
+                Total Venue Cost
+            <input id="VenueCost" ng-readonly="true" class="form-control" ng-model="TotalVenueCost" name="TotalVenueCost" type="text" />
+            </div>
+            <div class="form-group">
+                Total Equipments Cost
+            <input id="Text1" ng-readonly="true" class="form-control" ng-model="TotalEquipmentCost" name="TotalEquipmentCost" type="text" />
+            </div>
+            <div class="form-group">
+                Total Foods Cost
+            <input id="Text2" ng-readonly="true" class="form-control" ng-model="TotalFoodCost" name="TotalFoodCost" type="text" />
+            </div>
+            <div class="form-group">
+                Total Flowers Cost
+            <input id="Text3" ng-readonly="true" class="form-control" ng-model="TotalFlowerCost" name="TotalFlowerCost" type="text" />
+            </div>
+            <div class="form-group">
+                Total Lightings Cost
+            <input id="Text4" ng-readonly="true" class="form-control" ng-model="TotalLightCost" name="TotalLightCost" type="text" />
+            </div>
+            <div class="form-group">
+                Total Amount :-
+            <input id="Text5" ng-model="TotalAmount" style="background-color: #666; color: #FFF;" ng-readonly="true" class="form-control" name="TotalLightCost" type="text" />
+            </div>
+            <div print-remove class="form-group">
+                <button print-btn>Print Div</button>
+            </div>
+        </div>
+
+    </div>
+</form>

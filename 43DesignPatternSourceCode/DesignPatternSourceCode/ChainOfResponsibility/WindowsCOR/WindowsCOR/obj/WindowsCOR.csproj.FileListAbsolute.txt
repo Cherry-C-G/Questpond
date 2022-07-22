@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ChainOfResponsibility\WindowsCOR\WindowsCOR\bin\Debug\WindowsCOR.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ChainOfResponsibility\WindowsCOR\WindowsCOR\bin\Debug\WindowsCOR.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ChainOfResponsibility\WindowsCOR\WindowsCOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ChainOfResponsibility\WindowsCOR\WindowsCOR\obj\Debug\WindowsCOR.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ChainOfResponsibility\WindowsCOR\WindowsCOR\obj\Debug\WindowsCOR.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ChainOfResponsibility\WindowsCOR\WindowsCOR\obj\Debug\WindowsCOR.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\ChainOfResponsibility\WindowsCOR\WindowsCOR\obj\Debug\WindowsCOR.pdb

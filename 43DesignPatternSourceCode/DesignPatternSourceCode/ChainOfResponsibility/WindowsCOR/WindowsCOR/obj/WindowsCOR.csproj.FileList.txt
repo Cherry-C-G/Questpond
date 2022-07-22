@@ -1,0 +1,7 @@
+obj\Debug\WindowsCOR.exe
+obj\Debug\WindowsCOR.pdb
+bin\Debug\WindowsCOR.exe
+bin\Debug\WindowsCOR.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsCOR.Properties.Resources.resources
+obj\Debug\WindowsCOR.csproj.GenerateResource.Cache

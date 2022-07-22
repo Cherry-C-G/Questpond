@@ -1,0 +1,8 @@
+obj\Debug\WindowsMemento.exe
+obj\Debug\WindowsMemento.pdb
+bin\Debug\WindowsMemento.exe
+bin\Debug\WindowsMemento.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsMemento.frmMemento.resources
+obj\Debug\WindowsMemento.Properties.Resources.resources
+obj\Debug\WindowsMemento.csproj.GenerateResource.Cache

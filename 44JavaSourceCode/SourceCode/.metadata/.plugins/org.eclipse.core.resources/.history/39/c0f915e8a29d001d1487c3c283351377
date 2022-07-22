@@ -1,0 +1,12 @@
+package PackageClient;
+public class clsInvoiceClient {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+
+	}
+
+}

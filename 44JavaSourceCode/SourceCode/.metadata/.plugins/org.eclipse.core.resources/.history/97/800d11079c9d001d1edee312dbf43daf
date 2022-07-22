@@ -1,0 +1,13 @@
+package Invoice;
+import IInvoice;
+
+
+public class clsInvoiceWithOutHeader implements IInvoice 
+{
+	public void print() 
+	{
+		
+
+	}
+
+}

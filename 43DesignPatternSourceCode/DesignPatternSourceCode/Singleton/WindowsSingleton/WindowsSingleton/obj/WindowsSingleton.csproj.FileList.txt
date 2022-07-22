@@ -1,0 +1,8 @@
+obj\Debug\WindowsSingleton.exe
+obj\Debug\WindowsSingleton.pdb
+bin\Debug\WindowsSingleton.exe
+bin\Debug\WindowsSingleton.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsSingleton.Form1.resources
+obj\Debug\WindowsSingleton.Properties.Resources.resources
+obj\Debug\WindowsSingleton.csproj.GenerateResource.Cache

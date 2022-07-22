@@ -1,0 +1,26 @@
+E:\MS\MS1\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.exe
+E:\MS\MS1\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.deps.json
+E:\MS\MS1\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.runtimeconfig.json
+E:\MS\MS1\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.runtimeconfig.dev.json
+E:\MS\MS1\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+E:\MS\MS1\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.pdb
+E:\MS\MS1\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.csprojAssemblyReference.cache
+E:\MS\MS1\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.AssemblyInfoInputs.cache
+E:\MS\MS1\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.AssemblyInfo.cs
+E:\MS\MS1\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.csproj.CoreCompileInputs.cache
+E:\MS\MS1\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.dll
+E:\MS\MS1\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.pdb
+E:\MS\MS1\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.genruntimeconfig.cache
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.exe
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.deps.json
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.runtimeconfig.json
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.runtimeconfig.dev.json
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetQ.pdb
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.csprojAssemblyReference.cache
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.AssemblyInfoInputs.cache
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.AssemblyInfo.cs
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.csproj.CoreCompileInputs.cache
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.dll
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.pdb
+E:\MS\MS1 - Copy\MS1Project\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetQ.genruntimeconfig.cache

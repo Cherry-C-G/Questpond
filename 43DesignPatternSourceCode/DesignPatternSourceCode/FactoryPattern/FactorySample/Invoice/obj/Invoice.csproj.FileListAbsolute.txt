@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\Invoice\bin\Debug\Invoice.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\Invoice\bin\Debug\Invoice.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\Invoice\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\Invoice\obj\Debug\Invoice.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\Invoice\obj\Debug\Invoice.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\Invoice\bin\Debug\InvoiceInterface.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FactoryPattern\FactorySample\Invoice\bin\Debug\InvoiceInterface.pdb

@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Observer\WindowsObserver\ConsoleObServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Observer\WindowsObserver\ConsoleObServer\bin\Debug\ConsoleObServer.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Observer\WindowsObserver\ConsoleObServer\bin\Debug\ConsoleObServer.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Observer\WindowsObserver\ConsoleObServer\bin\Debug\Observers.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Observer\WindowsObserver\ConsoleObServer\bin\Debug\Observers.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Observer\WindowsObserver\ConsoleObServer\obj\Debug\ConsoleObServer.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Observer\WindowsObserver\ConsoleObServer\obj\Debug\ConsoleObServer.pdb

@@ -1,0 +1,26 @@
+E:\MS\MS1\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.exe
+E:\MS\MS1\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.deps.json
+E:\MS\MS1\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.runtimeconfig.json
+E:\MS\MS1\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.runtimeconfig.dev.json
+E:\MS\MS1\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.dll
+E:\MS\MS1\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.pdb
+E:\MS\MS1\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.csprojAssemblyReference.cache
+E:\MS\MS1\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.AssemblyInfoInputs.cache
+E:\MS\MS1\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.AssemblyInfo.cs
+E:\MS\MS1\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.csproj.CoreCompileInputs.cache
+E:\MS\MS1\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.dll
+E:\MS\MS1\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.pdb
+E:\MS\MS1\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.genruntimeconfig.cache
+E:\MS\MS1 - Copy\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.exe
+E:\MS\MS1 - Copy\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.deps.json
+E:\MS\MS1 - Copy\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.runtimeconfig.json
+E:\MS\MS1 - Copy\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.runtimeconfig.dev.json
+E:\MS\MS1 - Copy\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.dll
+E:\MS\MS1 - Copy\MS1Project\MassTransit\bin\Debug\netcoreapp3.1\MassTransit.pdb
+E:\MS\MS1 - Copy\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.csprojAssemblyReference.cache
+E:\MS\MS1 - Copy\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.AssemblyInfoInputs.cache
+E:\MS\MS1 - Copy\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.AssemblyInfo.cs
+E:\MS\MS1 - Copy\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.csproj.CoreCompileInputs.cache
+E:\MS\MS1 - Copy\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.dll
+E:\MS\MS1 - Copy\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.pdb
+E:\MS\MS1 - Copy\MS1Project\MassTransit\obj\Debug\netcoreapp3.1\MassTransit.genruntimeconfig.cache

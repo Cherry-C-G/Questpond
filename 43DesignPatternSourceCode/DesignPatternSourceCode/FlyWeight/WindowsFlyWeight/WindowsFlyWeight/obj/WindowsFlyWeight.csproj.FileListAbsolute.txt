@@ -1,0 +1,8 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FlyWeight\WindowsFlyWeight\WindowsFlyWeight\bin\Debug\WindowsFlyWeight.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FlyWeight\WindowsFlyWeight\WindowsFlyWeight\bin\Debug\WindowsFlyWeight.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FlyWeight\WindowsFlyWeight\WindowsFlyWeight\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FlyWeight\WindowsFlyWeight\WindowsFlyWeight\obj\Debug\WindowsFlyWeight.Form1.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FlyWeight\WindowsFlyWeight\WindowsFlyWeight\obj\Debug\WindowsFlyWeight.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FlyWeight\WindowsFlyWeight\WindowsFlyWeight\obj\Debug\WindowsFlyWeight.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FlyWeight\WindowsFlyWeight\WindowsFlyWeight\obj\Debug\WindowsFlyWeight.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\FlyWeight\WindowsFlyWeight\WindowsFlyWeight\obj\Debug\WindowsFlyWeight.pdb

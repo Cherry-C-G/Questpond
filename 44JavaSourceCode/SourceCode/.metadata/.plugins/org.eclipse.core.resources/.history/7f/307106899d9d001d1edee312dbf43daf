@@ -1,0 +1,19 @@
+package Invoice;
+import InterFaceInvoice.*;
+
+public class clsFactoryInvoice 
+{
+static public IInvoice getInvoice(int intInvoice)
+{
+	IInvoice objInv=null;
+	if(intInvoice==1)
+	{
+		objInv = new clsInvoiceWithHeader();
+	}
+	if(intInvoice==2)
+	{
+		objInv = new clsInvoiceWithOutHeader();
+	}
+	return objInv;
+}
+}

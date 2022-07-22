@@ -1,0 +1,7 @@
+bin\Debug\ConsoleObServer.exe
+bin\Debug\ConsoleObServer.pdb
+bin\Debug\Observers.dll
+bin\Debug\Observers.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleObServer.exe
+obj\Debug\ConsoleObServer.pdb

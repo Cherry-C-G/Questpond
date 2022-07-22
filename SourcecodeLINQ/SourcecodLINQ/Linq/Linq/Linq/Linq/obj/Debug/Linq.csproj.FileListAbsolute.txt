@@ -1,0 +1,14 @@
+D:\Linq\Linq\Linq\bin\Debug\Linq.exe
+D:\Linq\Linq\Linq\bin\Debug\Linq.pdb
+D:\Linq\Linq\Linq\bin\Debug\CountryBO.dll
+D:\Linq\Linq\Linq\bin\Debug\CountryEntity.dll
+D:\Linq\Linq\Linq\bin\Debug\CountryDAL.dll
+D:\Linq\Linq\Linq\bin\Debug\CountryBO.pdb
+D:\Linq\Linq\Linq\bin\Debug\CountryDAL.pdb
+D:\Linq\Linq\Linq\bin\Debug\CountryEntity.pdb
+D:\Linq\Linq\Linq\obj\Debug\ResolveAssemblyReference.cache
+D:\Linq\Linq\Linq\obj\Debug\Linq.FormLinq.resources
+D:\Linq\Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+D:\Linq\Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.Cache
+D:\Linq\Linq\Linq\obj\Debug\Linq.exe
+D:\Linq\Linq\Linq\obj\Debug\Linq.pdb

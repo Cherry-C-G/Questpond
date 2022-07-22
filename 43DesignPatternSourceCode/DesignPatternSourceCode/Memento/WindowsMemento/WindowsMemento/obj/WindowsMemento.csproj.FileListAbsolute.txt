@@ -1,0 +1,8 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Memento\WindowsMemento\WindowsMemento\bin\Debug\WindowsMemento.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Memento\WindowsMemento\WindowsMemento\bin\Debug\WindowsMemento.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Memento\WindowsMemento\WindowsMemento\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Memento\WindowsMemento\WindowsMemento\obj\Debug\WindowsMemento.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Memento\WindowsMemento\WindowsMemento\obj\Debug\WindowsMemento.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Memento\WindowsMemento\WindowsMemento\obj\Debug\WindowsMemento.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Memento\WindowsMemento\WindowsMemento\obj\Debug\WindowsMemento.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Memento\WindowsMemento\WindowsMemento\obj\Debug\WindowsMemento.frmMemento.resources

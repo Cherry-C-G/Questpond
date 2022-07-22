@@ -1,0 +1,13 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\bin\Release\netcoreapp3.1\RegexPatterns.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\bin\Release\netcoreapp3.1\RegexPatterns.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\bin\Release\netcoreapp3.1\RegexPatterns.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\bin\Release\netcoreapp3.1\RegexPatterns.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\bin\Release\netcoreapp3.1\RegexPatterns.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\bin\Release\netcoreapp3.1\RegexPatterns.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\obj\Release\netcoreapp3.1\RegexPatterns.csprojAssemblyReference.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\obj\Release\netcoreapp3.1\RegexPatterns.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\obj\Release\netcoreapp3.1\RegexPatterns.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\obj\Release\netcoreapp3.1\RegexPatterns.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\obj\Release\netcoreapp3.1\RegexPatterns.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\obj\Release\netcoreapp3.1\RegexPatterns.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\RegexPatterns\obj\Release\netcoreapp3.1\RegexPatterns.genruntimeconfig.cache

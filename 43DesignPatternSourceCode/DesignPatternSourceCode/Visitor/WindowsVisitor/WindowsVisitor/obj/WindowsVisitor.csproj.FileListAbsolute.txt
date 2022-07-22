@@ -1,0 +1,10 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\bin\Debug\WindowsVisitor.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\bin\Debug\WindowsVisitor.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\obj\Debug\WindowsVisitor.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\obj\Debug\WindowsVisitor.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\obj\Debug\WindowsVisitor.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\obj\Debug\WindowsVisitor.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\obj\Debug\WindowsVisitor.Form1.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\bin\Debug\Visitor.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\WindowsVisitor\bin\Debug\Visitor.pdb

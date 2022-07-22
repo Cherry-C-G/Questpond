@@ -1,0 +1,16 @@
+
+public class clsFactoryInvoice 
+{
+static public IInvoice getInvoice(int intInvoice)
+{
+	IInvoice objInv;
+	if(intInvoice==1)
+	{
+		objInv = new clsInvoiceWithHeader();
+	}
+	if(intInvoice==2)
+	{
+		
+	}
+}
+}

@@ -1,0 +1,7 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BridgePattern\WindowsBridge\WindowsBridge\bin\Debug\WindowsBridge.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BridgePattern\WindowsBridge\WindowsBridge\bin\Debug\WindowsBridge.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BridgePattern\WindowsBridge\WindowsBridge\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BridgePattern\WindowsBridge\WindowsBridge\obj\Debug\WindowsBridge.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BridgePattern\WindowsBridge\WindowsBridge\obj\Debug\WindowsBridge.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BridgePattern\WindowsBridge\WindowsBridge\obj\Debug\WindowsBridge.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\BridgePattern\WindowsBridge\WindowsBridge\obj\Debug\WindowsBridge.pdb

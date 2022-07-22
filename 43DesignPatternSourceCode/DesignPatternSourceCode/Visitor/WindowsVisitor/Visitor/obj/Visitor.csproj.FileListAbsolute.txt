@@ -1,0 +1,5 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\Visitor\bin\Debug\Visitor.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\Visitor\bin\Debug\Visitor.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\Visitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\Visitor\obj\Debug\Visitor.dll
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Visitor\WindowsVisitor\Visitor\obj\Debug\Visitor.pdb

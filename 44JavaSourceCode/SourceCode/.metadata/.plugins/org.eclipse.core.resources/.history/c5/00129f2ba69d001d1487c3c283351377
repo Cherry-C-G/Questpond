@@ -1,0 +1,24 @@
+package PackageClient;
+import InterFaceInvoice.*;
+import Invoice.*;
+public class clsInvoiceClient {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	{
+	 try 
+	 { 
+		    int intInvoiceType  = System.in.read (); 
+		 
+	 }
+	 catch (Exception e)
+	 {
+		  
+	 } 
+
+
+	}
+
+}

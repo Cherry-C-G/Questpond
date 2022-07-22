@@ -1,0 +1,12 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.exe
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.dev.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csproj.CoreCompileInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.genruntimeconfig.cache

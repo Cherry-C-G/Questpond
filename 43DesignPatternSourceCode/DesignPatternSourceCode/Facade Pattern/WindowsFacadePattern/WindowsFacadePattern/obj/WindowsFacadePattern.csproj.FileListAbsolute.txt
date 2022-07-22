@@ -1,0 +1,8 @@
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Facade Pattern\WindowsFacadePattern\WindowsFacadePattern\obj\Debug\ResolveAssemblyReference.cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Facade Pattern\WindowsFacadePattern\WindowsFacadePattern\obj\Debug\WindowsFacadePattern.Form1.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Facade Pattern\WindowsFacadePattern\WindowsFacadePattern\obj\Debug\WindowsFacadePattern.Properties.Resources.resources
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Facade Pattern\WindowsFacadePattern\WindowsFacadePattern\obj\Debug\WindowsFacadePattern.csproj.GenerateResource.Cache
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Facade Pattern\WindowsFacadePattern\WindowsFacadePattern\bin\Debug\WindowsFacadePattern.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Facade Pattern\WindowsFacadePattern\WindowsFacadePattern\bin\Debug\WindowsFacadePattern.pdb
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Facade Pattern\WindowsFacadePattern\WindowsFacadePattern\obj\Debug\WindowsFacadePattern.exe
+C:\Shivprasad Data\shivprasad data\Software Architecture Interview Questions\CD\Facade Pattern\WindowsFacadePattern\WindowsFacadePattern\obj\Debug\WindowsFacadePattern.pdb

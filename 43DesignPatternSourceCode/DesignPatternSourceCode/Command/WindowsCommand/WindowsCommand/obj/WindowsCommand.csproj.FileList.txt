@@ -1,0 +1,2 @@
+obj\Debug\WindowsCommand.exe
+obj\Debug\WindowsCommand.pdb

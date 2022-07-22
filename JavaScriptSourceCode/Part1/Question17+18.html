@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         function SimpleFunction(){
+             var x =0;
+             x++;
+         }
+         SimpleFunction();
+         SimpleFunction();
+         function ClosureFunction(){
+            var x;
+            function Increment(){
+                x++;
+            }
+            function GetXValue(){
+                return x;
+            }
+            function Init(){
+                x=0;
+            }
+            Init();
+            return {
+                Increment,
+                GetXValue
+            }
+         }
+         
+         var ref = ClosureFunction();
+         ref.Increment();
+         ref.Increment();
+         alert(ref.GetXValue());
+         ref.Init();
+    </script>
+</body>
+</html>

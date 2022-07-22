@@ -1,0 +1,8 @@
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\SomeCommonLogic\bin\Debug\netcoreapp3.1\SomeCommonLogic.deps.json
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\SomeCommonLogic\bin\Debug\netcoreapp3.1\SomeCommonLogic.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\SomeCommonLogic\bin\Debug\netcoreapp3.1\SomeCommonLogic.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.AssemblyInfoInputs.cache
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.AssemblyInfo.cs
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.dll
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.pdb
+E:\shivprasad data\Learncsharpstepbystep\Source Code\Lab1\MySolution\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.csprojAssemblyReference.cache
